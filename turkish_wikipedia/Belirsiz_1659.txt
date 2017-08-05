@@ -1,0 +1,197 @@
+Belirsiz ,  matematikte  tanımı olmayan ifadelere denir.  Tanımsız ifadeler  olarak da geçer. Bir ifadenin belirsiz olması için tanımlanamaması veya birden çok cevabı olması gerekir. Bu ifadeler şunlardır:
+
+0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle 0^{0}} 
+ 
+  için  
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle 0^{0}} 
+ 
+ =x diyelim. Her iki taraftan ln alırsak ln 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle 0^{0}} 
+ 
+  = lnx olur. ln özelliğinden 0.ln0=lnx olur. Burada yine 0’ı baz alırsak x=1 olur. ln0’ı baz alırsak ln0 tanımsız olduğundan lnx tanımsız, x ise belirsiz olur.
+
+Örneğin;
+
+Bu durumda  
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle 0^{0}} 
+ 
+ 'ın (sıfır üzeri sıfırın) ne olduğuna [0 (sıfır) mı, yoksa 1 (bir) mi olduğuna] karar verilemez. Bu sebeple  
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle 0^{0}} 
+ 
+  (sıfır üzeri sıfır) belirsizdir. Yani değeri belirli değildir. Daha doğrusu 0 (sıfır) hiçliği, yokluğu temsil ettiğinden yokluğun yokuncu kuvvetinin de ne olduğu belirlenememektedir.
+
+Bir sayının sıfırıncı üssü birdir ve alt alta gelince 1'inci kuvvetle bölünür.
+
+Örnek;  
+ 
+ 
+ 
+ 3 
+ × 
+ 3 
+ = 
+ 9 
+ = 
+ 
+ 3 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ {\displaystyle 3\times 3=9=3^{2}} 
+ 
+  olmaktadır ve eğer bir alt kuvvete gelinirse 3/3=1 olmaktadır.
+
+Sonsuzda denersek
+
+Önceki örnekteki gibi 0'ıncı üs her zaman 1'dir ama Sonsuzda belirsizdir çünkü Sonsuz/Sonsuz=belirsizdir.
+
+Bir sayının her üssü muhakkak sonsuza ulaşmak zorundadır ve 1'in her üssü 1'dir. Fakat Sonsuz X 0'ın kurallarına bakılınca 1 üzeri sonsuzun hangisi olduğu belirlenemez ve bu nedenle 1 üzeri sonsuz belirsizdir.
+
+-Sonsuz artı sonsuz belirsiz olduğu için sonsuz artı -sonsuzda belirsizdir.
+
+Bunun için şöyle bir doğru çizelim ve;
+
+-Sonsuz ile + sonsuz arası 0 oldu.
+
+- sonsuza 1 ekleyince -sonsuz ile + sonsuz arası 1 olur ve aynı şekilde de devam edince 2,3,4 kısaca her sayı aralarında kalabilir ve bu nedenle de -sonsuzun + sonsuz ile toplamı belirsizdir.
+
+Sonsuz çarpı sıfır belirsiz olduğu için sıfır çarpı sonsuz da belirsizdir.
+
+Bunu anlamak için bir sadeleştirme örneği verelim;
+
+0 
+ 
+ 1 
+ 
+ 
+ {\displaystyle 0 \over 1} 
+ 
+  kesrini sadeleştirelim ve  
+ 
+ 
+ 
+ 
+ 1 
+ 
+ ∞ 
+ 
+ 
+ {\displaystyle 1 \over \infty } 
+ 
+  kesrini bulalım
+
+0 
+ × 
+ ∞ 
+ 
+ 
+ 1 
+ × 
+ ∞ 
+ 
+ 
+ 
+ {\displaystyle 0\times \infty  \over 1\times \infty } 
+ 
+  olunca 0'ın 1'e dönüşmesi gerektiği an 1'in sonsuza dönüşmesi gerekir. Yukardaki 2 kesir denk olduğu için Sonsuz çarpı sıfır belirsizdir.
+
+Bunu anlamak için  sonsuzla  ilgili bir örnek verelim. Sayı doğrusunda 0 ile 1 arasında sonsuz  reel sayı  varken 0 ile 2 arasında da sonsuz adet reel sayı vardır. Bu iki sonsuz eşit değildir. Bunun için sonsuz bölü sonsuz veya sonsuz-sonsuz belirsizdir.
+
+Başka bir örnek,  boyutları  1 cm × 1 cm olan bir kâğıtla  
+ 
+ 
+ 
+ 100 
+ × 
+ 100 
+ 
+ 
+ {\displaystyle 100\times 100} 
+ 
+  cm² olan bir kâğıttaki nokta sayısı olup her ikisi de sonsuzdur.
+
+Herhangi bir sayıyı kendisine bölündüğünde sonuç genellikle 1 olur. 0 (sıfır), 0 (sıfır) dışındaki herhangi bir sayıya bölündüğünde ise sonuç sıfırdır. Fakat 0 bölü 0 ne sıfır, ne de 1'dir. Bunun böyle olduğu bölme işleminin tanımından anlaşılır; bölme işlemi, bir sayıdan başka bir sayıyı 0 kalana kadar kaç kere çıkarmak gerektiğini tespit eder. 0 bölü 0'dan sonsuza kadar 0 çıkarılsa hep kendisi kalır. Bu durumda işlemin sonucunu sonsuz denebilir. Ama her 0 çıkartıldığında 0 kaldığından hiçbir şey çıkarılamaz. Yani işlemin sonucu 0 da denebilir ve açık bir çelişki oluşur.
+
+Bu işlemin sonucuna 1 denecek olsa bütün sayıların 0'a eşit olduğu,  
+ 
+ 
+ 
+ 2 
+ + 
+ 2 
+ 
+ 
+ {\displaystyle 2+2} 
+ 
+ 'nin 4 olduğunu ve her şeyin yok olduğu ispatlanabilir.
+
+0'dan farklı bir a sayısı için a/0 tanımsızdır. Açıklaması: a/0 = x olsun. Bölü sıfırı karşı tarafa çarpı sıfır olarak alırsak; a = x . 0 olur. Şimdi burada x yerine bir sayı koyalım ki 0 ile çarpınca a gibi bir sayı olsun. Ancak böyle bir sayı bulamayız. Böyle bir sayı tanımlanmadığı için sayı bölü sıfır tanımsızdır.
+
+0/0 ifadesi ise belirsizdir. Onu da şöyle açıklayalım: Yine 0/0 = x gibi düşünelim ve bölü 0'ı karşıya çarpı sıfır olarak alırsak; 0 = x . 0 olur. Şimdi burada x yerine bir sayı koyalım ki 0 ile çarpılınca sonuç 0 olsun. Görülmektedir ki x yerine herhangi bir sayı yazılabilir. Doğal olarak x yerine yazacağım sayı tanımlıdır ama hangisini yazılacağı belirli değildir. Sonuç olarak sıfır bölü sıfır ifadesi tanımsız değil, belirsizdir.
+
+Herhangi bir sayıyı sonsuza bölmeden önce 1'i başka sayılara bölünürse aşağıda görüldüğü gibi bölen sayı büyüdükçe sayı küçülür, yani 0'a yaklaşır. Eğer bölen sonsuz olursa sonuç 0 olur. Sadece 1'i değil, bütün sayıları aslında  bir  sayı olmayan sonsuza bölünürse sonuç 0 olur. Yani  
+ 
+ 
+ 
+ ∞ 
+ × 
+ 0 
+ 
+ 
+ {\displaystyle \infty \times 0} 
+ 
+  hem 1'e, hem 2'ye, hem … bütün sayılara eşit olabilir. Birden fazla sonucu olan işlemse belirsizdir.

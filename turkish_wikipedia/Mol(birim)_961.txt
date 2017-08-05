@@ -1,0 +1,177 @@
+Avogadro sayısı  ( 
+ 
+ 
+ 
+ 6 
+ , 
+ 02 
+ × 
+ 
+ 10 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ {\displaystyle 6,02\times 10^{23}} 
+ 
+ ) kadar  atom  ya da  molekül  içeren  maddeye  1  mol  denir. Mol, hiçbir zaman belli bir kütleyi ifade etmez.
+
+"Mol" ismi, Alman kimyager Wilhelm Ostwald tarafından koyulmuştur.
+
+Bir diğer ifade ile mol; 12 g C elementindeki atom sayısı kadar tanecik içeren sistemdir. 0 derece ortam sıcaklığı ve 1 Atmosfer basınç altında bir mol gaz 22,4 litre hacim kaplar.
+
+n 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Mol sayısı 
+ 
+ 
+ 
+ 
+ 
+ N 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Tanecik sayısı 
+ 
+ 
+ 
+ 
+ 
+ 
+ N 
+ 
+ a 
+ 
+ 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Avogadro sayısı 
+ 
+ 
+ 
+ 
+ 
+ m 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Kütle 
+ 
+ 
+ 
+ 
+ 
+ 
+ M 
+ 
+ a 
+ 
+ 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Mol ağırlığı 
+ 
+ 
+ 
+ 
+ 
+ V 
+ 
+ 
+ : 
+ 
+ 
+ 
+ Hacim 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle {\begin{array}{lcl}n&:&{\text{Mol sayısı}}\\N&:&{\text{Tanecik sayısı}}\\N_{a}&:&{\text{Avogadro sayısı}}\\m&:&{\text{Kütle}}\\M_{a}&:&{\text{Mol ağırlığı}}\\V&:&{\text{Hacim}}\end{array}}}
+
+olmak üzere aşağıdaki formüller ile mol hesaplanabilir:
+
+n 
+ = 
+ 
+ 
+ N 
+ 
+ N 
+ 
+ a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n 
+ = 
+ 
+ 
+ m 
+ 
+ M 
+ 
+ a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n 
+ = 
+ 
+ 
+ V 
+ 
+ 22 
+ , 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle {\begin{array}{l}n={\frac {N}{N_{a}}}\\\\n={\frac {m}{M_{a}}}\\\\n={\frac {V}{22,4}}\end{array}}}

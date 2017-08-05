@@ -1,0 +1,11 @@
+Mycobacterium  ya da  Mycobacteriaceae ; aside dirençli, uzun veya kısa çomaklar halinde, hareketsiz, sporsuz, kapsülsüz ve aerobik özelliğe sahip mikroorganizmalardır. Mikobakteriler standart hücre duvarı yapısına sahip değildirler ve gram pozitif veya gram negatif olarak sınıflandırılamazlar. Bilinen anlamda kapsül bulunmamasına rağmen hücre duvarlarında çok fazla lipid bulunur. Bu madde mikroorganizmayı hem çevresel koşulların etkisinden korur hem de normal boyalarla boyanamama özelliğini de meydana getirir. Bu nedenle mikobakterileri boyamak için alttan hafifçe ısıtılmaları gerekir.
+
+Bu gruptaki önemli etkenler ve yaptıkları hastalıklar şunlardır:
+
+Mycobacterium tuberculosis  dışında kalan tüm mycobacter'ler tüberküloz dışı mycobacter'ler Nontuberculous mycobacteria (NTM) olarak da bilinir. [1]
+
+Etkenler,  Ziehl-Nielsen boyama  yöntemiyle karbol-fuksin ve metilen mavisi kullanılarak boyanırlar. Karbol-fuksin preparatlara döküldükten sonra lam, alttan ısıtılır. Böylece hücre duvarı lipoidal madde biraz gevşemiş olur ve boya içeri girer. Sonra preparat asit alkol ile dekolere edilir. Bu işlem sırasında da bakteri içine giren boya çıkmaz. Arkasından preparat metilen mavisiyle boyanır. Mikroskopta tüberküloz etkenleri pembe renkte, ortam ve diğer etkenler mavi renkte görünürler.
+
+Mycobacterium tuberculosis  ve  M. avium  üremeleri sırasında gliserine ihtiyaç duyarlar ki bunlara eugonik etken denir.  M. bovis  ise gliserinli ortamda üremez ve buna da disgonik etken denir. Ürerken  M. avium  nemli, mucoid koloni;  M. bovis  kuru;  M. tuberculosis  ise kuru, granüllü, turuncu pigment yapar.
+
+Laboratuvar hayvanlarından kobaylar  M. tuberculosis ’e ve  bovis ’e duyarlı,  M. avium ’a ise direnç gösterirler. Tavşanlar  M. tuberculosis  ve  avium ’a dirençli,  M. bovis ’e duyarlıdır. Kanatlılar  M. avium ’a duyarlı, diğerlerine dirençlidir.

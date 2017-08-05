@@ -1,0 +1,5 @@
+A  pyramid  is a polygon structure in which the base is surmounted by three or more triangular sides which meet at a common apex.
+
+The volume of a square-based pyramid:
+
+V  is the overall volume of a pyramid.  B  equals the area of the base, and  h  is the perpendicular height. [1] [2] [3]

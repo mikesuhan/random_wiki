@@ -1,0 +1,1 @@
+The  center  of a  group    (denoted  ) is the set of all elements which  commute  with every element of the group.  That is, the center of   is  .

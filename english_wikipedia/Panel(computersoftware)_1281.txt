@@ -1,0 +1,7 @@
+A  panel  is "a particular arrangement of information grouped together for presentation to users in a window or pop-up." [1]  In  ISPF , a panel is "a predefined display image that you see on a display screen.". [2] :p.16
+
+A panel  graphical control element  is commonly packaged as part of a  widget toolkit  (libraries that contain a collection of graphical control elements) for a  graphical user interface . See  toolbar  and  dialog box .
+
+Panels in widget toolkits (libraries that contain a collection of graphical control elements) often have no specific graphic characteristics, but are mainly used to group child widgets together. They provide better control on the layout of the graphical control elements.
+
+For example, in this  XUL  definition, two horizontal  hbox  panels are enclosed in a vertical  vbox  panel, alongside two buttons. This insures that the label and the textboxes for the  Login  and the  Password  fields are correctly aligned.

@@ -1,0 +1,81 @@
+The  phylum   Bacteroidetes  is composed of three large classes of  Gram-negative , nonsporeforming, anaerobic or aerobic, and rod-shaped  bacteria  that are widely distributed in the environment, including in soil, sediments, and sea water, as well as in the guts and on the skin of animals.  Bacteroidetes spp.  are part of normal, healthy  placental microbiome . [1] [2]
+
+By far, the ones in the  Bacteroidia   class  are the most well-studied, including the genus  Bacteroides  (an abundant organism in the  feces  of warm-blooded animals including humans), and  Porphyromonas , a group of organisms inhabiting the human  oral cavity . The class Bacteroidia was formerly called Bacteroidetes; as it was until recently the only class in the phylum, the name was changed in the fourth volume of Bergey's  Manual of Systematic Bacteriology . [3]
+
+Some members of the genus  Bacteroides  are  opportunistic   pathogens . Rarely are members of the other two classes pathogenic to humans. [ which? ]
+
+This phylum is sometimes grouped with Chlorobi, Fibrobacteres, Gemmatimonadates, Caldithrix, and marine group A to form the  FCB group  or superphylum. [4]  In the alternative classification system proposed by  Cavalier-Smith , this taxon is instead a class in the  Sphingobacteria  phylum.
+
+Comparative genomic analysis has led to the identification of 27 proteins which are present in most species of the phylum Bacteroidetes. Of these, one protein is found in all sequenced Bacteroidetes species, while two other proteins are found in all sequenced species with the exception of those from the genus  Bacteroides . The absence of these two proteins in this genus is likely due to selective gene loss. [4]  Additionally, four proteins have been identified which are present in all  Bacteroidetes  species except  Cytophaga hutchinsonii ; this is again likely due to selective gene loss. A further eight proteins have been identified which are present in all sequenced Bacteroidetes genomes except  Salinibacter ruber . The absence of these proteins may be due to selective gene loss, or because  S. ruber  branches very deeply, the genes for these proteins may have evolved after the divergence of  S. ruber . A  conserved signature indel  has also been identified; this three-amino-acid deletion in ClpB  chaperone  is present in all species of the Bacteroidetes phylum except  S. ruber . This deletion is also found in one  Chlorobi  species and one  Archaeum  species, which is likely due to  horizontal gene transfer . These 27 proteins and the three-amino-acid deletion serve as molecular markers for the Bacteroidetes. [4]
+
+Species from the Bacteroidetes and Chlorobi phyla branch very closely together in phylogenetic trees, indicating a close relationship. Through the use of comparative genomic analysis, three proteins have been identified which are uniquely shared by virtually all members of the Bacteroidetes and Chlorobi phyla. [4]  The sharing of these three proteins is significant because other than them, no proteins from either the Bacteroidetes or Chlorobi phyla are shared by any other groups of bacteria. Several conserved signature indels have also been identified which are uniquely shared by members of the phyla. The presence of these molecular signatures supports their close relationship. [4] [5]  Additionally, the phylum  Fibrobacteres  is indicated to be specifically related to these two phyla. A clade consisting of these three phyla is strongly supported by phylogenetic analyses based upon a number of different proteins [5]  These phyla also branch in the same position based upon conserved signature indels in a number of important proteins. [6]  Lastly and most importantly, two conserved signature indels (in the RpoC protein and in  serine hydroxymethyltransferase ) and one signature protein PG00081 have been identified that are uniquely shared by all of the species from these three phyla. All of these results provide compelling evidence that the species from these three phyla shared a common ancestor exclusive of all other bacteria, and it has been proposed that they should all recognized as part of a single “FCB” superphylum. [4] [5]
+
+The phylogeny is based on 16S rRNA-based LTP release 123 by  'The All-Species Living Tree' Project . [7]
+
+Rhodothermaceae
+
+Balneolaceae
+
+" Hymenobacteraceae "
+
+" Thermonemataceae "
+
+" Persicobacteraceae "
+
+Flammeovirgaceae  1
+
+Cytophagaceae  2 [incl.  Flexibacter  species group 3]
+
+Flammeovirgaceae  2 [incl.  Ekhidna lutea ]
+
+Flammeovirgaceae  3
+
+Flammeovirgaceae  4 [Catalimonadaceae; Mooreiaceae]
+
+Cytophagaceae  1
+
+Cytophagaceae  3
+
+Cytophagaceae  4
+
+Cyclobacteriaceae
+
+Filobacteriaceae
+
+Sphingobacteriaceae
+
+Saprospiraceae
+
+Chitinophagaceae
+
+Cryomorphaceae
+
+" Crocinitomicaceae "
+
+Flavobacteriaceae
+
+Rikenellaceae
+
+Marinifilaceae
+
+Marinilabiliaceae  2
+
+Prolixibacteraceae
+
+Alkaliflexus imshenetskii
+
+Marinilabiliaceae  1
+
+Marinilabiliaceae  3 [incl.  Cytophaga xylanolytica ]
+
+Odoribacteraceae
+
+Porphyromonadaceae
+
+Bacteroidaceae
+
+The currently accepted taxonomy is based on the  List of Prokaryotic names with Standing in Nomenclature  (LPSN) [8]  and  National Center for Biotechnology Information  (NCBI). [9]
+
+Notes 
+♠ Strains found at the  National Center for Biotechnology Information , but not listed in the LPSN 
+♪ Prokaryotes where no pure ( axenic ) cultures are isolated or available, i.e., not cultivated or cannot be sustained in culture for more than a few serial passages

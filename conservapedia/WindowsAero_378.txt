@@ -1,0 +1,1 @@
+Windows Aero  (short for Authentic, Energetic, Reflective, and Open) is a Windows feature that provides live taskbar thumbnail images. [1]  It was introduced with  Windows Vista .  AERO does require some hardware capability not necessarily needed by the system itself, so on some older devices, it may not function properly. [2]

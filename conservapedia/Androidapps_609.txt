@@ -1,0 +1,1 @@
+Android apps  are typically written in the  Java   programming language , often using the development kit known as "Android SDK."

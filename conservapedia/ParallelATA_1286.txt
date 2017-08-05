@@ -1,0 +1,5 @@
+Parallel ATA  ( Parallel Advanced Technology Attachment ) is an older kind of computer connection used to attach data storage devices such as  hard drives  or  Solid-state drives  to the  motherboard . Parallel ATA was previously referred to as  Integrated Drive Electronics ; It has been almost completely replaced by  Serial ATA  (SATA). [1]
+
+Parallel ATA was developed and released first (in 1986), it was installed in many computers.  Its only lasting advantage to speak of is that it uses less power that its successor,  SATA .
+
+Compared to  Serial ATA , Parallel ATA offers significantly slower transfer speeds.  At first, PATA offered a bandwidth of 16MB/s. Throughout the various versions which came after, the speeds progressed to 33, 66, 100 and finally 133 MB/s.  When  SATA  was released in 2002, it offered a net bandwidth of 150MB/s.  It was then upgraded to 300MB/s.  Also, PATA cords could not be made as long, since the signals did not carry as well over distance.  Lastly, IDE/PATA cables were much wider than SATA.  This made it more likely that the PATA cables would inhibit airflow in the computer. [2]

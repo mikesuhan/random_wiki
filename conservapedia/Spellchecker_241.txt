@@ -1,0 +1,3 @@
+A  spell checker  is an item of  software  used to highlight incorrect spellings in multiple  language  and country-specific options. Most word processing programs these days include spell checkers, grammar checkers and  thesauruses  as an integral part of the word-processing package; the default settings of these programs generally tends to reflect their  country of manufacture . Nevertheless, most of them can be configured to suite the user's preferences.
+
+Spell checkers should not be used to the exclusion of human editing, as the incorrect use of homonyms ("there" as opposed to "their", for instance), or misspellings that result in other existing words may not be detected by spell checkers.

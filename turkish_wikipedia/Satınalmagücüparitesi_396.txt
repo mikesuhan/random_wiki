@@ -1,0 +1,3 @@
+Satın alma gücü paritesi  (SAGP),  ülkeler  arasındaki fiyat düzeyi farklılaşmasını ortadan kaldıran para birimi dönüştürme oranıdır. Eldeki toplu bir  para   parite  oranı ile farklı bir  para birimine  dönüştürüldüğünde, tüm ülkelerde aynı sepetteki mal ve hizmetler satın alınabilir.
+
+Mutlak satın alma paritesi ; iki ayrı ülkede, bir ürün grubunun (özellikle  TÜFE ’nin) belirlenen kurda fiyatlarının eşitlenmesi demektir.  Nispi satın alma paritesi  ise iki farklı ülkede aynı ürün grubunun yıllar içinde fiyatlarındaki değişim hızının belirlenen kurda birbirine eşit olduğudur.

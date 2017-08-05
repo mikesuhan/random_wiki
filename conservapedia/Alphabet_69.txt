@@ -1,0 +1,34 @@
+An  alphabet  is a series of symbols ( letters ) which correlate to individual (and occasionally multiple) sounds, allowing the spoken word to be recorded for later use. The word "alphabet" is derived from the first two letters the  Greek alphabet ,  alpha  and  beta , which were in turn derived from the first two letters of the Phoenician aleph and beth.
+
+Many ancient alphabets are believed to have been developed from even earlier writings, of ancient  pictograms  where a spoken sound or word was represented by small drawing of an object. These pictures eventually developed into formalized graphical symbols. By convention these symbols are written in a specific order ( alphabetic  order) when listed. The alphabet was a great impetus to literacy as there was no longer a need to learn myriads of pictures to represent the multitudinous concepts present in reality and thought. With an alphabet, all that was needed was to learn the symbols to represent the rather limited sounds of any particular language.
+
+In additional to full alphabets that use letters to indicate each vowel and consonant, two other types of alphabet are widely used. One type is called an  abjad  or  consonant alphabet , in which the letters primarily or exclusively represent only consonants; the Hebrew alphabet is an example. [1]   The other type is called an  abugida ,  alphasyllabary , or  syllabic alphabet . In an abugida, each letter represents a consonant followed by an inherent vowel. For a different vowel or no vowel, a  diacritic  is applied to the consonant letter. [2]   Separate vowel letters are used to write vowel-initial words; for example, in Tibetan, a letter represents the inherent vowel  a  (which may be thought of as a silent consonant plus the inherent vowel), and the other vowels are represented by the same diacritics used with consonant letters. [3]  The major writing systems of  India  are abugidas.
+
+The  Latin alphabet  (or  Roman alphabet ) is the most widely used  alphabetic writing system  in the world. [4]  Most Western alphabets are based on the script of ancient  Rome  which comprises the following 23 characters or letters:
+
+It should be noted that although the Latin alphabet does not contain the letter U, the language itself now contains both the sounds of the English U and V, both denoted by V - the placing of the letter determines the pronunciation. [5]
+
+In the English language three characters have been added to the Latin alphabet, and the English alphabet comprises the following  26  characters:
+
+Most Germanic and Romance languages from Europe use the same letters as the English alphabet. Some languages expand the alphabet's representation with  diacritical [6]  markings on the letters, but these are not considered by the language to be distinct letters.  digraphs [7]  and  ligatures . [8]
+
+For a more detailed treatment, see  Greek alphabet .
+
+The Greek alphabet comprises the following characters:
+
+Αα ,  Ββ ,  Γγ ,  Δδ ,  Εε ,  Ζζ ,  Ηη ,  Θθ ,  Ιι ,  Κκ ,  Λλ ,  Μμ ,  Νν ,  Ξξ ,  Οο ,  Ππ ,  Ρ ρ ,  Σσς ,  Ττ ,  Υυ ,  Φφ ,  Χχ ,  Ψψ ,  Ωω
+
+In addition to the single letters, Greek letters may be combined to make completely new sounds, such as ντ, which makes a "d" sound or αυ, which makes the sound "af" or "av".
+
+For a more detailed treatment, see  Cyrillic alphabet . 
+The  Cyrillic alphabet , and variants of it, is used in  Russian ,  Ukrainian ,  Bulgarian ,  Serbo-Croat  and  Mongolian  (in the Republic of  Mongolia ). The Cyrillic alphablet was mandatory in  Soviet  republics before their independence from the  Soviet Union , but many of these have reverted to their earlier alphabets which often are based on Latin letters.
+
+For a more detailed treatment, see  Hebrew alphabet . 
+The  Hebrew alphabet  is made up of 22 characters used to write the Hebrew and  Yiddish  languages.
+
+For a more detailed treatment, see  Arabic alphabet . 
+The Arabic alphabet is used to represent Arabic and other  Middle Eastern  languages.
+
+For a more detailed treatment, see  Hangul .
+
+Thai alphabet has 44 consonants (พยัญชนะ), and at least 43 vowels (สระ).

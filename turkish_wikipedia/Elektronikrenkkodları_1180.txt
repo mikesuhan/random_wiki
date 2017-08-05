@@ -1,0 +1,15 @@
+Direnç renk kodları ,  dirençin  değerini anlayabilmek amacıyla; üzerlerine çizilen renkli çizgilere verilen isimdir. Bu kodlar sayesinde, dirençin ohm değeri öğrenilir.
+
+Dirençler, devrelerdeki akımı azaltmak için kullanılır. Direncin birimi ohm(Ω)'dur. Devrelerdeki direnç değerleri birkaç ohmdan milyonlarca ohm'a kadar değişebilir. Bir direncin değerini üzerindeki şeritlerden anlayabilirsiniz. Bunun için aşağıdaki renk kodunu kullanmanız gerekir. Dirençler 1000 (bin) büyür 1000 (bin) küçülür. Yani sabit sayı .
+
+İlk iki şerit size direnç değerinin ilk iki rakamını verir.Üçüncü şerit, bu rakamlara kaç tane sıfır ekleyeceğinizi gösterir.Dördüncü şerit ise toleransı ifade eden renktir.
+
+Yukarıdaki tablonun kolay ezberlenmesi açısından bir heceleme geliştirilmiştir.
+
+S o K a K T a  S a Y a M a M   G i B i  A ma  G örürüm..
+
+Burada dikkat edeceğiniz gibi ilk iki kelimenin sessiz harfleri sırası ile renk kodlarını (Siyah, Kahverengi, Kırmızı, Turuncu, Sarı, Yeşil, Mavi Mor, Gri, Beyaz ), son iki kelimenin baş harfleri ise Altın ve Gümüş'ü anımsatmak için kullanılmıştır. S K K T S Y M M G B FORMÜL BU
+
+Resimdeki dirençlerden en üstte olandan başlanırsa:
+
+Dirençlerin fiziksel büyüklüğü direnç değerinin büyüklüğüyle ilgili değildir. Direncin güç kaybıyla ilgilidir.

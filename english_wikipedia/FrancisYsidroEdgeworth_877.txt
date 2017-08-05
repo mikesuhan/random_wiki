@@ -1,0 +1,33 @@
+Francis Ysidro Edgeworth   FBA  (8 February 1845 – 13 February 1926) was an Anglo- Irish  philosopher and  political economist  who made significant contributions to the methods of statistics during the 1880s. From 1891 onward he was appointed the founding editor of  The Economic Journal .
+
+Edgeworth was born in  Edgeworthstown ,  County Longford , Ireland. He did not attend school, but was educated by private  tutors  at the Edgeworthstown estate until he reached the age to enter university. His father, Francis Beaufort Edgeworth, was descended from French Huguenots and "was a restless philosophy student at  Cambridge  on his way to Germany when he decided to elope with a teenage  Catalan  refugee  Rosa Florentina Eroles  he met on the steps of the  British Museum . One of the outcomes of their marriage was Ysidro Francis Edgeworth (the name order was reversed later)...." [1]   Richard Lovell Edgeworth  was his grandfather, and the writer  Maria Edgeworth  his aunt.
+
+As a student at  Trinity College, Dublin , and  Balliol College, Oxford , Edgeworth studied ancient and modern languages. A voracious  autodidact , he studied mathematics and economics only after he had completed university. He qualified as a  barrister  in London in 1877 but did not practise. [2]
+
+On the basis of his publications in economics and  mathematical statistics  in the 1880s, Edgeworth was appointed to a chair in economics at  King's College London  in 1888, and in 1891, he was appointed  Drummond Professor of Political Economy  at  Oxford University . Also in 1891 he was appointed the founding editor of  The Economic Journal . He continued as editor or joint-editor until his death 35 years later. [3]
+
+Edgeworth was a highly influential figure in the development of  neo-classical economics . He was the first to apply certain formal mathematical techniques to individual decision making in economics. He developed  utility theory , introducing the  indifference curve  and the famous  Edgeworth box , which is now familiar to undergraduate students of  microeconomics . He is also known for the  Edgeworth conjecture , which states that the  core  of an economy shrinks to the set of  competitive equilibria  as the number of  agents  in the economy gets large. In statistics, Edgeworth is most prominently remembered by having his name on the  Edgeworth series .
+
+His most original and creative book on economics was  Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences , published in 1881 at the beginning of his long career in the subject. The book was notoriously difficult to read. He frequently referenced literary sources and interspersed the writing with passages in a number of languages, including  Latin , French and  Ancient Greek . The mathematics was similarly difficult, and a number of his creative applications of mathematics to economic or moral issues would be judged as incomprehensible. However, one of the most influential economists of the time,  Alfred Marshall , commented in his review of  Mathematical Psychics : [4]
+
+Edgeworth's close friend,  William Stanley Jevons , said of  Mathematical Psychics : [5]
+
+The  Royal Statistical Society  awarded him the  Guy Medal  in 1907. Edgeworth served as the president of the Royal Statistical Society, 1912–14. In 1928,  Arthur Lyon Bowley  published a book entitled and devoted to  F. Y. Edgeworth's Contributions to Mathematical Statistics .
+
+In  Mathematical Psychics  (1881), his most famous and original book, he criticised Jevons's theory of  barter   exchange , showing that under a system of "recontracting" there will be, in fact, many solutions, an "indeterminacy of contract". Edgeworth's "range of final settlements" was later resurrected by  Martin Shubik  (1959) as the game-theoretic concept of "the core". [6]
+
+As the number of agents in an economy increases, the degree of indeterminacy is reduced. In the limit case of an infinite number of agents (perfect competition), contract becomes fully determinate and identical to the 'equilibrium' of economists. The only way of resolving this indeterminacy of contract would be to appeal to the  utilitarian  principle of maximising the sum of the  utilities  of traders over the range of final settlements. Incidentally, it was in this 1881 book that Edgeworth introduced into economics the generalised utility function, U (x, y, z, ...), and drew the first 'indifference curve'. [6]
+
+He was the first one to use offer curves and community indifference curves to illustrate its main propositions, including the "optimal  tariff ".
+
+Taxation of a good may actually result in a decrease in price.
+
+He set the utilitarian foundations for highly progressive taxation, arguing that the optimal distribution of taxes should be such that 'the marginal disutility incurred by each taxpayer should be the same' (Edgeworth, 1897).
+
+In 1897, in an article on monopoly pricing, Edgeworth criticised Cournot's exact solution to the  duopoly  problem with quantity adjustments as well as Bertrand's "instantly competitive" result in a duopoly model with price adjustment. At the same time, Edgeworth showed how price competition between two firms with capacity constraints and/or rising  marginal cost  curves resulted in indeterminacy. This gave rise to the  Bertrand–Edgeworth model  of oligopoly.
+
+Edgeworth criticised the marginal productivity theory in several articles (1904, 1911), and tried to refine the neo-classical theory of distribution on a more solid basis. Although his work in questions of  war finance  during World War I was original, they were a bit too theoretical and did not achieve the practical influence he had hoped.
+
+Edgeworth's limit theorem relates to equilibrium of supply and demand in a free market. See  Edgeworth's limit theorem .
+
+Though Edgeworth's economic ideas were original and in depth, his contemporaries frequently complained of his manner of expression for lack of clarity. He was prone to  verbosity  and coining obscure words without providing definition for the reader. [7]

@@ -1,0 +1,79 @@
+The  Banach-Tarski paradox  is that statement that a sphere can be cut into 5  non-measurable sets of points , which can then be reassembled into two spheres of equal volume.  It is called a paradox because it violates our physical intuition that this is impossible; however, it should be noted that the "cuts" necessary are infinitely small and precise, and thus cannot be performed by man.  It is very similar to the  Vitali set , which was developed to illustrate possible flaws in using the  Axiom of Choice  (an element of  Zermelo-Fraenkel  set theory) in order to prove mathematical claims.  Since the Vitali set is less easily discussed with a layman, the Banach-Tarski paradox is often used to illustrate the "weirdness" of the Axiom of Choice.
+
+This paradox—or insight—bears a striking resemblance to the multiplication of the loaves, which is the only miracle described in all four  Gospels .
+
+All sets discussed here are point sets in three dimensional, flat (i.e., normal, everyday) space.  A point set is just that - a set of points.
+
+A  rigid motion  of a set is a movement of the whole set one one direction, or a rotation, or a composition of those two kinds of motion.  That is to say, the set doesn't bend or get broken up.  A rigid motion of a set   is often written  .
+
+Let   be sets.  We say there is a  rigid body equivalence    if   can be partitioned into finitely many sets   and there are   rigid motions   such that  .
+
+We say there exists a  paradoxical decomposition  of a set   if  , and   and  .
+
+The Banach-Tarski theorem (aka the Banach-Tarski paradox) states that the solid ball admits a paradoxical decomposition.
+
+First, let's examine why a circle is rigid-body equivalent to a circle with a point removed.  We'll work in the plane, for now.
+
+Pick an irrational number  , and let   be the rigid motion which is rotation by   degrees counterclockwise.  Now we pick a point in the circle   and we form an infinite "necklace"  .  It is clear that this necklace must be infinite, because if there was any   such that  , then   would not be irrational.
+
+Since our necklace is a  countable set  and the circle is uncountable, there are points in the circle which are not in the necklace.  So we partition the circle into two sets, the necklace, and everything left over.  Observe that by performing the rigid motion   on the necklace, we simply get  , that is, all the original points remain exactly where they were, except now the first point is gone.  Re-combining the rotated necklace with those points not in the necklace gives us a circle with a point removed.
+
+With this procedure, it becomes a simple matter to remove a point from the sphere or the interior of a ball - just pick a circle lying in the sphere or ball which contains the point you wish to remove, and partition the sphere or ball into three pieces - the necklace, the rest of the circle the necklace is on, and the everything in the sphere or ball which isn't in that circle.
+
+Removing countably many points from a circle is a trickier matter.  Let   be countable set of points in the circle, where it is understood that the   measure the degree of the angle the point can be found at.  We construct a set  , which is also a countable set, since it is in one-to-one correspondence with the three dimensional lattice.
+
+Make sure you understand the content of  .  If the first few values of  , then   contains, among other things,   etc.  Now, since   is countable, and the angles of   are uncountable, there is an angle in   which is not in  .  Pick one such angle, and call it  .  This is our magic rotation angle.
+
+Note that if we rotate   by an angle not in  , it is guaranteed to not carry any point in   to any other point in   because of our clever definition.  Rotation by  , for example, cannot carry   to  , because then  , but we specifically said  .  Furthermore, 12 rotations of   could never carry   to  , because then  , but that's in   too, since we constructed it to contain not just all the differences of angles in  , but all the fractions of those differences as well.
+
+So we construct the infinite super-necklace   and finally, observe that  .
+
+We form the partition   and then note   and we have shown that
+
+Let's now move back to three dimensional space.  Removing countably many points from a sphere is similar, except now we are using the longitudes of the points, with respect to some axis that doesn't pass through any of the points of  .  A tricky technical matter arises: how do we know such an axis exists?
+
+This is simple!  Since   is countable, so is the union of   and all the antipodes of  , which means there are points not in this union.  By design, neither are the antipodes of such points.
+
+Before attempting to understand the free group, it would be very beneficial to the reader to have and understanding of a  mathematical group .
+
+Let   be "letters."  We will form "words" by stringing finitely many of these letters together, subject to just a few simplification rules:  , where   is the identity, shorthand for the "word" of zero letters.
+
+We state without proof that such words form a group under "concatenation," or stringing back to back, i.e.,  .  By using exponents, i.e.,  , each word has a unique spelling.
+
+This is called  , the free group on two generators.  Any group structured like this, in which  a  and  b  have infinite order and are independent, (i.e., no combination of  a  and  b  form  e ) is this group.  We can picture this group graphically, with  a  and  b  axes:
+
+Why are we talking about the free group?  It is important for two reasons, the first of which is that it admits a "paradoxical decomposition", if we allow such a notion to refer to the graphical representation of it above.  We begin by partioning the group as  , where the sets   are those described in the image to the right.
+
+Consider  .  Since every element of  U  starts with  , followed by a letter  , and then some other letters, every element of   starts with   or   - that is, three of the four trees of  !  The only thing missing is  .  Thus,  .  Likewise,  .  Hence, we have something akin to a "paradoxical decomposition" of the free group.
+
+You may be unimpressed by this, since the free group isn't really a geometric object.  If you recall, we said earlier that the free group was important for two reasons, and one of them was that it had a paradoxical decomposition.  We now discuss the second reason.
+
+Consider the unit sphere in  xyz  space.  Pick a point on the sphere  P , and let   mean rotation of this point counterclockwise around the  x -axis by  , and   mean rotation around the  z -axis counterclockwise by that same angle  . If we define   so that  , it turns out that this is precisely the free group   if we define   to mean first doing one rotation, then the other, and   to be clockwise rotations respectively.
+
+The isomorphism between this group, with   and so on, is not easy, and requires some hard linear algebra.  It will not be given here.
+
+From now on, we will use   to refer to this group of rotations on the sphere.
+
+Before continuing to a complete proof, we must discuss the  Axiom of Choice .  The axiom states than given any collection of sets (possibly infinitely many sets - possibly uncountably many sets!), there exists a set which contains exactly one element of each.
+
+We begin by removing the center of the unit ball by choosing some circle in the ball which contains the center, and using the method by which we removed a point from the circle earlier. Now that we have done this, we can work on the surface of the ball,  , by understanding that everything we do on the surface can extend downward to the interior of the ball in a ray towards the center.
+
+Now we define the  orbit  of a point  x  of the sphere under the operations of the free group to be  .  For almost all the points on the surface, this will yield a copy of the free group, except a couple of bad points: for example, the "north pole" is fixed under the  b  operation.  So define  , that is, the set of all the points on the sphere which are held still by some rotation in  .
+
+Since B is countable, and we can remove any countable set of points from the sphere, remove this set:  .
+
+Now we define an orbit equivalence relation:  for two points  , define   whenever   and   are in the same orbit, i.e.,  .  We state without proof that this  is  an equivalence relation and thus partitions   into equivalence classes, which will be disjoint.  Note there will be uncountably many orbits, since each only has countably many points and the union of all orbits covers the uncountable set  .
+
+Using the axiom of choice, we pick a single point from each orbit and call this set  . Note that  .
+
+Make sure you understand the notation:   is a set of rotations,   is a set of points, and   is the set of points resulting from applying every rotation in   to every point in  . Similarly we will be defining   as sets of rotations and   etc.  as the point   rotated by all the points in  .
+
+Let's define  .  Obviously,  .  But we remember  .  This immediately yields:
+
+.
+
+Since we also had  , we have  .
+
+Hence   and  , a paradoxical decomposition of  .  Since we've already shown that   is rigid-body equivalent to  , this proves the Banach-Tarski paradox.
+
+Some view the Banach-Tarski paradox as an absurd result, and evidence that the  Axiom of Choice  is false.  This is the reaction of many non-mathematicians upon hearing this result.  However, as one grows in mathematical understanding one finds it is impossible to avoid - mathematicians have learned to accept the existence of  non-measurable sets , even though these do not match solid objects in the real world.

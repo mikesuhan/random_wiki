@@ -1,0 +1,5 @@
+CakePHP ,  PHP  üzerinde geliştirilmiş  açık kaynak  kodlu,  MVC  (Model-View-Controller) mantığıyla geliştirilmiş,  Ruby on Rails 'in PHP karşılığı olan  frameworktür .
+
+CakePHP, 2005'te başladı. Ruby on Rails tarafından popüler oldu. Birkaç alt projeyi geliştirmek amacıyla yaratılmıştır.
+
+Rails gibi, CakePhp sayesinde veritabanındaki kayıtlara daha güzel bir arayüzle yönetmemizi sağlar. O hem de, mimari - denetçinin, aynen kopyaladığı örnek - görüşünün kullanımını cesaretlendirir.

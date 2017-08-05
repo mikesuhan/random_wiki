@@ -1,0 +1,3 @@
+Bomberman  ( ESRB  rating: E) is a  maze   game  for the  NES  made by  Hudson Soft . It is the first game in the  Bomberman series .
+
+The player assumes the role of Bomberman, a white and blue  robot  with a squarish head and an antenna on the back of it, as he maneuvers through a maze. He can place bombs to blow up brick walls and enemies. The flames of the bomb travel up, down, left, and right. There are power-ups randomly hidden in brick walls, which either increase the radius of the bomb's explosion, increase the number of bombs Bomberman can place, allow bomerman to be immune to his own bombs, etc. There are 100 levels in this game.

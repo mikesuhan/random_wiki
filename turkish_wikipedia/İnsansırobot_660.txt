@@ -1,0 +1,25 @@
+Vücut şekli  insan vücuduna  benzemek üzere üretilen  robotlara   insansı robot  adı verilir. İnsansı bir tasarımın kullanılması; insanların kullandığı aletler ve çevreyle iletişim, deneysel amaçlar( çift ayaklı hareket  konusunun geliştirilmesi gibi) gibi fonksiyonel amaçlar veya farklı amaçlar için olabilir. Genel olarak insansı robotlar bir baş, gövde, iki kol ve iki bacağa sahiptir. Bazı insansı robotlar insan vücudunun yalnızca bir kısmı model alınarak yapılmış olabilir, sadece bel üstü gibi. Bazı insansı robotlar, ağız ve gözlergibi uzuvlara sahip, yüz ifadeleri üretme yeteneği olan gelişmiş kafalara sahip olabilirler. Özellikle görünümsel veözelliksel olarak insanlara benzemeleri için yapılmış robotlara  android  adı verilir.
+
+İnsansı robotlar birçok bilim dalında araştırma aletleri olarak kullanılmaktadırlar.
+
+İnsan vücudunun yapı ve davranışlarını (biomekanik) anlamak isteyen araştırmacılar insansı robotlar üretmek ve onları araştırmak zorundadırlar. Diğer taraftan, insan vücudunu taklit etmeye çalışmak onu daha iyi anlamayı sağlamaktadır.
+
+İnsan Algı bilimi, insanların algıladıları bilgiler üzerinden algısal ve motor becerileri nasıl öğrendiklerine odaklanan bir bilim dalıdır. Bu bilgi insan davranışları gösteren programlar geliştirmek için kullanılmakta ve bu bilim hızla yükselmektedir.
+
+Yüksek teknoloji robotiğin normal insanları daha üst bir seviyey çıkarmak için kullanılabileceği iddia edilmektedir. Bakınız  transhümanizm .
+
+Insansı robot araştırmalarının ana gayesi insanlar için daha iyi  ortez  -  protez  üretmek olsa da, bilgi iki dal arasında geçişler yapmıştır. Birkaç örnek olarak; neromasküler olarak hasarlılar için güçlendirilmiş bacak protezi, ayak-bilekortezi, biyolojik olatak gerçekçi bacak protezi ve önkol protei verilebilir.
+
+Araştırmanın yanı sıra, insansı robotlar kişisel yardımcılık yani yaşlı ve hastalara yardım etmek ya da pis veya tehlikeli işlerle başa çıkmak gibi insan işleri yapmak için de geliştirilmektedirler. Danışmada çalışmak veya otomotiv üretiminde işçilik yapmak gibi sıradan işler de insansı robotlar için uygun alanlardır. Özet olarak, insanlar için tasarlanmış aletl veekipmanları kullanma yeteneklerine sahip oldukları için teorik olarak doğru  yazılıma  sahip oldukları sürece bir insanın yapabildiği her işi yapabilme kabiliyetindedirler. Ancak bu yazılımların oluşturulmasındaki karmaşa aldatıcı derecede büyüktür.
+
+İnsansı robotlar eğlence sektöründe de hızla ün salmaktadrlar. Univresal Stüdyolarında şarkı söyleyen, müzik çalan, dans edip izleyicilerle konuşan feminen robot Ursula bir örnektir. Birkaç Disney eğlence merkezi temalı parklarında insan gibi görünen, hareket eden, konuşan animatronları kullanır. Bu animatronlar o kaar gerçekçidirler ki belli bir uzaklıktan insan olup olmadıklarından emin olmak zor olabilir. Gerçekçi bir görünüme sahip de olsalar da bu robotlar ne bir algıya ne de fiziksel bir anatomiye sahiptirler. Çeşitli insansı robotlar ve günlük hayata olası uygulamaları  Plug & Pray  adlı, 2010 yılı yayınlı bağımsız belgesel-filmde sunulmuştur.
+
+Özellikle  yapay zeka  ve  algoritmaya  sahip olan insansı robotlar, gelecekteki tehlikeli ve uzak  uzay araştırmalarında , görev bitiminde  dünyaya  dönme ihtiyaçları olmadıkları için faydalı olabilirler.
+
+Bulunduğu çevrenin niteliklerini ölçen aletlere  sensör  adı verilir. Robotiğin üç kökünden biri olan sensörler (diğer ikisi planlama ve kontrol olmak üzere), robotun mental modelinin çevreyi algılaması konusunda önemli bir rol oynar.
+
+Sensörler iki şekilde sınıflandırılırlar; çalışmaşarındaki fiziksel sürece veya çıktı olarak verdikleri ölçüm bilgilerinin tipine göre. Burada ikinci sınıflandırma kullanılmıştır.
+
+Proprioseptif  sensörler insansı vücud ve eklemlerin pozisyon, oriyantasyon ve hozlarını algılarlar.
+
+İnsanlarda otolitler ve yarım daire kanalları (iç kulakta) dengenin korunması ve yön belirlemeden sorumlu yapılardır. Buna ek olarak insanlar yönelme/yön belirlemeye yardmcı olmaları içim kendi proprioseptif sensörlerini (örneğin dokunma, kas esnemesi, uzuv pozisyonu gibi) de kullanırlar. İnsansı robotlar ivmeyi ölçmek için, hıın integralini hesaplayan  ivmeölçerleri ;eğim açısını ölçmek için  eğim sensörlerini ; çevre ile temas güçlerini ölçmek için el ve ayaklarına yerleştirilmiş olan güç sensörlerini, bulundukları asıl konumu ölçmek için pozisyonun hızın türevi aracılığıyla hesaplandığı konum sensörlerini ve hatta hız sensörleri kullanırlar.

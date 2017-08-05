@@ -1,0 +1,11 @@
+Young katsayısı , katı fiziğinde bir katının sertliğini ölçmede kullanılan bir birimdir. Aynı zamanda elastikiyet katsayısı, gerilme katsayısı ( hacim katsayısı  ve  kopma katsayıları  farklı elastik katsayılarıdır) olarak da bilinir. Farklı zorlanmalara bağlı olarak değişen farklı gerilmelerin oranı olarak tanımlanır. Bu maddenin bir örneği üzerinde yapılan gerilme testleri sonucunda çıkarılan gerilme-zorlanma grafiğine baz alınarak karar verilen bir olgudur.
+
+Elastik deformasyondaki  birim uzama ile normal gerilme (çekme ya da basma gerilmesi) arasındaki doğrusal ilişkinin bir sonucu olup bir birim uzama başına gerilme olarak tanımlanır. Elastisite modülünün birimi N/m 2 'dir. Örneğin, yapı çeliği için elastisite modülü E çelik =2×10 11  N/m 2 , alüminyum için E alüminyum =7×10 10  N/m 2 'dir.
+
+Young katsayısı 18. yüzyıl İngiliz bilimci  Thomas Young  tarafından bulunmuş buna rağmen kavram  1727 'de  Leonhard Euler  tarafından oluşturulmuş ve Young katsayısını kullanan ilk deneyler İtalyan bilimci  Giordano Riccati  tarafından -Young'ın çalışmalarını 25 yıl önce tarih atmakla-1782 de yapılmıştır.
+
+Young katsayısı,  E ,  gerilimin   şekil değiştirme  bölünmesinden elde edilir :
+
+where
+
+Young katsayısı materyal tam bileşiğine bağıl olarak farklılık gösterir. Örneğin her metal için bu değer %5 oranında, alaşımın net bileşimine ve üretim esnasında uygulanan sıcaklığa bağıl olarak değişebilir. Buradaki değerler yaklaşıktır.

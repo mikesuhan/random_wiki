@@ -1,0 +1,58 @@
+Epigenetik ,  biyolojide ,  DNA  dizisindeki değişikliklerden kaynaklanmayan, ama aynı zamanda ırsi olan,  gen  ifadesi değişikliklerini inceleyen bilim dalıdır. Diğer bir deyişle, ırsi (kalıtımsal) olup genetik olmayan  fenotipik  varyasyonları incelemektedir. Bu değişiklikler  hücreyi  ya da  organizmayı  doğrudan etkilemektedir ancak, DNA dizisinde hiçbir değişiklik gerçekleşmemektedir. [1]
+
+Eski Yunanca; επί- (epi-) öneki; "üstü(nde)", "üzeri(nde)", "ötesi(nde)", "öncesi(nde)" anlamlarını taşır. Γένεσις (Genesis) ise; "doğuş", "köken", "yaratılış" veya "oluşum" demektir. [2] 
+ Aristoteles , epigenesis "oluşum öncesi" sözcüğünü;  biyolojide , o zaman en kabul gören teori olan preformasyona "önceden oluşum"a karşıt bir teori olarak kullanmıştır. Aristoteles'in  epigenez teorisine  göre, canlının şekli ve yapısı döllenme sırasında mevcut değildir. Bu yapı, doğuma kadar, başkalaşımlar yoluyla yavaş yavaş gelişmektedir. [3] [4]
+
+Epigenetik sözcüğü (επιγενετικός - epigenetikόs) işte ilk defa Aristoteles tarafından, epigenez'e (epigenesis'e) ait, ona dair anlamında bir sıfat olarak kullanılmıştır. Hayvanların "epigenetik oluşumlarından" ya da "epigenetik gelişimlerinden" bahsederken, onların - o günkü kanıya ters olarak - rahimde ya da yumurtada yavaş yavaş, aşama aşama gelişimlerini kastetmektedir. Böylelikle epigenetik, ilk anlamıyla, embriyolojik bir süreci anlatan bir sıfat olarak 1940'lara kadar kullanılmıştır.
+
+Epigenetik sözcüğü 1942'de, ilk kez bir bilim dalı anlamıyla,  Conrad Waddington  tarafından kullanılmıştır. Onu bir isim olarak Epigenetic Genetics (Epigenez Genetiği) sözcüklerinden, "Epigenetics" (Epigenetik) kelimesini türetmiştir. Waddington'a göre epigenetik; gelişim esnasında  genotipin   fenotipi  nasıl oluşturduğunu inceleyen bilim dalıdır. [5]
+
+Waddington'un daha çok, embriyolojik bir anlam ile oluşturduğu "epigenetik" terimi, moleküler tekniklerin gelişmesiyle, daha moleküler seviyeye indirilmiş ve de kalıtımsal anlam eklenmiştir. Bu anlamda, bugün en çok kullanılan ve de kabul gören tanımı şöyledir: Epigenetik; DNA dizisindeki değişikliklerle açıklanamayan, mitoz veya mayoz yoluyla kalıtılan gen ekspresyonu (ifadesi) değişikliklerini inceleyen bilim dalıdır.
+
+Gerçekte, gen ifadeleri, fenotipi belirlediğinden, Waddington'un tanımı da yanlış kabul edilmemektedir. Ancak ırsilik faktörü bulundurmadığından eksik görülmektedir.
+
+Böylelikle; "Epigenetik" teriminin Türkçede beş anlamı vardır diyebiliriz. Bunlar;
+
+Her ne kadar, geçmişten bugüne bu beş anlama sahip olmuş olsa da, son ikisi, çağdaş bilim tarafından kabul edilen ve bundan sonra bu makalede yer verilecek olan anlamlardır.
+
+Epigenetik mekanizmalar ikiye ayrılır:
+
+Dolaylı yoldan gen ifadesine etkiyen mekanizmalar post-transkripsyonel (transkripsiyon sonrası, yani ana DNA molekülünden RNA molekülü elde edildikten sonra) mekanizmaları özellikle de nonkoding RNA’nın (RNAi vb.) kodlayıcı RNA (mRNA) üzerine etkiyerek protein sentezini engellemesini içerir.
+
+Bu mekanizmalar da ikiye ayrılır:
+
+DNA düzeyindeki modifikasyonları üçe ayırabiliriz:
+
+Bu modifikasyonların arasından  DNA metilasyonu  en bilinen ve en işlevsel olanıdır.
+
+Kromatin düzeyindeki modifikasyonları da kovalent ve nonkovalent olmak üzere ikiye ayırabiliriz:
+
+Çok çeşitli ve birbirleriyle alakasız görünen onlarca biyolojik olgu (hadise), aslında epigenetik mekanizmalarca meydana gelmektedir. Epigenetik temelli bu olguları ortaya çıkarmak aslında hiç kolay değildir, çünkü hem birçok biyolojik olgunun moleküler temeli bilinmemektedir, hem de halen keşfedilmemiş muhtelif epigenetik mekanizma mevcuttur.
+
+Bu olguların başlıcaları şunlardır:
+
+Hücreye kimliğini kazandıran, yani fenotipini ortaya çıkartan epigenetik mekanizmaların, mitoz sırasında bir sonraki hücre soyuna nasıl aktarıldığı, maalesef halen bir merak konusudur. Aynı şekilde, bu bilginin, organizmalarda, sonraki nesillere nasıl aktarıldığı da pek anlaşılamamıştır.
+
+Ancak, bu epigenetik işaretlerin ya da bu epigenetik regülasyonun dölden döle aktarıldığına dair sayısız kanıt mevcuttur:
+
+Bitkilerle yapılan bir çalışma aşağıdaki sonuçları ortaya koymuştur:
+
+Döllenmeden hemen sonra, erken embriyonun genomu büyük çapta ve muazzam bir demetilasyon sürecine girer. Bu ‘silinme’den kurtulan spesifik bölgeler dışında, implantasyon öncesi embriyonun genomu tamamen hipometiledir (az metillenmiş). Bu da embriyonun pluripotensisiyle mantıken bağdaşır. İmplantasyon sonrası, DNA yeniden metillenmeye başlar.
+
+Mitoz sırasında da benzeri bir durum yaşanır ve genom demetile olur.
+
+Genomun demetilasyona uğramasının ardından, nasıl tekrar aynı bölgelerin metilasyona uğradıkları, yani epigenetik bilginin nasıl korunup aktarıldığını açıklamaya çalışan muhtelif modeller mevcuttur.
+
+Epigenetik mekanizmaların bilgisinin, genellikle, mitoz veya mayoz sırasında, ‘silinmeyen’ kromatin modifikasyonları ve de bazı siRNA’larla aktarıldığı düşünülmektedir.
+
+Bilinen bütün epigenetik mekanizmalar, kendi aralarında mükemmel bir şekilde etkileşim içindedirler.
+
+Hemen hemen bütün mekanizmalar birbirlerini iki-yönlü olarak etkilemektedirler ve de kontrol etmektedir.
+
+Ana mekanizmalar kromatin seviyesinde gerçekleşen mekanizmalardır. (Çok kısa süre öncesine kadar ana mekanizmanın DNA metilasyonu olduğu düşünülüyordu.)
+
+Epigenetik bilimi bugün; ontoloji, embriyoloji, sağlık bilimi, metabolizma, kompleks hastalıklar, biyopsikoloji,  antropoloji , osteoarkeoloji vb. ile ilgilenen bilim insanları tarafından, bu konularla içiçe çalışılmaktadır.
+
+En büyük çalışmalar;
+
+Löseminin bir türü olarak bilinen ve ölümcül bir ilik kanseri olan MDS (MiyeloDisplastik Sendrom) hastalarıyla 2006 ve 2007’de yapılan deneysel epigenetik tedavi çalışmalarında hastaların %50’si tamamen iyileşmiş, hiçbir yan etki görülmemiştir. 2008 yılının başlarında FDA tarafından kabul edilen desitabin adlı epigenetik etkili kimyasal, Amerika'da ve Avrupa'da "dacogen" ticari ismiyle piyasaya sürülmüştür. Türkiye'de ise halen  Sağlık Bakanlığı 'nın iznini beklemektedir.

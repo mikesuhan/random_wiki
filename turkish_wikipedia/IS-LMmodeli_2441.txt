@@ -1,0 +1,5 @@
+IS-LM  modeli mal ve para piyasalarındaki faiz oranı ile reel çıktı arasındaki ilişkiyi göstermeye yarayan makroekonomik bir araçtır. IS ve LM eğrilerinin kesişme noktası Genel Denge olarak adlandırılır. [1] . Bu noktada tüm ekonominin mal ve para piyasalarında eş zamanlı olarak eşitlik söz konusudur. IS/LM sırasıyla  Yatırım  (Investment)  Tasarruf  (Saving) /  Likidite Tercihi (Liquidity preference)  Para arzı  (Money supply) anlamına gelmekte ve ingilizce anlamının baş harflerinden türetilmiştir.
+
+Modelin dışa açık küçük ekonomiler için geliştirilmiş olanı  Mundell-Flemming Modeli  diye de adlandırılır.
+
+IS Eğrisi I ve S eğrilerinin eşitliğine dayanır. Mal piyasasında dengeyi ifade etmektedir. Basit  keynesyen  modelin aksine faiz haddinin sabit olmadığı durumlarda geçerlidir.IS eğrisinin eğimi ile yatırımın faize duyarlılığı (b ne kadar büyükse IS eğrisi o kadar eğiktir.) arasında doğru orantı vardır.

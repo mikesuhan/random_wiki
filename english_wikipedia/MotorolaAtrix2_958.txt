@@ -1,0 +1,7 @@
+The  Motorola ATRIX 2  is a high end  Android -based  smartphone  by  Motorola . Originally announced on October 11, 2011, it is the successor to the  Atrix 4G . This phone was succeeded by the  Motorola Atrix HD .
+
+The Motorola Atrix 2 has a one-gigahertz dual core  Texas Instruments  OMAP processor with 1GB of  RAM  and 8GB of internal storage. It has a 4.3" display with a resolution of 960 by 540. Unlike its predecessor, the Atrix 2 does not use the  PenTile  matrix. The phone runs  Android  2.3. An announced update to Android 4.0.4 has been pushed out over OTA on October 9, 2012 in the United States. This phone supports AT&T's HSPA+ network.
+
+Similarly to the Atrix 4G, the Atrix 2 features Motorola's Webtop software, which allows the use of an  Ubuntu -based desktop environment to browse the internet using Firefox, manage files, and access applications on the phone itself through a Mobile View window. [1] [2]
+
+Upon the upgrade to Android 4.0, the Webtop mode was changed to use Android's built-in interface for  tablets  instead of a separate operating system environment, allowing direct use of apps already present on the device (which sometimes offer layouts optimized for larger displays). [3]

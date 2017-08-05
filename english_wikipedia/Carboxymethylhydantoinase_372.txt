@@ -1,0 +1,5 @@
+In  enzymology , a  carboxymethylhydantoinase  ( EC   3.5.2.4 ) is an  enzyme  that  catalyzes  the  chemical reaction
+
+Thus, the two  substrates  of this enzyme are  L-5-carboxymethylhydantoin  and  H 2 O , whereas its  product  is  N-carbamoyl-L-aspartate .
+
+This enzyme belongs to the family of  hydrolases , those acting on carbon-nitrogen bonds other than peptide bonds, specifically in cyclic amides. The  systematic name  of this enzyme class is  L-5-carboxymethylhydantoin amidohydrolase . This enzyme is also called  hydantoin hydrolase .

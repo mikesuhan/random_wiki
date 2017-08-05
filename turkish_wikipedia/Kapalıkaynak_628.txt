@@ -1,0 +1,3 @@
+Kapalı kaynak , kaynak kodu açıklanmamış bilgisayar programları için kullanılan genel bir tabirdir.
+
+Bilgisayar  yazılımlarını  oluştururken kullanılan kod bütününe  kaynak kodu  denir. Genellikle bu kod, programın içinde gizlenmiş durumdadır. Programcılar eğer bu kodu paylaşmak istemezlerse kodu saklarlar. Bu tür yazılımlara  kapalı kaynak kodlu  yazılımlar denir. Kapalı kaynak kodlu yazılımlar, çoğunlukla paylaşma, değiştirme ve  tersine mühendislik  gibi işlemlere izin vermeyen lisanslara sahiptir.

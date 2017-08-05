@@ -1,0 +1,7 @@
+Utility  has two primary meanings:
+
+Utility is an economic term representing someone's satisfaction or happiness.  The utility of a  good , for example, is the satisfaction it brings to a consumer.
+
+Utility functions are mathematical ways of representing the benefits accruing to a consumer from his consumption of various goods. A utility function, in conjunction with a budget constraint, may be used to determine a consumer's optimal bundle of goods.
+
+The term utility has its origins in  utilitarianism , a philosophical school of thought in ethics.

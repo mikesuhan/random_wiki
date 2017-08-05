@@ -1,0 +1,3 @@
+24-hour time , or the  24-hour clock , is the notation of  time  on a 24-hour system, without using a.m. or p.m. to denote morning/afternoon. Thus 8 am is given as 08.00h, and 8 pm as 20.00h.
+
+This is also known as "military time."  Presumably to avoid deadly mistakes, the military uses unique time hours rather than duplicates with "a.m." and "p.m." designations.

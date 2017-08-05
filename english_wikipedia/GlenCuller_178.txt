@@ -1,0 +1,22 @@
+National Medal of Technology 
+1999
+
+Glen Jacob Culler  (July 7, 1927 – May 3, 2003) was a professor of  electrical engineering  and an important early innovator in the development of the  Internet . Culler joined the  University of California, Santa Barbara  (UCSB)  mathematics  faculty in 1959 and helped put the campus in the forefront of what would become the field of  computer science . He later served as director of the UCSB Computer Center and professor in the College of Engineering and extended his revolutionary view of the role of computers to include their use in the classroom. He left UCSB to work in industry and establish his own company, called Culler-Harrison, in 1969. Culler-Harrison became CHI Systems, and later, Culler Scientific.
+
+One of Glen Culler's sons,  David Culler , is a notable computer scientist in his own right. Another son,  Marc Culler , is a distinguished pure mathematician working in low-dimensional topology.
+
+Culler was the developer of the Culler-Fried Online System, one of the first interactive computer systems in the mid-1960 era. This was the first system to make use of a storage  oscilloscope  as a means of presenting graphical information, and provided an innovative means of presentation and teaching of mathematical concepts. One of the first object oriented approaches to computing, the system provided a set of operators (e.g., add, subtract, display, multiply, sin, exp) on a predefined set of mathematical objects: scalars, vectors, arrays, and matrices (2-D only, up to about order 30..33).
+
+This interpreted programming language was named  MOLSF  for Mathematically-Oriented Language, Single-Precision, Floating-point. The MOLSF keyboard consisted of a modified double QWERTY keyboard with the second, upper keyboard, renaming all keys to various functions (special hardware which included APL keyboard capability, two generations existed). The graphical integration was nearly seamless, but memorization of commands was nearly impossible.
+
+The CFS has a second programming language named COL for Card-Oriented Language, somewhat like modern day text-editors. MOLSF and COL didn't communicate very well. They were vastly different languages. The Culler-Fried System only ran at UCSB and  TRW .
+
+Culler's online system was chosen by  ARPA  to be one of the first four nodes on the original  ARPANET  in 1969, and with the  University of California, Los Angeles  (UCLA), participated in the first exchange of  packets  of data transmitted in the nascent Internet.
+
+Culler-Harrison is occasionally cited as one of the precursors to the founding of  Floating Point Systems , Inc. and the Very Long Instruction Word ( VLIW ) architecture by Joseph Fisher and James Ellis.
+
+Culler returned to UCSB as an  adjunct professor  from 1982 through 1984. Over 25 companies in  Santa Barbara  were spun out of Culler’s work and the College of Engineering’s Computer Research Laboratory including  Culler Harris  and  Culler Scientific  .
+
+In 2000,  President of the United States   Bill Clinton  awarded Culler the  National Medal of Technology  for his "pioneering innovations in multiple branches of computing, including early efforts in digital speech processing, invention of the first on-line system for interactive graphical mathematics computing, and pioneering work on the ARPAnet."
+
+He was also a recipient of the  Seymour Cray Computer Science and Engineering Award  from the  Institute of Electrical and Electronics Engineers .

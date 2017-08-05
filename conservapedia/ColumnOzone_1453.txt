@@ -1,0 +1,2 @@
+Column ozone  is  ozone  between the Earth's surface and outer space.
+Ozone levels can be described in several ways. One of the most common measures is how much ozone is in a vertical column of air. The  Dobson unit  is a measure of column ozone. Other measures include partial pressure, number density, and concentration of ozone, and can represent either column ozone or the amount of ozone at a particular altitude.

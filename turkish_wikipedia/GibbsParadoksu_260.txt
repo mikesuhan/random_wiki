@@ -1,0 +1,191 @@
+İstatistiksel mekanik ,  entropinin  yarı-klasik türevinde parçacıkların ayırt edilemezliklerini hesaba almaz, kapsamlı olmayan bir entropi ifadesi verir (Söz konusu maddenin miktarı ile orantılı değildir). Bu,  Josiah Willard Gibbs 'den sonra, Gibbs paradoksu olarak bilinen bir  paradoksa  yol açar. Paradoks kapalı sistemlerin entropisini azaltmak için  termodinamiğin ikinci yasasını  ihlale izin verir. Konuyla ilgili bir paradoks da "karıştırma paradoks" udur. Eğer entropi tanımının parçacık permütasyonu göz ardı edilerek değiştirilmesi gerektiğini göz önüne alırsak, paradoks önlenir.
+
+Eğer ideal gaz entropisi büyük değilse, Gibbs aşağıdaki sorunların ortaya çıktığını kabul eder. İki ideal gazın, iki özdeş kapta yan yana duruyor. Belirli bir  S  miktarı kadar entropiye sahip ve gaz kapları birbirine bağlantılıdır. Ayrıca her bir kabın hacmine de bağlıdır. Şimdi, kap duvarlarında bulunan kapı açıldığında, kaplardaki gaz parçacıklarının karışmasına izin verilir. Sistem dengede olduğu için hiçbir makroskobik değişiklik meydana gelmez. İki kap sisteminde gazın entropisi hemen hesaplanabilir ancak denklem kapsamlı değilse, entropi 2 S  olmaz. Aslında, Gibbs’in kapsamlı olmayan entropi denklemine ek entropi tahmin edilebilir. Kapıyı kapatmak, entropiyi 2 S ’den azaltır. Bu  termodinamiğin ikinci yasasının  sözde ihlalidir.
+
+Gibbs tarafından anlaşılmış ve yakın zamanda yeniden vurgulandığı gibi, bu enropi denklemine bir yanlışlık vardır. Eğer gaz parçacıkları ayırt edilirse kapıları kapatmak sistemi tekrar orijinal durumuna döndürmeyecektir. Burada düzenli olarak tanımlanmış bir özgürlük var ve bu entropiyi artırmakla sonuçlanmasaydı bir hata olurdu. Özellikle, Gibbs’in kapsamlı olmayan ideal gaz entropi denklemi parçacıkların sayısının değiştirilmesi için tasarlanmadı.
+
+Paradoks, parçacıkların ayırt edilemezlikleri ile önlenir. Bu, entropi için türetilen  Sackur–Tetrode denklemi  ile sonuçlanır.
+
+Klasik mekanikte,  ideal gaz  enerjisi  U ,  N  parçacığın hacmi V , her parçacığın kütlesi  m ,  momentum  vektörü  p  ve konum vektör  x  ile gösterilir. Bunun 6N boyutlu  uzay fazında  özel bir nokta belirlendiği düşünülebilir. Eksenlerin her biri bir parçacığın ivme ve konum koordinatlarıdır. Gaz belirli bir enerjiye sahiptir:
+
+Ve  V  hacminin içinde yer alır( V  ,  x  kenarlı bir kutu ise  V = X 3 )
+
+İlk kısım (2 mU ) 1/2  yarıçaplı bir 3N boyutlu  hiperküreyi  ve ikincisi hacmi  V N  olan 3N boyutlu bir hiperküpü tanımlar. Bunların kombinleri 6N boyutlu bir hipersilindir oluşturur. Bir silindirin yüzey alanı taban alanı çarpı yüksekliğe eşittir. Bu nedenle hipersilindirin alanı φ olup:
+
+Entropi gaz miktarının logaritması ile orantılıdır. Kuantum mekaniğinin ortaya çıkışından önce, bu sonsuzluk uzay fazı ayrımı yaparak düzenlenmişti. Uzay faz ayrımı  
+ 
+ 
+ 
+ 
+ h 
+ 
+ 3 
+ N 
+ 
+ 
+ 
+ 
+ {\displaystyle h^{3N}} 
+ 
+  hacimli bloklar haline blünür. Böylece h sabiti, matematiksel hile sonunda ortaya çıktı ve fiziksel öneme sahip olmadığı düşünüldü. Durum sayısını hesaplamak için uzay fazındaki hacmi hesaplamak gerekir. Bu bizi başka bir soruna götürür: Hacim sıfıra aklaşıyor gibi görünür. Çünkü uzay zamanındaki alan sıfır kalınlığında bir alan olabilir. Bu sorun sonsuz doğrulukla sahip olunan enerji U’nun bir eseridir.
+
+Simetriler dışında genel bir sistemde, kuantum tedavisi ayrık bir dejenere olmayan enerji durumlarına neden olur. Enerjinin kesin bir özelliği sistem içinde kesin durumunu saptamak istemesidir. Böylece, sistemde mevcut durumların bir sayısı olacaktır. Bu nedenle entropi sıfır olur. Biz U olan bir iç enerji belirttiğimizde, bizim anlatmak istediğimiz şey gazın toplam enerjisi  
+ 
+ 
+ 
+ δ 
+ U 
+ 
+ 
+ {\displaystyle \delta U} 
+ 
+ ve U aralığı içinde bir yer alır. Burada  
+ 
+ 
+ 
+ δ 
+ U 
+ 
+ 
+ {\displaystyle \delta U} 
+ 
+  çok küçük alındığında, büyük N için entropi  
+ 
+ 
+ 
+ δ 
+ U 
+ 
+ 
+ {\displaystyle \delta U} 
+ 
+  seçimine bağlı değildir  
+ 
+ 
+ 
+ δ 
+ p 
+ = 
+ δ 
+ 
+ ( 
+ 
+ 
+ 2 
+ m 
+ U 
+ 
+ 
+ ) 
+ 
+ = 
+ 
+ 
+ 
+ m 
+ 
+ 2 
+ U 
+ 
+ 
+ 
+ 
+ δ 
+ U 
+ 
+ 
+ {\displaystyle \delta p=\delta \left({\sqrt {2mU}}\right)={\sqrt {\frac {m}{2U}}}\delta U} 
+ 
+ .
+
+Entropi şu şekilde bulunur:
+
+S 
+ = 
+ k 
+ 
+ ln 
+ ⁡ 
+ ( 
+ ϕ 
+ δ 
+ p 
+ 
+ / 
+ 
+ 
+ h 
+ 
+ 3 
+ N 
+ 
+ 
+ ) 
+ 
+ 
+ {\displaystyle \left.\right.S=k\,\ln(\phi \delta p/h^{3N})}
+
+Burada  k ,  Boltzmann Sabiti ’dir.  Gama fonksiyonu  için  Stirling tahminlerini  kullanırsak, büyük  N  için entropi;
+
+Bu miktar aynı parçacık sayısı ve aynı enerjili iki özdeş hacimliler göz önüne alındığında görülebileceği gibi geniş değildi. İki hacmin bir bariyer ile ayrıldığını varsayalım.Duvar çıkartma ya da takma tersinirdir ama bariyer çıkarıldıktan sonra entropi farkı:  
+ 
+ 
+ 
+ δ 
+ S 
+ = 
+ k 
+ 
+ [ 
+ 2 
+ N 
+ ln 
+ ⁡ 
+ ( 
+ 2 
+ V 
+ ) 
+ − 
+ N 
+ ln 
+ ⁡ 
+ V 
+ − 
+ N 
+ ln 
+ ⁡ 
+ V 
+ ] 
+ 
+ = 
+ 2 
+ k 
+ N 
+ ln 
+ ⁡ 
+ 2 
+ > 
+ 0 
+ 
+ 
+ {\displaystyle \delta S=k\left[2N\ln(2V)-N\ln V-N\ln V\right]=2kN\ln 2>0} 
+ 
+  Bu termodinamik çelişmedir. Buna Gibbs Paradoksu denir. Paradoks, gaz parçacıklarının aslında ayırılamaz olduğu varsayılarak giderilir. Bu sadece parçacıkların permütasyonlarının farklı olduğu tüm durumların aynı durum olarak kabul edilmesi anlamına gelir. N  tan gaz parçacığı için, eğer her parçacığın farklı tek bir parçacık olduğunu varsayarsak bu durumda aynı olan  N!  durum vardır. Bu varsayım gazın son derece yüksek yoğunlukta olmaması şartıyla yapılabilir. Norma şartlar altında, gaz alanının hacmi, içerilen gaz tarafından hesaplanabilir. Yine büyük  N  için Stirling tahminleri kullanılarak; ln( N! ) ≈  N  ln( N ) -  N  , entropi:
+
+Kolayca genişletilebilir olduğu gösterilebilir. Buna  Sackur–Tetrode eşitliği  de denir.
+
+Yakından ilgili bir paradoks ise karıştırma paradoksudur. Yine bölmeli bir kutu düşünelim. Bir bölmede A, diğer bölmede B gazı var ve iki gaz da aynı sıcaklık ve basınca sahiptir. Eğer A ve B gazları farklı gazlar ise karıştırma nedeniyle ortaya çıkan bir enerji varır. Eğer gazlar aynı ise ek bir entropi hesaplanmaz. Paradoksda iki gaz benzer olabilir ama aynı gaz oldukları sürece karıştırma entropisi örülmeyebilir.
+
+Çözünürlük, entropinin dikkatli bir şekilde anlaşılmasını sağlamaktadır. Özellikle, Joynes tarafından açıklandığı gibi entropi tanımında bir nedensizlik vardır. Joynes’in bildirilerindeki bir örneğin dayandığı bir gerçek vardır: Eğer iki farklı gazın ayırt edilemediğine dair bir fikre dayanan bir teori geliştirilir ve hiç kimse bu gerçeği algılamak için herhangi bir ölçüm yapmazsa, bu teori hiçbir tutarsızlığa sahip olmayacaktır. Başka bir deyişle, eğer henüz farklı olduğu keşfedilmemiş A ve B gazları varsa, onların aynı sayılması teorik problemlere neden olmayacaktır. Eğer bir deney yanlış sonuçları veren gazlarla yapılırsa biz kesinlikle farklılıklarını tesit için bir yöntem keşfetmiş olacağız ve o bölüm çıkartıldığında entropi artışı yeniden hesaplanabilir.
+
+Bu anlayış, termodinamik durumun ve entropinin biraz öznel olduğunu göstermektedir Entropinin diferansiyel artışı (dS), bezer olmayan elementlerin karışımı sonucu, sıcaklık (T) ile çarpılması; gazları orijinal durumlarına döndürmek için yapmamız gereken minimum işe eşittir. İki farklı gaz bölmelerle ayrılmışsa biz aralarındaki farkı tespit edemeyiz. Bölmeleri çıkartalım. Yeniden orijinal termodinamik durumuna gelmeleri için ne kadar iş yapılması gerekir? Hiç. Basitçe bölmeleri yeniden takın. Farklı gazların karışmış olması, gaz halinde tespit edilebilir bir değişikliğe neden olmaz. Aralarındaki fark ayırt edilebilir duruma geldikçe, orijinal makroskobik yapılandırmayı kurtarmak için gerekli iş miktarı sıfır olmaz ve iş miktarı bu farklılığın büyüklüğüne bağlı değildir.
+
+Ayırt edilemez parçacıklar  ve  doğru Boltzmann hesaplaması  dikkate alındığında, bu mantık çizgisi özellikle bilgilendiricidir. Bu gaza mevcut durumların sayışa için Boltzmann’ın orijinal ifadesi, belirli bir sayıda parçacık içeren bir dizi alt sınır enerji olarak ifade edilebilir olduğunu varsaymaktadır. Bir alt düzey parçacıklar birbirinden ayırt edilemez olarak kabul edilirken, farklı alt düzey parçacıklar başka alt düzeylerden ayırt edilebilirler. İki farlı alt düzey parçacığın değişimi, makro ölçekte farklı bir değişim algılanmasına neden olur. Örneğin, N parçacıklı basit bir gaz düşünelim. Bu gaz yeterince düşü yoğunlukta ve her alt düzey ya bir parçacık içeriyor ya da hiç içermiyor. Bunun anlamı bir kap gaz, N!’ de bir olacak şekilde algılanır.
+
+Karşılaştırma paradoksu iki farklı kapla başlıyor gibi algılanabilir ve karıştırma zerine sonuçlanan ilave entropi, ilk duruma geri döndürmek için gerekli ortalama enerji ile orantılıdır. Böylece extra entropi, asit gazı orijinaline döndürmek için gereken ortalama iş ile orantılıdır. Eğer biz deneysel olarak saptanabilen bir değişim olmadığını varsayarsak daha sonra entropi, parçacıkların ayırt edilemez varsayımının sonucunu kullanarak tutarlı bir teoriye ulaşacaktır. Bu Boltzman doğru saymadır. Kuantum teorisine göre, Gibbs paradoksu çözünürlüğünün parçacıklar gibi ayırt edilemez olduğu gerçeğinden kaynaklandığı söyleniliyor Joynes’in mantığına göre, eğer parçacıklar herhangi bir nedenle deneysel olarak ayırt edilemez ise Gibbs paradoksu çözünür. Ayrıca, Kuantum mekaniği sadece kuantum dünyasında bir güvence sağlar. Bu ayırt edilemezlik, yetersiz deneysel kapasitede olma yüzünden prensip olarak doğru olacaktır.
+
+Bir ideal gazın entropisinin saf klasik hesaplaması, parçacıkların değişimine izin verilmesi halinde iki sistem için de geniş bir sonuç verir. Aşağıdaki üç hesaplama bu hesaplamayı kolaylaştırır:
+
+Biz integrandın erişilebilir uzay fazlı olan  Boltzmann entropisinin  Boltzmann entropisinin bir sürümü :
+
+İntegral, enerjinin korunumuna bağlı uzay fazının mevcut bölgelerinde bir konturla sınırlıdır. Üniversitede fizik okuyan öğrencilerin karşılaştığı tek-boyutlu çizgi integrallerinin aksine, sabit enerji konturu büyük bir boyuta sahiptir. Kanonik faz alanı üzerinde entegre gerekçesi eşit olasılık varsayımını içerir. Varsayım  ergodik hipotezi  (bilgisayar simülasyonları ve gerçek deneylerde her zaman geçerli değildir) yanı sıra Liouville teoremi ( Hamiltonian  sistemler için matematiksel kanıtlanabilir) kullanılarak yapılabilir. Çoğu entropi hesaplamasında, boyut numaraları sistem içindeki parçacıkların sayısına eşittir. Bu, parçacıkların entropi sayısının bağımlılığı için açık ve basit bir türetme oluşturmadaki zorlukları açıklayabilir.

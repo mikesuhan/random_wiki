@@ -1,0 +1,47 @@
+Half-life  is a term that can be used to quantify the rate of decay for any system that undergoes  exponential decay . It is the time it takes for half of the sample to decay. [1]
+
+The term is most commonly applied to spontaneous  radioactive  decay of an  isotope , but is applicable to any substance or system that undergoes exponential decay.
+
+It is notable that for a given substance with a constant rate of decay the half-life is of a constant duration whatever the size of the sample, provided the sample is large enough to smooth out statistical variations.
+
+Consider an isotope which has a half-life of, say, one year. If we have a sample that contains 1,000,000,000  atoms  of the isotope (in practice this is a minuscule amount) then after one year we would expect 500,000,000 atoms to have decayed and 500,000,000 to remain. The numbers would not be exact, but the quantities are large enough for variations to be proportionally insignificant.
+
+Now we have a sample of 500,000,000 atoms. Because the half-life is independent of quantity, after another year we will be down to 125,000,000 remaining and after a further year 62,500,000.
+
+After ten years we would mathematically expect to have 976,562.5 atoms left. Clearly half an atom is impossible, but this is the  expectation value  for the result we would have.
+
+Note that if we had begun with a smaller sample, say half the size at 500,000,000 atoms, then the time for it to decay to around 976,000 atoms would not be 50% of the time for the larger sample, but in fact (in this case) 90%.
+
+When numbers are really small the concept of half-life becomes less useful. A single atom has a probability of decaying, but we cannot consider the concept of half of it being left. However we can say that the probability of its decay occurring either before or after the half-life has expired is 50/50.
+
+While different isotopes have different half-lives, [2]  some being very short and difficult for scientists to study, the concept is a useful one for measuring and comparing the decay rates of different isotopes.
+
+There are a number of practical applications.
+
+Nuclear waste  - the by-product of  nuclear power  generation and  nuclear weapon  explosions - is often itself  radioactive  and therefore  toxic . The time for the waste to decay to substances that are safe and stable can be indicated by the half-life. That is not to say that the waste will be safe after one half-life, but it does give some indication of the order of magnitude. An isotope with a half life of minutes will disappear very quickly; one with a half life of centuries will not.
+
+Calculations are further complicated by the fact that the waste may be a mixture of different isotopes, and that the results of decay may be isotopes with are themselves radioactive and have their own half-lives. The duration of subsequent half-life could be vastly different (longer or shorter) than that of the parent isotope.
+
+The concept is also useful in  radiometric dating  such as with  carbon-14 . If a sample of a substance can be measured to have a certain amount of a decay product and the original amount of the parent isotope can be estimated or inferred then amount of decay can be used in combination with the half-life to estimate how long ago the substance formed.
+
+Exponential decay occurs in a situation where every atom of the sample of the isotope has the same fixed probability of decaying. For a given isotope this is expressed as   - the probability that a particular atom will decay in the next second.
+
+This gives the equation of the rate of decay (the number of atoms decaying per second) in a sample of N atoms as:
+
+This integrates to give an equation for the number of atoms after a time t being:
+
+Where   is the amount at time t and   is the amount at time  .   is the mean lifetime, which is the reciprocal of  .
+
+Mean lifetime is a constant for any given isotope, but half-life (  ln 2) is of more practical use.
+
+It may seem counter-intuitive that the half life is constant regardless of the sample size, but it is mathematically inevitable. In a larger sample more atoms will decay, but similarly more atoms will not decay. However large the sample, these two number remain in balance and so the half life is constant.
+
+Calculations of the age of the  Earth  based on radiometric dating tend to give an age much greater than the 6,000 years claimed in the  Bible . This leads some people to doubt the Bible and others to doubt the assumptions behind radiometric dating, one of which is the constancy of decay rates and hence half lives over time.
+
+It should be noted that the measurement of half-life is based on  recent  observations during scarcely more than a century since radioactivity was discovered.
+
+The  creationist  blog  Answers in Genesis  suggests that half-life varies over time. [3]
+
+However, indirect observations can allow us to infer radioactive decay rates over much longer time-scales. For example, we can measure gamma radiation rates at specific frequencies from distant  supernovae  and compare this to the rate expected for the mass of the star. This has given rates for supernoave as distant as 169,000  light years  which are consistent with those measured today. Thus it would seem decay rates have been the same for at least the past 169,000 years. [4]
+
+More recent measurements have noted some slight cyclic changes in decay rates on a 33-day period. [5]  While no definite explanation has been found, it is notable that 33 days is also the rotation period of the  Sun 's core. It is possible that  neutrino  emissions from the sun are affecting either the measuring equipment or the rate of decay (making it stimulated rather than spontaneous). However, since this variation is cyclic it does not have any significant effect on radiometric calculations. It might however be important when calculating doses in the field of  radiotherapy .

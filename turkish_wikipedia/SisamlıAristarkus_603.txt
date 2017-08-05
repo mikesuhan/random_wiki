@@ -1,0 +1,23 @@
+Aristarkus  (Yunanca: Ἀρίσταρχος, Arístarchos; MÖ 310 – ca. MÖ 230) Yunan  gökbilimci  ve  matematikçi ,  Sisam  adasında doğdu. Evrenin merkezine  dünyayı  değil de  güneşi  koyan  günmerkezlilik  inanışının bilinen ilk savunucularındandı.  Pisagor 'dan ve  Filolaos 'dan etkilendi. Her ikisi de güneşi merkeze koymalarına rağmen,  gezegenlerin  diziliş sırası açısından Filolaos'dan farklı görüşlerde oldu. Onun astronomik fikirleri 1800 yıl boyunca geçerliliğini sürdüren  Aristo  ve  Batlamyus 'un yermerkezli teorileri karşısında rağbet görmedi ta ki  Kopernik ,  Kepler  ve  Newton 'un buluşlarına kadar.  Ay 'daki Aristarkus Krateri'ne onun adı verilmiştir.
+
+Günümüze kadar ulaşabilen  Ay ve Güneş'in Büyüklükleri ve Uzaklıkları  isimli güneş merkezli evren modeline dayanan eser Aristarkus'a atfedilir. Bu çalışması, geometri bilgisi ile astronomi problemlerini çözme girişimidir. Gökbilimi hakkında burada yaptığı çalışmalar daha sonra  Kopernik  modeline temel oluşturmuştur. Kitabın orijinali kayıp olmasına rağmen  Arşimet 'in  Kum Hesaplamaları  kitabında Aristarkus'un başka bir çalışmasıyla ilgili Arşimet şunları yazmıştır:
+
+Sen (Kral Gelon) senin de bildiğin gibi ‘’evren’’ birçok gökbilimcinin dünyanın da merkezi olan alana verdiği isimdir ve yarıçapı dünyanın merkezi ile güneşin merkezi arasındaki doğrunun uzunluğuna eşittir. Bu hesaplama şu ana kadar gökbilimcilerin ortak görüşüdür. Fakat Aristarkus’un hipotezler içeren kitabındaki varsayımların bir sonucu olarak aslında evrenin sanılandan çok daha büyük olduğu iddia ediliyor. Hipoteze göre sabit yıldızlar ve güneş hareket etmezken dünya belirli bir yörüngede güneşin etrafında dönüyor, güneş merkezde yer alıyor ve sabit yıldızlar güneş ile aynı merkezin etrafında duruyor. [1]
+
+—Kum Hesaplamaları
+
+Aristarchus'a göre  yıldızlar  çok uzakta olmalıydı çünkü o dönemlerde gezegenlerin, yerküreye olan uzaklığını hesaplamada kullanılan bir yöntem olan  ıraklık açısı  yöntemine göre yıldızlar için görünen bir ıraklık açısı yoktu. Aslında yıldızlar o dönemde düşünülenden çok daha fazla uzaktaydılar çünkü yıldızsal ıraklık açısı sadece  teleskop  ile belırlenebilirdi.
+
+Yermezkezci  model gezegensel ıraklık açısına uygun olarak yıldızsal açının neden gözlenemez olduğunu açıklıyordu. Yermerkezci yaklaşıma göre eğer dünya dönüyor olsa idi çok hızlı hareket etmeliydi ve üzerinde yaşayan canlılar bunu hissetmeleri gerekiyordu. Hatta  Klaentes 'e (Aynı çağda yaşayan  Stoacıların  lideri) göre Aristakrus'u suçlamak her Yunanın bir görevi olmadıydı çünkü güneşin merkezde olduğu fikrini savunmak dinsizlik sayılırdı. [2]
+
+Antik çağlarda onun günmerkezci evren modelini kabul eden ondan bir yüzyıl sonra yaşayacak olan  Babilli  gökbilimci  Selevkoslu Selekus  olacaktı. [3]
+
+Aristarkus “ Ay ve Güneş'in Büyüklükleri ve Uzaklıkları ” isimli çalışmasında o dönemlerde daha hiçbir gök cisminin boyutu bilinmediğinden uzaklık ve yarıçapları, yer  yarıçapı  cinsinden vermiştir. Ay’ın evrelerini takip etmiş buradaki gözlemlerinden Ay ve Güneş uzaklıkları oranını bulmuştur.
+
+Aristarkus, Ay’ın uzanım açısını 87° 08' ölçtü. [4] [5]  Gerçekte Ay’ın uzanım açısı; 89°50' 30"dir. O tarihte sadece göz yardımıyla bu açıyı hesaplaması şaşırtıcıydı.
+
+Aristarkus’un yanılgısı, Yer atmosferinin kırılmasını gözönüne almamış olmasıydı. Aldığı bu açıya göre güneşin ayda 18-20 kere daha uzak olduğunu tahmin etti gerçekte güneş-dünya uzaklığı ay-dünya uzaklığının 400 katıdır  [4] [5] .
+
+Aristarkus güneş ve ayın dünyadan hemen hemen aynı boyuttaymış gibi göründüklerini hesaba katarak çaplarının da dünyaya uzaklıkları oranında artacağını tahmin etti. Bu yüzden güneşin çapının ayın çapından 18-20 kat uzun olduğunu iddia etti. Ayrıca güneşin çapının dünyanın çapına oranını 7 de 1 olarak hesapladıysa da buran yaklaşık 109 da 1 birdir.
+
+Sonuç olarak Aristarkus doğru bir yöntem takip etmiş ancak yanlış gözlem ve hasaplamalar yapmıştır. Böyle olsa bile güneşin boyut olarak dünyadan büyük olduğu sonucuna varmış bununla beraber de mantık olarak dünyanın güneşin etrafında dönmesi gerektiği tezine ulaşmıştır

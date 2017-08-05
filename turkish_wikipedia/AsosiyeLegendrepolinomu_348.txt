@@ -1,0 +1,532 @@
+Matematikte ,  asosiye Legendre polinomları   genel Legendre denklemi nin kurallı çözümleridir
+
+veya eşdeğeri
+
+burada indisler sırasıyla ℓ ve  m  (bunlar tam sayılardır) derece olarak adlandırılıyor ve sırasıyla asosiye Legendre polinomunun derecesidir. Bu denklemin sıfır olmayan çözümleri var ve bu [−1, 1] üzerinde tekil olmayandır yalnızca ℓ ve  m  0 ≤  m  ≤ ℓ veya önemsiz eşdeğer negatif değerler ile birer tamsayidirlar.Eğer ek olarak  m  çiftse,fonksiyon bir  polinomdur  ve yine  m  sıfır ve  ℓ  tam sayı ise, bu fonksiyonlar  Legendre polinomlarına  denktir.Genelde ℓ ve  m  tam sayıdır ve düzenli çözümlere bazen "asosiye Legendre polinomları" denir,alınan  polinom  değilse o zaman  m  tektir.Fonksiyonlar tam genel sınıfı ile keyfi ℓ ve  m  nin gerçek karmaşık değerleri  Legendre fonksiyonlarıdır .Bu durumda parametreler genellikle grek harfleri ile etiketlenir.
+
+Legendre  adi diferansiyel denklemine   fizik  ve diğer teknik alanlarda da sık rastlanir. Özel olarak,  küresel koordinatlar  içinde  Laplace denklemiyle  ilişkili ( kısmi diferansiyel denklemler ) çözümler oluşturur ve buna bağlı olarak Legendre polinomları  küresel harmoniklerin  tanımında önemli bir rol oynamaktadır.
+
+Bu fonksiyonlar  
+ 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ ( 
+ x 
+ ) 
+ 
+ 
+ {\displaystyle P_{\ell }^{m}(x)} 
+ 
+ , ile ifade edilir burada alt indislerin derecesi,ve  P  nin bir kuvveti değildir. Onların en basit tanımı adi  Legendre polinomlarının  ( m  ≥ 0) türevlerinin terimleri içindedir Yani
+
+bu formül içinde (−1) m  faktörü  Condon–Shortley fazı  olarak biliniyor bazı yazarlar onu ihmal eder.Bu denklem ile tanımlanan fonksiyonlar  P ℓ  için Legendre denkleminin  m  inci türevi alınarak parametreler ℓ ve  m' in aşağıdaki belirtilmiş değerleri ile genel Legendre diferansiyel denklemini sağlamalıdır. [1]
+
+Bundan öte  Rodrigues formülü  ile
+
+P m ℓ  formu içinde ifade edilebilir.
+
+Bu denklem −ℓ ≤  m  ≤ ℓ için  m '  in sınırlarının uzantısını sağlar.  P ℓ ± m ,in tanımları ± m  in yerine konmasi ile bu ifade sonucu orantılıdır. Nitekim, sol ve sağ taraftaki eşit kuvvetlerin katsayıları eşitlenir
+
+o zaman orantısallık sabiti olacağı anlamına geliyor
+
+böylece
+
+Aşağıdaki alternatif gösterimler de literatürde kullanılır: [2]
+
+Varsayalımki 0 ≤  m  ≤ ℓ, burada sabitlenmiş  m  diklik için şunu karşılıyor
+
+Burada δ k , ℓ   Kronecker deltadır
+
+Ayrıca, sabit ℓ için diklik koşulunu karşılayacak:
+
+Diferansiyel denklem  m' in işareti içinde bir bir değişiklik altında açık değişmezdir
+
+Negatif  m  fonksiyonları pozitif  m  koşullarıyla orantılı olduğu yukarıda gösterilmiştir :
+
+(Bu Rodrigues formülü tanımı ve aynı zamanda çeşitli pozitif veya negatif  m  için yineleme formüllerinin çalışmasını sağlıyor.)
+
+If 
+ 
+ 
+ 
+ 
+ ∣ 
+ 
+ m 
+ 
+ ∣ 
+ 
+ > 
+ ℓ 
+ 
+ 
+ 
+ i 
+ s 
+ e 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ = 
+ 0. 
+ 
+ 
+ 
+ {\displaystyle {\textrm {If}}\quad {\mid }m{\mid }>\ell \,\quad \mathrm {ise} \quad P_{\ell }^{m}=0.\,}
+
+Diferansiyel denklem ℓ den −ℓ − 1'ye bir değişiklik altında ayrıca değişmezdir, ve negatif ℓiçin fonksiyonlar şöyle tanımlanır
+
+m  negatif değerler için olanlar da dahil olmak üzere ilk birkaç ilişkili Legendre fonksiyonları:
+
+Bu fonksiyonların yineleme özelliklerinin dizisi var:
+
+Faydalı denklikler (ilk yineleme için başlangıç değerleri):
+
+!! çift faktöriyel  dir.
+
+Legendre polinomları içinde bir doğrusal seri içine Legendre polinomlarının çarpımlarını geliştirilirken (aşağıda gösterilen gibi eşleşen dereceler ile) üç asosiye Legendre polinomları çarpımı üzerinde integral gerekli bir bileşendir. Örneğin, bu Coulomb operatörün matris elemanları için  Hartree–Fock  un çeşitli atom hesaplamalarında gerekli olduğu ortaya çıkıyor. Bunun için de Gaunt formulü var.Bunun için de Gaunt formülü var  [3]
+
+Bu formül, aşağıdaki varsayımlar altında kullanılacaksa:
+
+Formül içinde yer alan, diğer nicelikler olarak tanımlanmaktadır
+
+integral sıfır olmadıkça
+
+Bu fonksiyonların aslında genel karmaşık parametreler ve argümanı için tanımlanmış olabilir:
+
+burada  
+ 
+ 
+ 
+ Γ 
+ 
+ 
+ {\displaystyle \Gamma } 
+ 
+   gama fonksiyonu  ve  
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ F 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ {\displaystyle _{2}F_{1}} 
+ 
+   hipergeometrik fonksiyonlardır
+
+Bu daha genel bir şekilde tanımlandığında bunlara  Legendre fonksiyonları  denir.bunlarda daha önce olduğu gibi aynı diferansiyel denklemi sağlamalıdır:
+
+Bu ikinci dereceden bir diferansiyel denklem olduğundan, ikinci bir çözüm,  
+ 
+ 
+ 
+ 
+ Q 
+ 
+ λ 
+ 
+ 
+ μ 
+ 
+ 
+ ( 
+ z 
+ ) 
+ 
+ 
+ {\displaystyle Q_{\lambda }^{\mu }(z)} 
+ 
+ , :
+
+olarak tanımlanıyor. 
+ 
+ 
+ 
+ 
+ P 
+ 
+ λ 
+ 
+ 
+ μ 
+ 
+ 
+ ( 
+ z 
+ ) 
+ 
+ 
+ {\displaystyle P_{\lambda }^{\mu }(z)} 
+ 
+  ve  
+ 
+ 
+ 
+ 
+ Q 
+ 
+ λ 
+ 
+ 
+ μ 
+ 
+ 
+ ( 
+ z 
+ ) 
+ 
+ 
+ {\displaystyle Q_{\lambda }^{\mu }(z)} 
+ 
+ nin her iki türü uyar,yineleme formülleri önceden verilmişti.
+
+argüman açıların terimleriyle yeniden parametrelenen bu fonksiyonlar,çok kullanışlıdır,  
+ 
+ 
+ 
+ x 
+ = 
+ cos 
+ ⁡ 
+ θ 
+ 
+ 
+ {\displaystyle x=\cos \theta } 
+ 
+  yardımıyla:
+
+İlk birkaç polinomlar, bu şekilde parametrelidir:
+
+sabitlenmiş  m  için  
+ 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ ( 
+ cos 
+ ⁡ 
+ θ 
+ ) 
+ 
+ 
+ {\displaystyle P_{\ell }^{m}(\cos \theta )} 
+ 
+  ortogonaldir, 
+ 
+ 
+ 
+ [ 
+ 0 
+ , 
+ π 
+ ] 
+ 
+ 
+ {\displaystyle [0,\pi ]} 
+ 
+ ,üzerinde θ ile  
+ 
+ 
+ 
+ sin 
+ ⁡ 
+ θ 
+ 
+ 
+ {\displaystyle \sin \theta } 
+ 
+  ağırlığı ile parametrizedir:
+
+Ayrıcaℓsabitleyicisi için:
+
+θ'nın terimleri içinde,  
+ 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ ( 
+ cos 
+ ⁡ 
+ θ 
+ ) 
+ 
+ 
+ {\displaystyle P_{\ell }^{m}(\cos \theta )}
+
+nin çözümleridir.daha kesin olarak, verilen bir integer  m 
+ 
+ 
+ 
+ ≥ 
+ 
+ 
+ {\displaystyle \geq } 
+ 
+ 0 tam sayı,yukarıdaki denklemin tekil olmayan çözümler var yalnızca ℓ için  
+ 
+ 
+ 
+ λ 
+ = 
+ ℓ 
+ ( 
+ ℓ 
+ + 
+ 1 
+ ) 
+ 
+ 
+ 
+ {\displaystyle \lambda =\ell (\ell +1)\,} 
+ 
+  ≥  m ,bir tam sayıdır Ve bu sonuçlar  
+ 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ ( 
+ cos 
+ ⁡ 
+ θ 
+ ) 
+ 
+ 
+ {\displaystyle P_{\ell }^{m}(\cos \theta )} 
+ 
+  için orantılıdır
+
+küresel   simetri  söz konusu olduğu durumlarda  fizikte  birçok durumlarda, açıların terimleri içinde asosiye Legendre polinomları oluşabilir.. küresel koordinatlar  içinde eşenlem açı yukarda kullanılan  
+ 
+ 
+ 
+ θ 
+ 
+ 
+ {\displaystyle \theta } 
+ 
+  açısıdır.  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  boylam açısı bir çarpım faktörü içinde görüntülenir. Bununla birlikte bu fonksiyonlardan oluşanların kümesine  küresel harmonikler  denir. Bu fonksiyonlar SO(3)  Lie grubu 'nun hareketi altında  iki kürenin  simetri ifadesidir.
+
+Bu fonksiyonları kullanışlı yapan bir kürenin yüzeyi üzerinde. 
+ 
+ 
+ 
+ 
+ ∇ 
+ 
+ 2 
+ 
+ 
+ ψ 
+ + 
+ λ 
+ ψ 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle \nabla ^{2}\psi +\lambda \psi =0} 
+ 
+  denkleminin çözümleri için merkezdir.Küresel koordinatlar θ (eşenlem) ve φ (boylam),  Laplasyeni
+
+dir.Eğer  kısmi diferasiyel denklem  ise
+
+değişkenlerin ayrılması  çözüm metodudur, m≥0,tamsayıları için  
+ 
+ 
+ 
+ sin 
+ ⁡ 
+ ( 
+ m 
+ ϕ 
+ ) 
+ 
+ 
+ {\displaystyle \sin(m\phi )} 
+ 
+  veya  
+ 
+ 
+ 
+ cos 
+ ⁡ 
+ ( 
+ m 
+ ϕ 
+ ) 
+ 
+ 
+ {\displaystyle \cos(m\phi )} 
+ 
+  tek bir φ-bağımlı kısım alınıyor ve θ-bağımlı kısım denklemi için
+
+bunun için çözümler  
+ 
+ 
+ 
+ 
+ P 
+ 
+ ℓ 
+ 
+ 
+ m 
+ 
+ 
+ ( 
+ cos 
+ ⁡ 
+ θ 
+ ) 
+ 
+ 
+ {\displaystyle P_{\ell }^{m}(\cos \theta )} 
+ 
+  ile  
+ 
+ 
+ 
+ ℓ 
+ 
+ ≥ 
+ 
+ m 
+ 
+ 
+ {\displaystyle \ell {\geq }m} 
+ 
+  ve  
+ 
+ 
+ 
+ λ 
+ = 
+ ℓ 
+ ( 
+ ℓ 
+ + 
+ 1 
+ ) 
+ 
+ 
+ {\displaystyle \lambda =\ell (\ell +1)} 
+ 
+  dir.
+
+Dolayısıyla, denklemin
+
+tekil olmayan ayrılmış çözümleri yalnızca  
+ 
+ 
+ 
+ λ 
+ = 
+ ℓ 
+ ( 
+ ℓ 
+ + 
+ 1 
+ ) 
+ 
+ 
+ {\displaystyle \lambda =\ell (\ell +1)} 
+ 
+ ,ve bu sonuçlar orantılıdır
+
+ve
+
+ℓ'nin her seçimi için, burada  2ℓ + 1   m  nin çeşitli değerleri için fonksiyonlar ve sin ve cos'un seçimin.Bu tüm ℓ ve  m  her ikisi içinde ortogonal ise kürenin yüzeyi üzerinde integredir.
+
+Çözümler genellikle  karmaşık üstel  terimleri içinde yazılır:
+
+Fonksiyonlar  
+ 
+ 
+ 
+ 
+ Y 
+ 
+ ℓ 
+ , 
+ m 
+ 
+ 
+ ( 
+ θ 
+ , 
+ ϕ 
+ ) 
+ 
+ 
+ {\displaystyle Y_{\ell ,m}(\theta ,\phi )} 
+ 
+   küresel harmoniklertir , ve karekök içinde nicelik bir normalizasyon faktörüdür.Pozitif ilişkili Legendre fonksiyonları arasındaki ilişkiyi hatırlatarak, ve negatif  m , bu kolayca küresel harmonik kimliğini karşılayacağı gösterilmiştir [4]
+
+Fourier serisi  anlamıyla fonksiyonların tam bir ortonormal dik küme formu küresel harmonik fonksiyonlardır .Belirtilmelidir ki jeodezi,yerçekimi ve spektral analiz alanlarında çalışanlar burada verilenden daha farklı bir faz ve normalizasyon faktörü kullanırlar(bak  küresel harmonikler ).
+
+Ne zamanki bir 3 boyutlu küresel simetrik kısmi diferansiyel denklem küresel koordinatlardaki değişkenlerin ayrılması yöntemi ile çözüldü, ışınsal kısmın çıkarılmasından sonra kalan kısmı formun tipi
+
+dir ve bu nedenle çözümler küresel harmoniklerdir.
+
+Legendre polinomları  hipergeometrik seri  ile yakından ilişkilidir.Küresel harmoniklerin bir formu içinde,bu  Lie grubu  SO(3)ün hareketi altında  iki-kürenin  simetri ifadesidir. Burada diğer birçok SO(3) Lie gupları dışında, ve yarı-basit Lie grupları ve  Riemannyen simetrik uzaylarının  simetrik ifadesi için Legendre polinomlarının analog bir genellemesi var.Kabacası,simetrik uzaylarda bir Laplasyen tanımlanabilir; Laplasyen'in özfonksiyonları diğer çerçevelerde küresel harmonik genellemeler olarak düşünülebilir.

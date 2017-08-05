@@ -1,0 +1,1 @@
+A  rotation  is a movement of an object along a  circular   axis . The amount of rotation is given in  degrees  or  radians , and the force that moves the object is known as  torque . A rotation of 360 degrees is known as a  revolution .

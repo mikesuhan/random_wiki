@@ -1,0 +1,11 @@
+CoFluent Design  is a supplier of  electronic system-level  (ESL) modeling and simulation software. CoFluent is headquartered in Nantes, France, and has sales offices in Paris, France, San Jose, California, and Tokyo, Japan.
+
+Original CoFluent technology development was initiated by the Ecole polytechnique of the University of Nantes in France by Professor Jean-Paul Calvez and his research team. The technology represents 20 years of research on a methodology for the design of electronic systems called MCSE (French for Méthodologie de Conception de Systèmes Electroniques) which is in public domain . [1]
+
+In 2003, CoFluent was spun off as an independent company. [2]
+
+In 2007, CoFluent raised funds from venture capital firms. [3]  CoFluent Design key people include CEO, Stephane Leclercq, and Director, Vincent Perrier.
+
+CoFluent Design provides  system modeling  and simulation solutions that enable  embedded system  and chip designers to imagine and validate new concepts and architectures.
+
+In 2011, CoFluent Design was acquired by Intel. [4]  Under the terms of the acquisition, CoFluent Studio has also become the property of Intel. [4]  All CoFluent employees have also been picked up by Intel and will continue to provide customer support. [4]

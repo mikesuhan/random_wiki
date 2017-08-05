@@ -1,0 +1,13 @@
+İşlemci: 1.2 GHz / RAM: 256MB / Disk Alanı (GB): 4 / Ses kartı: Evet / DirectX 7
+
+Counter-Strike: Source  veya kısaca  CS: S ,  Valve  ve  Turtle Rock Studios  tarafından geliştirilen 1 Kasım 2004 tarihinde, çıkan bir  birinci şahıs nişancı   video oyunu . Oyun sadece  Source  oyun motoruyla yeniden yapılmış halidir. Ayrıca diğer  Counter-Strike  serilerinde olduğu gibi Teröristler bomba kurar ve Anti-Teröristler bombayı imha etmeye çalışır veya Anti-Teröristler rehineleri kurtarmaya çalışır ya da normal savaş yapılarak iki takımdan biri diğer takımdaki oyuncuların hepsini öldürmeye çalışarak oyunu kazanmaya çalışılır.
+
+Oyundaki amaç bazı haritalarda (genelde harita isminin başındaki "de_" takısı ile belirtilir) teröristlerin bomba kurup patlatması ve Anti-Teröristlerin bunu engellemeye çalışmasıdır. Diğer bazı haritalarda (genelde harita isminin başındaki "cs_" takısı ile belirtilir) Anti-Teröristler Teröristlerin tuttuğu rehineleri kurtarmaya çalışır ya da oyuncu karşı takımın oyuncularını öldürmeye çalışarak oyunu kazanır. Oyunda mermi önemli unsurdur. Sunucularda oyuncu öldürüldüğü zaman ölen kişi bir daha yeniden doğmaz. Ancak bazı sunucularda ölen kişi anında yeniden doğabilir. Diğer bazı oyunlarda da bu tarz oyun yapıları bulunmaktadır.
+
+Sürekli ateş etmek silahın ateş edeceği bölge farklı yerlere kayar ve geri tepme üretir. Silah ile bir oyuncunun kafasına ateş edildiğinde en etkili bölgedir. Hatta koruyucu başlık alınmamış ise kafaya isabet edildiğinde ölümcül olabilir.
+
+Oyunun kendi haritaları dışındaki ek haritalar internetten edinilebilir ve oyuna eklenebilir. Oyundaki mevcut haritalar aşağıda listelenmektedir.
+
+Bomba imha
+
+Rehine kurtarma

@@ -1,0 +1,5 @@
+Panamax  refers to a set of specifications for ships that are able to pass through the  Panama Canal . This relates to the maximum possible dimensions of the ship, and are as follows:
+
+Length: 950 ft
+Beam: 106 ft
+Draft: 39.5 ft (temperature dependant; this is the maximum value)

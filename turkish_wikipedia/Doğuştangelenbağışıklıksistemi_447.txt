@@ -1,0 +1,75 @@
+Doğuştan gelen bağışıklık sistemi  ya da  doğal bağışıklık , diğer  organizmaların  enfeksiyonlarına karşı spesifik olmayan yolla koruma yapan ev sahibinin savunmasındaki hücreleri ve mekanizmaları kapsayan bir  bağışıklık sistemi  çeşididir.
+
+Yani, doğuştan gelen bağışıklık sistemindeki hücreler  patojenleri  edinilmiş bağışıklıktan farklı şekilde, soysal olarak tanır ve yanıt oluşturur; uzun süreli olarak koruma yapmaz. [1]  Doğuştan gelen bağışıklık sistemi, enfeksiyonlara karşı anlık koruma sağlar ve hayattaki bütün  bitki  ve  hayvan   sınıflarında  bulunur.
+
+Doğuştan gelen bağışıklık sisteminin  evrimsel  süreçte meydana gelen eski koruma stratejisi olduğu ve  bitkilerde ,  mantarlarda ,  böceklerde  ve ilkel çok hücrelilerdeki baskın olarak bulunan bağışıklık sistemi olduğu düşünülmektedir (bakınız  #Doğuştan gelen bağışıklığın diğer şekilleri ). [2]
+
+Omurgalılardaki  doğuştan gelen bağışıklık sisteminin ana özellikleri şöyledir:
+
+Enflamasyon , bağışıklık sisteminin  enfeksiyona  ya da  irritasyona  karşı oluşan ilk yanıtlarından biridir. Enflamasyonda yaralanmış hücrelerce salınan kimyasal faktörler ve yaygın enfeksiyon karşısında fiziksel bir bariyer kurmak için yapılır ve zarar görmüş  dokuların  patojenlerden arındırılarak iyileştirilmesi sağlanmaya çalışılır. [3]  Enflamasyon sırasındaki kimyasal faktörler ( histamin ,  bradikinin ,  serotonin ,  lökotrienler ) ağrı reseptörlerini hassaslaştırır,  kan damarlarının   vazodilatasyonuna  yol açar ve fagositleri özellikle de  nötrofilleri  çeker. Nötrofiller de salınan faktörlerce diğer lökositler ve lenfositleri davet ederek bağışıklık sisteminin diğer parçalarını tetiklerler.
+
+Enflamatör yanıtın belirtileri şunlardır: Kızarıklık ( rubor ), sıcaklık ( calor ), şişme ( tumor ), ağrı ( dolor ) ve mevcut organ veya dokuların kullanılamazlığı ( functio laesa ).
+
+Kompleman sistemi, bağışıklık sisteminin biyokimyasal kaskadları, patojenleri ya da diğer hücrelerce yıkılan ürünlerini temizlemek için "yardımcı" ya da "tamamlayıcı" (komplemanter) olan antikor yeteneğindeki sistemdir. Kaskadlar,  karaciğerde , öncelikle  hepatositlerde  sentezlenen bazı plazma proteinlerinden oluşur.
+
+Bu proteinler şunlarla birlikte çalışır:
+
+Kompleman kaskadlarının elementleri,  bitkiler ,  kuşlar ,  balıklar  ve bazı  omurgasızlar  gibi evrimsel olarak  memelilerden  daha eski olan bazı türlerde bulunurlar. [4]
+
+Beyaz kan hücreleri "lökositler" olarak bilinir. Lökositler vücudun diğer hücrelerinden farklıdırlar, tamamen organ ya da doku parçalarıyla ilişkilendirilmezler, bu yüzden işlevleri tek hücreli canlılarınkine benzer olarak bağımsızdır. Lökositler serbestçe hareket edebilir, döküntüleri, yabancı parçacıkları ya da istilacı  mikroorganizmaları  yakalayabilir ve bunlara etki edebilir. Vücudun diğer hücrelerinden farklı olarak, doğuştan gelen çoğu bağışıklık lökositi bölünemez ya da kendi kopyalarını oluşturamazlar; fakat  kemik iliğinde  kan yapım hücrelerince yapılabilirler. [1]
+
+Doğuştan gelen lökositler şunlardır;  doğal öldürücü hücreler ,  mast hücreleri ,  eozinofiller ,  bazofiller ,  makrofajlar ,  nötrofiller  ve  dendritik hücreler  gibi fagositik hücreler. Bu hücreler, bağışıklık sistemince tanınan ve yok edilen enfeksiyonun nedeni olan patojenler üzerine etki ederler. [2]
+
+Mast hücreleri,  bağ dokuda  ve muköz membranlarda yerleşik olarak bulunan ve patojenlere karşı savunmayla ve sıcaklıkla ( calor ) yakından alakalı, fakat daha çok  alerji  ve  anafilaksi  ile ilişkilendirilen doğuştan gelen bağışıklık sistemi hücrelerinin bir çeşididir.
+
+Mast hücreleri aktive olduklarında, hızla karakteristik  histamin ,  heparince  zengin ve çeşitli  hormonal  arabulucuları ve  kemokinler  ya da kemotaktik  sitokinleri  ve granüllerini ortama salarlar. Histamin, enflamasyonun tipik belirtisi olarak kan damarlarını genişletir ve nötrofilleri ve makrofajları toplar.
+
+Fagositoz terimi literatürde "yiyen hücre" anlamına gelir. Bu bağışıklık hücreleri patojenleri ya da parçacıkları tam anlamıyla yutarlar. Patojenin ya da partikülün yutulması için bir fagosit plazma membranını ileriye doğru uzatır ve parça tamamen sarılınca da uzantılarını birleştirir, böyle partikül hücre içine alınmış olur. İstilacı patojen hücre içindeyken  endozom  içine alınmış olur ve  lizozom  ile birleştirilir. [2]  Lizozom, parçacıkları ya da canlıları öldüren ve sindiren enzimleri ve asitleri içerir. Fagositler genellikle vücutta patojenleri aramak için dolaşır haldedirler, sitokinler olarak adlandırılan hücrelerce üretilen yüksek özellikli moleküler sinyallerin bir grubuyla tepkimeye de girebilme yeteneğindedirler. Bağışıklık sisteminin fagositik hücreleri;  makrofajlar ,  nötrofiller  ve  dendritik hücrelerdir . Ev sahibinin kendi hücrelerinin fagositozu düzenli dokuların gelişimi ve bakımının bir parçasıdır. Ev sahibi hücreler " apoptozis " olarak adlandılan programlanabilir hücre ölümü ya da  bakteriyal  veya  viral  enfeksiyon sonucu gerçekleşen hücre yaralanmalarında fagositik hücrelerce etraflarını etkilemeden yok edilirler. [1]
+
+Ölü hücrelerin yokedilmesiyle yeni hücrelerin gelişmesi ve büyümesine yardım edilmiş olur, fagositoz, doku yaralanma sonrası iyileşme sürecinin önemli bir parçasıdır.
+
+Makrofajlar  Yunanca "büyük yutan hücre" anlamına gelir,  kılcal damarlar  boyunca hücre membranını geçerek  vasküler sistemin  dışına çıkabilen ve istilacı patojenleri kovalayarak hücreler arası alanlara girebilen büyük fagositik  lökositlerdir . Dokularda, organlara özelleşmiş makrofajlar fagositik hücrelerden farklılaşarak kanda "monosit" olarak adlandılırlar. Makrofajlar en becerikli fagositlerdir ve bakterilerin, mikropların ya da diğer hücrelerin önemli miktardaki sayılarını fagosite ederler. [2]
+
+Nötrofiller   eozinofil  ve  bazofiller  gibi,  sitoplazmalarında  granüller taşıyan, diğer hücrelerden taşıdıkları parçalı  hücre çekirdekleriyle  ayrılan "polimorfonüklear (PMNler) hücreler" ya da "granülosit" olarak bilinen hücrelerdendir. Nötrofil granülleri, bakterileri ve mantarları öldüren ya da gelişmelerini baskılayan çeşitli toksik maddeler içerirler.
+
+Makrofajlara benzer olarak, nötrofiller de patojenlere bir "respiratör yangı"yı aktive ederek saldırılar. Nötrofillerin respiratör yangısının ana ürünleri oldukça güçlü hidrojen peroksit, serbest oksijen radikalleri ve hipoklorit gibi gibi  oksitleyici ajanlardır . Nötrofiller fagositlerin en çok bulunan tipleridir, normalde dolaşan lökositlerin %50-60 oranında bulunurlar ve genellikle bir enfeksiyonda bölgeye ulaşan ilk hücrelerdir. [3]
+
+Sağlıklı normal bir yetişkinin  kemik iliği  her gün 100 milyardan daha fazla nötrofil üretir ve akut enflamasyon sırasında gün içinde 10 kereden fazla üretim yapar. [3]
+
+Dendritik hücreler  (DC) dış çevreyle iletişim halinde olan dokularda, özellikle deri (deride "Langerhans hücreleri" olarak isimlendirilirler)  burun ,  akciğerler , karın ve bağırsaklar ve diğer iç mukozal sınırlarda bulunan fagositik hücrelerdir. [1]  Sinir hücreleri  nöronlara  benzeyişlerinden dolayı böyle isimlendirilmiş olsalar da,  sinir sistemiyle  ilgileri yoktur. Dendritik hücreler antijen sunumu sürecinde doğuştan gelen ile edinilmiş bağışıklık sisteminde arasında bağlantı oluşturduklarından oldukça önemli bir role sahiplerdir.
+
+Bazofiller  ve  Eozinofiller  nötrofillerle bağlantılı hücrelerdir. Bir patojence etkinleştirildiklerinde, bazofiller paratizlere karşı savunmada ve ( astım  gibi) alerjik reaksiyonlarda önemli rolü olan  histamini  salarlar. [2]  Aktivasyon sırasında eozinofiller, bakterileri ve parazitleri öldürmede oldukça etkili fakat doku harabiyeti sırasında oluşan alerjik reaksiyonlardan da sorumlu olan, yüksek oranlı toksik proteinlerin ve serbest radikallerin alanlarını saklar. Eozinofillerin etkinleştirilmesi ve toksin salınımı bu yüzden herhangi bir doku harabiyetinin önlenmesiyle oldukça ilişkilidir. [3]
+
+Doğal öldürücü hücreler  (NK hücreleri), doğuştan gelen bağışıklık sisteminin bileşenlerindendir. Doğal öldürücü hücreler, mikroplarca enfekte edilmiş ev sahibi hücreleri bulup onlara saldırırlar, doğrudan mikroplar üzerine etki etmezler. Örneğin; "kendini-kaybetme" olarak bilinen süreçte tümör hücrelerini, virüsle enfekte olmuş hücreleri yok ederler. Bu terim, ev sahibi hücrelerin viral enfeksiyonları sırasında ulaşılabilinen yeri- hücre yüzeyinde düşük seviyede bulunan MHC I ( major histokompatibilite komleksi ) olarak bilinen markerları tarif eder. [4]  İsimleri olan 'doğal öldürücü', etkinleştirilmeye ihtiyaç duymadan "kendini-kaybetmiş" hücreleri öldürdüklerinden verilmiştir.
+
+Diğer geleneksel T hücreleri altkümelerine benzer olarak  CD1d  gibi T hücre reseptörleri (TCR'ler), sınırlandırılmış doğal öldürücü hücrelerdir; γ ve δ T hücrelerinin doğal ve edinilmiş bağışıklık arasında yer almalarını sağlayan karateristik özelliklerini sergilerler. Bir yandan γ ve δ T hücreleri edinilmiş bağışıklık sisteminin,  TCR genlerinin düzenlenmesiyle  çeşitlilik kavşağının üretilmesi ve hatırlanabilir bir fenotipi geliştirme içeriği olarak anlaşılabilirler. Her nasılsa, çeşitli altkümeler; patern tanıma reseptörleri olarak kullanılabilen bağlı TCR'ler ve doğal öldürücü hücreler, doğuştan gelen bağışıklık sisteminin parçaları olarak da düşünülebilirler.
+
+Örneğin, buna göre Vγ9/Vδ2 T hücrelerinin büyük bir kısmı, mikroplarca üretilen  genel moleküllere  saatlerce karşılık verir ve intraepiteliyal Vδ1 T hücrelerine yüksek oranda bağlanır.
+
+Doğuştan gelen bağışıklık sistemi hücreleri tesirli biçimde vücuttaki bakterilerin serbestçe gelişmelerini önlerler, bununla beraber bazı patojenler kendilerini doğuştan gelen bağışıklık sisteminden koruyacak bazı mekanizmalar geliştirmişlerdir. [5] [6]   [7]
+
+Bacteroides  türleri normalde memelilerin sindirim sistemi florasının önemli kısmını oluşturan  kommensal  bakterilerdir. [8]  Bazı türler ise (örneğin  B. fragilis ) karın boşluğunda enfeksiyonlara yol açabilen fırsatçı patojenlerdir.
+
+Staphylococcus aureus  fagositlerin kimokin sinyalleriyle yanıt oluşturma yeteneğini baskılar.  M. tuberculosis ,  Streptococcus pyogenes  ve  Bacillus anthracis  gibi diğer organizmalar ise direkt fagositleri öldüren mekanizmalar geliştirmişlerdir.
+
+[9]
+
+Bakteriler ve (belki bazı diğer prokaryotik organizmalar) kendilerini  bakteriyofaj  gibi diğer patojenlerden korumak için  restriksiyon-modifikasyon sistemi  olarak bilinen eşsiz bir savunma mekanizması kullanırlar. Bu sistemde bakteriler, istilacı bakteriyofajlardaki viral  DNA 'nın spesifik bölgelerine saldırıp onları yokeden  restriksiyon-modifikasyon endonükleaz  olarak bilinen  enzimi  üretirler. [10]  Restriksiyon-modifikasyon endonükleazlar ve restriksiyon-modifikasyon sistemi sadece prokaryotlarda bulunur.
+
+Omurgasızların  lenfositleri veya vücut bağışıklığına bağlı antikorları yoktur ve bağışıklık sistemleri çok hücrelilerinkine, ilk olarak omurgalılarda görülen edinilmiş bağışıklığa benzer. [11]  Yine de omurgasızların olan mekanizmaları omurgalıların bağışıklığının öncüleri gibidir.
+
+Patern tanıma reseptörleri, nerdeyse bütün organizmalarca, mikrobiyal patojenlerle ilişkili molekülleri tanımlamak için kullanılan proteinlerdir.  Toll benzeri reseptörler , bütün insanlar da dahil vücut boşluğuna sahip bütün organizmalarda ( sölomlular ) tanıma reseptörlerinin ana sınıfını oluştururlar. [12]   Kompleman sistemi  yukarıda görüldüğü gibi, bağışıklık sisteminde organizmadan patojenleri temizlemeye yardımcı olan bir biyokimyasal kaskaddır ve hayattaki bütün canlılarda bulunur. Yengeçler, kurtlar gibi çeşitli böcekleri de içeren bazı omurgasızlar,  profenoloksidaz  (proPO) olarak bilinen sistemin değişmiş şekli olan kompleman yanıtını kullanırlar. [11]
+
+Antimikrobiyal peptidler  doğuştan gelen bağışıklık sisteminin evrimsel süreçte korunmuş ve hayattaki bütün canlı sınıflarında ve omurgasıların sistemik bağışıklığının temeli olarak bulunan bileşenleridir. Böceklerin bazı türleri ' defensinler   ve   kekropinler   olarak bilinen antimikrobiyal peptidleri üretirler.
+
+İnsanları etkileyen patojenlerin her sınıfı bitkilerde de hastalık yapabilir. Hastalığa neden olan türler, enfekte olan türlere göre değişmekle birlikte,  bakteriler ,  mantarlar ,  virüsler ,  nematodlar  ve  böceklerin  hepsi bitki hastalıklarına neden olabilir. Hayvanlar birlikte bitkiler de böceklerin ya da diğer patojenlerin saldırılarına uğrayabilirler, savunmalarında üretrikleri kimyasal bileşenlerle metabolik yanıt oluşturup, enfeksiyonla savaşabilir ya da kenidlerini böcek veya diğer otoburlara karşı daha az çekici kılabilirler. [13]
+
+Bitkiler  omurgasızlar  gibi  antikor  ya da T-hücresi yanıtı veya patojenleri saptlayan ve onlara saldıran hareketli hücreler üretmezler. Bununla beraber bitkiler sadece birkaç hayvanın yapabildiği gibi enfeksiyon yerine yenilenebilir ve kullanıldıktan sonra atılabilir parçalar üretirler. Bitkinin bazı parçalarını atması ya da ayırması enfeksiyonun yayılmasının durdurulmasına yardımcı olur. [13]
+
+Çoğu bağışıklık sistemi yanıtı, bitkinin tamamına yayılan sistemik kimyasal sinyaller gönderir. Bitkiler, patojenleri tanımlamak için  patern tanıma reseptörleri  kullanırlar ve enfeksiyondan kurtulmaya yardımcı olan bazal bir yanıt oluşturmak için kimyasal sinyaller üretirler.
+
+Bitkinin bir parçası mikrobiyal ya da viral bir patojenle enfekte edildiğinde oluşan özel  elicitorlar  tarafından tetiklenen bir zıt etkileşim durumunda, bitki sınırlı bir  hipersensivite  yanıtı (HR) oluşturur, enfeksiyonun olduğu bölgede bitkinin diğer parçalarına yayılmasını engelleyen hızlı  programlanmış hücre ölümü  gerçekleştirilir. HR'nin hayvanlardaki  pyroptozis 'e benzer bazı özellikleri vardır, hücre parçalanmasını hücre ölümü sırasında düzenleyen bir  sistin   proteaz  olan  VPE 'nin  kaspas -1-benzeri proteolitik aktivitesinin gerekliliği gibi. [14]
+
+Bitkilerde yaygın şekilde bulunan ve patojenleri saptlayan "resistans" (R) proteinleri,  R geni  tarafından kodlanırlar. Bu proteinler, hayvan bağışıklık sisteminde yararlı olan NOD ve Toll benzeri reseptörlere benzer domainler içerir.  Sistemik kazanılmış dayanıklılık  (SAR), tüm bitkiyi birçok enfeksiyon ajanına karşı dirençli hale getiren bir savunma yanıtı tipidir. SAR,  salisilik asit  ya da  jasmonik asit  gibi kimyasal mesajcıların ürününü bağlar.
+
+Bu kimyasalların bitki çapında yolculuğu, bitkinin enfekte olmamış diğer bölgelerindeki hücreleri savunma bileşikleri üretmeleri için uyarır. Salisilik asit SAR'ın geliştirilmesinde zorunlu bir madde olmakla birlikte, sinyalin taşınmasından sorumlu değildir. Son bulgular,  jasmonatların  sinyalin bitkinin uç bölümlerine taşınmasnda rolü olduğunu göstermektedir. RNA interferens mekanizmaları, virüs çoğalmasını engelleyebildikleri için bitkinin sistemik yanıt sisteminde önemlidirler. [15]   Jasmonik asit yanıtı , yapraklarda böceklerin verdiği hasarlarca uyarılır ve metil jasmonatın oluşumunu sağlar. [13]

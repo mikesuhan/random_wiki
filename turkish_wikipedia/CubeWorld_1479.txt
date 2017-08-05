@@ -1,0 +1,3 @@
+Cube World ,  Windows  için tasarlanmış bir  RYO  tipi  video oyunudur .  Mac OS  ve diğer oyun konsolları için de versiyonlar yapılması düşünülmektedir. Oyunun alpha versiyonu yayınlanmıştır ve şu anda oynanabilir durumdadır. Ayrıca sunucular üzerinden çok oyunculu olarak da oynanabilmektdir.
+
+Oyun, yeşil bölge, karlı bölge, çöl, cengel, lav bölgesi ve okyanus olmak üzere tam altı biyomda geçer.

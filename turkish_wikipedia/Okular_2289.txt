@@ -1,0 +1,7 @@
+Okular ,  KDE  projesi kapsamında geliştirilen  PDF ,  PostScript ,  DjVu ,  TIFF  ve  DVI  gibi dosya biçimleri destekleyen  özgür  bir belge görüntüleyicidir. KDE'nin önceki PDF görüntüleme aracı olan  KPDF  temel alınarak geliştirilmeye başlanmış, ayrıca  KGhostView, KFax, KFaxview, KDVI  araçlarının işlevleri Okular bünyesinde birleştirilmiştir.
+
+Okular eklenebilir özelliklere sahiptir;  PDF  belgelerine yorum eklenebilir, satırların altı çizilebilir ve metinler belirginleştirilebilir. Geometrik şekiller, metin alanları ve damgalar eklenebilir.
+
+Okular, 2005  Google Summer of Code  proje yarışmasında başlamıştır. 2007  Season of Usability  yarışmasında da başarılı olmuştur [1] . 2007 sezonunda Okular araç çubuğu maketi popüler belge izleyicilerinin ve kullanıcı araştırmalarının analizi temel alınarak oluşturulmuştur.
+
+Okular şu dosya tiplerini destekler: [2]

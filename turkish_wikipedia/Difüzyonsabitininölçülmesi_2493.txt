@@ -1,0 +1,19 @@
+Difüzyon  sabitinin ölçülmesi için yaygın olarak kullanılan iki yöntem vardır.
+
+Bu metot uzaklığa bağlı konsantrasyon değişiminin ölçülerek dc/dx hız eğiminin hesaplanması ilkesine dayanır.
+
+Konsantrasyon değişimleri, incelenen sıvıya göre  UV spektrometresi ,  kolon kromatografisi  ya da  elektroforez  gibi uygun bir yöntemle izlenir. Homojen dağılım yapan bir sıvı için x uzaklığına göre konsantrasyon değişimi normal dağılış gösterir. Bununla ilgili olarak gerekli bağıntı:
+
+Burada C o , başlangıç konsantrasyonunu göstermektedir.
+
+Varyansın hesaplanmasında kullanılan matematiksel ifadelerden yararlanılarak 2Dt = σ 2  kabulü yapılabilir. Varyansın hesaplanması için σ 2  = 1/n ∑(x-x’) 2  bağıntısı kullanılır ve bir önceki kabulden yararlanarak yukarıdaki eşitlikte yerine koyulur. Böylece difüzyon sabiti hesaplanabilir.
+
+Bu yöntem 1.  Fick Kanununun ( en ) uygulaması şeklindedir.
+
+Burada,
+
+A  gözeneklerin kesit alanı,
+
+l  gözeneklerin uzunluğudur.
+
+Buna göre difüzyon sabiti D sadece c1 ve c2 konsantrasyonlarına bağlı olarak ölçülebilir. Ölçülmesi gereken değer sadece dm/dt zamana göre kütle değişimidir.

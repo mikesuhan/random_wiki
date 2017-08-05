@@ -1,0 +1,3 @@
+HotJava , (sonraki ismiyle HotJava Browser) modüler, genişletilebilir bir  Java  temelli web tarayıcısıdır. Java temelli ilk web tarayıcısı olma özelliğine sahiptir. HotJava  Temmuz   2011 'den bu yana desteklenmiyor
+
+1994  yılında bir grup Java yazarı WebRunner isminde bir tarayıcı oluşturmaya başladılar. Bu tarayıcı Mozaik internet tarayıcısının Java haliydi. 1995 yılında isim değiştiren WebRunner California'daki SunWorld konferansında tanıtıldı.

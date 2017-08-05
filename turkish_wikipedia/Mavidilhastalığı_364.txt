@@ -1,0 +1,57 @@
+Mavi dil  ya da  Blue tongue , sokucu sinekler (culicoides soyu) ile nakledilen, evcil (sığır, koyun, keçi, deve) ve bazı yabani geviş getirenlerde görülen ve konjesyon, ödem, hemoraji ile karakterize bir enfeksiyondur. [2]  Etken Reoviridae ailesinin Orbivirus cinsinde Bluetongue virus grubu içerisindedir. [3]
+
+BT virusu (BTV)'nun 24 serotipi bildirilmiştir. Culicoides imicola ve diğer culicoid'ler tarafından nakledilir. [4]
+
+Hastalığın etkeni,  Reoviridea  familyasından bir virus olup dünyada 24 antigenic serotipi tespit edilmiştir. Türkiye'de iki tip tespit edilmiştir.
+
+Hastalık tüm gevişenlerde görülebilir.
+
+Etken  “Tatarcık”  olarak bilinen sokucu sineklerin (Culicoides) hasta hayvandan emerek aldıkları kanda bulunur ve aynı sineğin sağlıklı bir hayvandan  kan emmesi  sonucu sağlam hayvana geçer. Bu sinekler özellikle yağmurlu yaz günlerinin ardındaki rutubetli gecelerde aktiftirler. Hasta boğaların spermalarıyla da virüs sağlıklı ineklere bulaşabilmektedir ki bulaşmada dikkat edilmesi gereken önemli yollardan biridir. Sığırlar belirgin bir hastalık belirtisi göstermeksizin virüsü kanlarında taşırlar ve hastalığın koyunlara bulaşmasında önemli rol oynarlar. Etken sokucu sineklerin olmadığı zamanlarda dahi sığır kanında 14 hafta aktif olarak kalabilmektedir.
+
+Hastalık ateş, dolaşım bozuklukları, oral ve nasal mukozalarda hiperemi, dudaklarda ödem, daha sonra gangrenöz bir rhinitis ve mukoza ülserasyonları ile karakterizedir. [5]
+
+Hastalığın görüldüğü bölgelerde en çok anormal doğumlar belirgindir.Bunlar da genellikler; hidransefali, hidrosefalus ve üyelerde deformasyonlar (arkür vb)'dır.
+
+Sokucu sinek tarafından kan emme sırasında etkeni alan hayvanda ilk belirtiler 7 gün sonra görülmeye başlar. Bu süre hayvanın ırkına ve bireysel direncine göre uzayıp kısalabilir. Örneğin merinoslar diğer koyun ırklarına göre çok daha duyarlıdır ve çok daha fazla etkilenir. Kuzular da koyunlardan daha duyarlıdır.
+
+Tipik bulguları şunlardır:
+
+Aniden 40-42 o C ye varan ateş,
+
+Ateşin başlamasından hemen sonra görülen dudak emme hareketleri,
+
+Dil ve dudak ödemleri dilde mavileşme,
+
+Önce sulu sonra irinli burun akıntısı,
+
+Ağızda ve burun girişinde ülser ve kabuklu yaralar, bunun sonucu solunum güçlüğü ve yem alınımının durması,
+
+Ağızdaki ve burundaki yaraların iyileşmesinden sonra ayakta tırnak aralarında yaralar,
+
+Deride kırmızılıklar, yapağıda kırılma dökülme ,
+
+Genç hayvanlarda ishal ve bulguların görülmeye başlanmasından 2-8 gün sonra ölüm.
+
+Bazı durumlarda ölüm çok daha uzun zaman sonra görülebilir. Kuzularda ölüm oranı % 95 e varabilir.
+
+Sığırlarda benzer belirtiler görülmekle birlikte belirtiler çok daha hafiftir, bazen fark edilmeyebilir. Ancak gebe ineklerde AH sendromu denilen anomalili buzağı doğumları ve ölü doğumlar da görülebilir.
+
+Klinik bulgular yani hastalığın belirtileri ve otopsi bulguları yol gösterici olsa da kesin teşhis ancak laboratuvar muayeneleri ile konabilir. Bunun için laboratuvara marazi madde (hastalıktan ölen ya da ölmeden kesilen hayvanlardan alınan iç organ parçaları) gönderilmelidir. Bunlar, dalak, lenf yumrusu, karaciğer, tonsil, dil ve dudak parçalarıdır. Ancak burada dikkat edilmesi gereken husus, virolojik muayene için gönderilen materyalin herhangi bir kimyasal koruyucu konmadan buz içinde soğuk zincirde, patolojik muayene için ise gönderilen materyalin %10’luk formol içinde, tamamı formole batacak şekilde gönderilmesidir. Hastalığın ateşli döneminde OPG ve/veya EDTA adı verilen sıvı içerisine alınarak gönderilen kan en önemli teşhis materyalidir. İyileşen hayvanlardan alınan kan serumları da hastalığın teşhisinde önemlidir. Ayırıcı teşhiste Mavi Dil hastalığı, koyunlarda Şap, çiçek grubu hastalıklar, zehirlenmeler ile sığırlarda sığır vebası, şap ve ishalle seyreden viral hastalıklarla (Bovine viral diyare gibi) karışır.
+
+Hastalıkla mücadelenin esasını, karantina, hasta hayvanların imhası ve sokucu sineklerle mücadele ile birlikte aşılamalar teşkil eder.
+
+Aşılar ilkbaharda ve kırkımdan 3-6 hafta önce uygulandığında daha fazla bağışıklık sağlar. Ancak aşının koçlarda geçici kısırlık yapması nedeniyle koçlar, koç katımından sonra aşılanmalıdır. Mavi dil aşısı gebe hayvanlarda da yavru atmalara ve anomalili kuzu doğumlarına neden olduğundan gebe hayvanlara da aşı uygulaması tavsiye edilmez.
+
+Hastalığı geçiren hayvanlar 2 yıl kadar bağışıklık kazanır. Bu hayvanlar ağız sütü (kolostrum) vasıtasıyla bağışıklığı sağlayan antikorlarını yavrularına da geçirebilirler. Bu yavrular 6 ay kadar bağışık kalırlar. Bu sebeple hastalığa karşı yapılan aşıların 6 aylıktan küçük kuzulara yapılmaması gerekir. Damızlıkta kullanılan boğa ve koçların özellikle suni tohumlamada kullanılanların belli zaman aralıklarıyla muayenelerinin yapılması ve Mavi Dil yönünden negatif olan hayvanların kullanılması gereklidir. Aksi taktirde hastalığın çok geniş sahalara yayılması önlenemeyecektir. Hastalığın tamamen ortadan kalkması, başka bir deyişle hastalığın eradikasyonu için hasta hayvanların kesime gönderilmesi de uygun bir çözümdür.
+
+Türkiye'de Mavi dil hastalığı
+
+Türkiye'de de son yıllarda görülmeye başlanan bu hastalık 2014 Eylül ayında Kocaeli yöresinde görülmüştür ve 10 mahalle karantina altına alınmıştır. 2014 Ekim ayında ise Çanakkale de görülmüş ve 160 köy karantinaya alınmıştır [6] .
+
+http://www.milliyet.com.tr/canakkale-de-mavi-dil-hastaligi-tedbirleri-canakkale-yerelhaber-422685/
+
+http://www.yenisafak.com.tr/saglik/dikkat-kocaelide-karantina-baslatildi-681858
+
+http://hayvansagligi.izmirtarim.gov.tr/duyurular/hayvanhastalik.htm
+
+http://en.wikipedia.org/wiki/Bluetongue_disease

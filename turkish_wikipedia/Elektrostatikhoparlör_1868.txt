@@ -1,0 +1,9 @@
+Elektrostatik hoparlör , ilk olarak  1956  yılında  Quad  firmasının sahibi ve tasarımcısı Peter James Walker tarafından üretilmiş, daha sonra birçok firma tarafından teknolojik anlamda geliştirilmiş, çok özel bir  hoparlör  türüdür.
+
+Genel anlamda bir elektrostatik hoparlörde 3 ana parça bulunur. En önemli parça, diyaframdır. Bu özel plastik bir madde olabileceği gibi farklı maddelerin karışımdan kompozit yapılarda kullanılabilir. Özellikle  2000 'li yıllarda farklı kompozit maddelerin bulunması ile bu tarz hoparlörlerde diyaframda oldukça yenilikçi tasarımlar yapılmıştır. Diğer önemli parça ise statörlerdir. Statör, diyaframın iki yanına yerleştirilir. Statörlerde genelde özel çelik levhalar kullanılabileceği gibi, gene farklı metaller de kullanılmaktadır. 
+Özel voltaj yükleyiciler kullanılarak diyafram pozitif şarj edilir. Statörlerde gelen sinyallere göre negatif şarj edilerek farklı kutupların birbirlerini itme prensibine göre diyafram hareket eder. Karşıt güçler çeker, benzer güçler iter. Diyafram sürekli ve pozitif şarjlıdır. Karşıt kutuplarda şarjlı olan statörlerin kutupları sürekli değişerek diyaframı hareket ettirirler. Statörler, amplifikatörden gelen sinyalin, özel trafolarda ters kutuplarda sarj edilmesi ile, belirli bir voltajda elektrik ile yüklenir. Bu yüklemeler ile, gelen sinyal diyaframda itme ve çekme hareketini oluşturur. İşte bu sayede diyaframlar vasıtası ile ses oluşur.
+
+Teorik olarak klasik hoparlörlerden çok daha etkili bir tasarım olmasına rağmen üretiminin zorluğu, karmaşık teknolojik yapısı ve üretim maliyetinin yüksekliği yüzünden asla çok yaygınlaşmamış ama özel örneklerinin mükemmel ses kalitesi onları  hi-fi  tarihinde çok özel cihazlar haline getirmiştir. Şu an özellikle  Quad ,  Martin Logan ,  Akustat  gibi firmalar tarafından üretimlerine devam edilmektedir.
+
+Quad resmi sitesi  [1] 
+Martin Logan resmi sitesi  [2]

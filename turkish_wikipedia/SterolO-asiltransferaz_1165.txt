@@ -1,0 +1,19 @@
+Sterol O-asiltransferaz  ( SOAT ) veya  asil-KoA kolesteril asil transferaz  ( İngilizce   Acyl-CoA cholesteryl acyl transferase ın kısaltması  ACAT  olarak değinilir),  EC   2.3.1.26   asil transferaz  sınıfı bir  enzimdir . İnsanda iki tip ACAT enzimi vardır,  ACAT1  ve  ACAT2  enzimleri  SOAT1  ve  SOAT2  adlı  genler  tarafından kodlanır. [1]  Bu enzimler  kolesterol  metabolizmasında ve  safra tuzu  biyosentezinde önemli rol oynarlar. ACAT1 enziminin geni için ACAT1 kullanılmamalıdır çünkü ACAT1 kısaltması  ketotiyolaz  aktivitesine sahip  asetil-Koenzim A asetiltransferaz 1  enziminin genine aittir.
+
+Hemen her  memeli  hücresinde ACAT hücre içinde  kolesterolden   kolesteril ester  oluşumunu katalizler. Kolesterolun ACAT tarafından  esterleşmesi  birkaç nedenden dolayı önemlidir. Birincisi kolesterolun bu yolla esterleşmesi onun  hücre zarlarındaki  miktarının toksik düzeylere ulaşmasını engeller, bunun yerine kolesterol esterlerinin sitoplazmadaki yağ damlacıklarında birikimini sağlar. Bağırsaklarda emilen kolesterolun çoğu ACAT2 aracılığıyla esterleştikten sonra  kilomikronlara  yüklenip  lenf  sıvısında salgılanır. [2]  Karaciğerde sentezlenen kolesterol de ACAT1 aracılığıyla esterleştikten sonra  VLDL  taneciklerine yüklenip kana salgılanır. [3]
+
+ACAT'ı önemli kılan ikinci bir neden,  aterosklerozun  ilk aşaması olan  köpük hücre  oluşumunda rol oynamasıdır. Damar çeperlerinde biriken  LDL  tanecikleri makrofajlar tarafından yutulduktan sonra bu taneciklerde bulunan kolesterol ACAT aracılığıyla kolesteril estere dönüşür, bunun sonucu olarak sitoplazmada meydana gelen yağ damlacıklarının görünümü nedeniyle bu hücrelere köpük hücre denir.
+
+SOAT enzimi aşağıdaki reaksiyonu katalizler: [4]
+
+SOAT enziminin hayvanlarda iki  izoformu  bilinmektedir:  ACAT-1  ve  ACAT-2 . ACAT1,  ince bağırsak  haricindeki tüm dokularda bulunur, en yüksek üretildiği dokular,  steroid  üreten dokular (böbrek üstü kabuğu/ adrenal korteks),  yağ bezleri  ve  makrofajlardır . [5] [6] [7]  ACAT-2 ise sadece ince bağırsak ve  karaciğerde  bulunur. [8] [9] [10]  Bu izoformlarda meydana gelen bozukluklar farklı patolojilerle ilintilidir.
+
+İnsan SOAT1 ve SOAT2 genlerinin faredeki karşılıkları  Soat1  ve  Soat2  genleridir. Soat1 geni yokedilmiş farelerde karaciğer ve ince bağırsak dışındaki dokularada SOAT aktivitesi olmaz. Aşırı kolesterol alan bu farelerde deride kolesterol birikimleri ( ksantomalar ) görülmüştür. Ayrıca gözlerdeki yağ bezlerinin atrofi olması nedeniyle gözleri tam açılamaz. [11]
+
+Alzheimer hastalığında  önemli rol oynayan  APP  proteinin  proteolitik  işlemlenmesinde ACAT1 tarafınan ayarlandığı edildiği bulunmuştur. Farelerde SOAT gen ifadesi deneysel olarak azaltılınca  amiloidlerde  APP'nin işlemlenmesi azalır. [12]
+
+Farelerde Soat2 geninin yokluğu ince bağırsak ve karaciğerde kolesteril ester sentezini azaltır, bunun sonucu olarak kolesterol emilimi durur ve  safra taşları  oluşur. [13]
+
+Mayada   Asil-KoA:sterol asiltransferaz  (ASAT) enzimi, SOAT'a denktir. Ekmek mayası  Saccharomyces cerevisiae  büyümesinin durağan evresi ve  sporlaşma  aşamasında  ergosterol  esterler birikir. ASAT enziminin iki izoformu vardır, bunlar ARE1 ve ARE2 genleri tarafından kodlanır. [14]  ARE1, oksijen yokluğunda, ARE2, oksijen varlığında işlev görür. [15]
+
+Bitkilerde sterol ester sentezi memeli SOAT ve maya ASAT enziminden farklı şekilde yapılır. Hayvan hücrelerindeki gibi bu enzim, hücre zarındaki serbest sterol oranını düzenler. Bitkilerde bu süreç Fosfolipid:Sterol Asiltransferaz adlı hücre içi enzimi tarafından gerşekleşir, bu enzimin fizyolojk fonksiyonu SOAT'a benzemekle beraber, biyokimyasal olarak katalizlediği reaksiyon hayvanlardaki  LCAT  enzimininkine benzer. [16]

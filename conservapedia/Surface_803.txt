@@ -1,0 +1,3 @@
+A  surface  is the outermost level of a given object.  It can also mean an outward appearance as distinguished from an inner nature, i.e.  "he seems nice on the  surface , but he's really deceitful. "  Liberals  are often different on the surface than they are in actuality.
+
+In  geometry , the surface is the outer  boundary  of a  shape . An important problem in mathematics is to compute the  surface area  of complicated shapes.

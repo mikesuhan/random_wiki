@@ -1,0 +1,3 @@
+Kano Modeli  müşteri gereksinimlerini belirleme ve müşteri beklentilerinin ötesine geçme yetisine sahip bir modeldir. [1]   Noriaki Kano  tarafından 1980'li yıllarda oluşturulmuştur.
+
+Müşterilerin gereksinimleri, Kano modelince temel ihtiyaçlar (Must-be), doğrusal ihtiyaçlar (One-dimensional), heyecan verici ihtiyaçlar (Exciting) olarak sınıflandırılmaktadır: [2] [3]

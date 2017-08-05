@@ -1,0 +1,17 @@
+2G  ikinci nesil kablosuz  telefon  teknolojisidir. Aynı  1G  gibi,  hücresel  bir ağ sistemi kullanır. Bu hizmet  Türkiye 'de  Turkcell ,  Vodafone  ve  Türk Telekom  tarafından sağlanır.
+
+2G'nin 1G'ye göre getirmiş olduğu en büyük yenilik,  analog veri  yerine  sayısal veri  kullanılmaya başlanmış olmasıdır. Bu geçişte  ISDN 'e benzer bir yapı kullanılmıştır:
+
+2G'nin getirmiş olduğu en büyük yenilik olan sayısal teknoloji, birçok yeniliği de beraberinde getirmiştir:
+
+İlk olarak 850 - 900 Mhz bandını kullanmak üzere tasarlanan GSM, kullanıcı sayısının artmasıyla beraber 1800 - 1900 Mhz bandına taşınmıştır. Bazı şebekeler bu yeni banttan yayına  DCS  adı vermektedirler, Türkiye'de ise genelde  GSM1800  denir.
+
+İnternet 'in yaygınlaşmasıyla birlikte GSM'in sunduğu 9.6 kbps veri taşıma kapasitesi yetersiz olmaya başlamıştır. Buna cevap olarak:
+
+EDGE ile pratikte 380 kbps hızında veri transferi mümkündür.
+
+2G standardı oluşturulduğu zaman çok bant genişliği ve az istemci vardı, dolayısıyla hattı kullanmazken bile meşgul eden bir teknoloji oluşturuldu. Öte yandan, bu seçimden dolayı birçok durumda karşımıza çıkan "şebeke meşgul" iletisinin önüne geçmek operatörler için gitgide daha zor hale gelmektedir.
+
+Buna cevap olarak verilerin yollanmadığı zaman hattın kullanılmadığı, aynı  Ethernet  teknolojisinde olduğu gibi iki cihazın aynı anda veri yollayınca bunu farkedebildiği bir teknoloji olan  3G  oluşturulmuştur. Özellikle Avrupa'da yaygınlaşan bu teknoloji, daha da yüksek bir frekans kullanmasından dolayı (2100 Mhz) kapsama alanı sorunları yaşamaktadır.
+
+1800 Mhz GSM standardı ile görülmeye başlanan, 3G'de daha da belirgin olan kapsama alanı sorununu çözmek için  4G  teknolojisine geçilmiştir.

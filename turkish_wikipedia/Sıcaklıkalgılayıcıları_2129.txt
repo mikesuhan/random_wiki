@@ -1,0 +1,1 @@
+Sıcaklık algıylayıcıları  iki farklı  metalin  birleştirilmesi ile oluşturulur. Çalışma prensibi; uygun karışım ile denetlenebilir  sıcaklık - gerilim  ilişkisinin ölçülmesidir. Sıcaklık algılayıcılar geniş alanlarda kullanılan aletlerden birisidir. 1700 °C'ye kadar dayanabilen modelleri mevcuttur.

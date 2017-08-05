@@ -1,0 +1,13 @@
+StrongARM , ARM V4 (ISA) mimarisi uygulanan  mikroişlemciler  için kullanılan bir ad.  Digital Equipment Corporation  (DEC) tarafından geliştirilmiş ve daha sonra Intel'e XScale sisteminin yerine üretmeye devam etmesi için satılmıştır.
+
+StrongARM, DEC ve Advanced RISC MAchines arasında daha hızlı bir ARM  işlemci  yaratmak için oluşturulan projenin adıdır. Gömülü işlemci pazarında üst üç sistemler ve daha az güç ihtiyacı olanlar için tasarlanmıştır. Kullanıcıları daha fazla güce ihtiyaç duyunca dış desteğe ihtiyacı oluyordu. Hedeflenen sistemler kişisel Dijital yardımcılar ve Set top Box sistemlerdi.
+
+DEC firmasının geleneksel yeri  Massachusetts  deydi.  Silikon Vadisi 'nde tasarım yeteneklerini geliştirmek amacıyla,  Palo Alto ,  Kaliforniya 'da bir tasarım merkezi açtı. Bu tasarım merkezinin Dan Dobberpuhl önderliğinde ve StrongARM proje için ana tasarım merkezi seçildi. Proje üzerinde çalışmış olanlar Austin,  Texas  tan bazı eski tasarımcılar,  Apple Computer  ve  Motorola  dan gelen tasarımcılardan oluşmuştu. Proje 1995 yılında kurulmuş ve kısa sürede ilk tasarım, SA-110 üretime verilmiştir.
+
+DEC, bir davaya konu olan StrongARM işlemci grubunu 1997 yılında  Intel 'e satmayı kabul etti. Intel RISC işlemcileri, i860 ve i960 yerine StrongARM kullandı.
+
+DEC  yarı iletken  bölümü Intel'e satılınca, Palo Alto tasarım grubu SiByte ve start-up şirketi ile ağ pazarı için MIPS sistem yongaları olan (SoCs) tasarımına döndü. Austin tasarım grubu Alchemy Semiconductor, başka bir start-up şirketi için el bilgisayar pazarına yönelik MIPS SoCs tasarımı yapmaya başladı.
+
+Yeni StrongARM çekirdek, SA-2, Intel tarafından geliştirildi ve 2000 yılında XScale olarak tanıtıldı.
+
+CPU soketleri   ·   Chipset   ·   Micromimari   ·   İşlemciler   ·   Codenames

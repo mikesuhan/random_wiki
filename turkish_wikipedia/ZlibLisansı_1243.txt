@@ -1,0 +1,5 @@
+zlib Lisansı ,  Özgür Yazılım Vakfı  tarafından özgür niteliği kabul edilen, [1]   Açık Yazılım İnisiyatifi  tarafından açık kaynak ilkelerine uygun olduğu belirlenen bir sözleşme modelidir.  GNU Genel Kamu Lisansı  ile uyumludur.
+
+zlib lisansı kısaca şu ilkelere dayanır: [2]
+
+zlib lisansının dikkat çekici yanlarından biri, kaynak kodun sunulmasını şart koşmamasıdır. Buna karşın kaynak kodun sunulmadığı durumlarda, zlib lisanslı yazılımlar "özgür" olarak nitelendirilmekten çıkar.

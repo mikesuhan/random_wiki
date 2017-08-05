@@ -1,0 +1,119 @@
+Radius of curvature  ( ROC ) has specific meaning and  sign convention   in  optical design . A spherical  lens  or  mirror  surface has a  center of curvature  located in ( x ,  y ,  z ) either along or decentered from the system local  optical axis . The  vertex  of the lens surface is located on the local optical axis. The distance from the vertex to the center of curvature is the  radius of curvature  of the surface. The sign convention for the optical radius of curvature is as follows:
+
+Thus when viewing a  biconvex lens  from the side, the left surface radius of curvature is positive, and the right surface has a negative radius of curvature.
+
+Note however that  in areas of optics other than design , other sign conventions are sometimes used. In particular, many undergraduate physics textbooks use an alternate sign convention in which convex surfaces of lenses are always positive. Care should be taken when using formulas taken from different sources.
+
+Optical surfaces with non-spherical profiles, such as the surfaces of  aspheric lenses , also have a radius of curvature. These surfaces are typically designed such that their profile is described by the equation
+
+where the  optic axis  is presumed to lie in the  z  direction, and  
+ 
+ 
+ 
+ z 
+ ( 
+ r 
+ ) 
+ 
+ 
+ {\displaystyle z(r)} 
+ 
+  is the  sag —the z-component of the  displacement  of the surface from the vertex, at distance  
+ 
+ 
+ 
+ r 
+ 
+ 
+ {\displaystyle r} 
+ 
+  from the axis. If  
+ 
+ 
+ 
+ 
+ α 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ {\displaystyle \alpha _{1}} 
+ 
+  and  
+ 
+ 
+ 
+ 
+ α 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ {\displaystyle \alpha _{2}} 
+ 
+  are zero, then  
+ 
+ 
+ 
+ R 
+ 
+ 
+ {\displaystyle R} 
+ 
+  is the  radius of curvature  and  
+ 
+ 
+ 
+ K 
+ 
+ 
+ {\displaystyle K} 
+ 
+  is the  conic constant , as measured at the vertex (where  
+ 
+ 
+ 
+ r 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle r=0} 
+ 
+ ). The coefficients  
+ 
+ 
+ 
+ 
+ α 
+ 
+ i 
+ 
+ 
+ 
+ 
+ {\displaystyle \alpha _{i}} 
+ 
+  describe the deviation of the surface from the  axially symmetric   quadric surface  specified by  
+ 
+ 
+ 
+ R 
+ 
+ 
+ {\displaystyle R} 
+ 
+  and  
+ 
+ 
+ 
+ K 
+ 
+ 
+ {\displaystyle K} 
+ 
+ .

@@ -1,0 +1,13 @@
+Intel 80186   mikroişlemci  ve  mikrodenetleyici  1982 yılında tanıtıldı. Bu  Intel 8086 'ya dayanıyordu ve bunun gibi çoğaltılmış  16-bit  harici  veri yolu  20-bit adres yolu vardı. Ayrıca mevcut  Intel 80188  gibi, 8-bit harici veri yolu vardı.
+
+mikroişlemci olarak 80186 ve 80188 seri genellikle gömülü sistemler için tasarlandı. Bu nedenle, ve dış fiş seçin hatları jeneratör, DMA kanalları saat jeneratör, kesme denetleyicisi, zamanlayıcılar gibi özellikler dahil edildi.
+
+80186 ve 80188 başlangıç saat hızı 6 MHz, fakat mikrokod kullanmak için daha fazla donanıma ihtiyaç duyulması nedeniyle, adres hesaplama özellikle, birçok bireysel talimatları daha hızlı bir 8086 aynı saat frekansında daha koştu. Örneğin, ortak ol + acil önemli ölçüde daha hızlı 8086 dan ziyade , özellikle bir hafıza alanıdır) işlenen ve hedef adresleme modu. Multiply ve ayrıca hızlı orijinal 8086 ve multi-bit vardiya olduğu gibi. 8086 daha ilk yılında neredeyse dört kat daha hızlı iyileşmeler yapıldı.
+
+CMOS versiyonu, 80C186, yeniden tasarlanmış DRAM yenileme, bir güç tasarruf modunu tanıttı ve 8087 ya da 80287 kayan nokta sayısal işlemcisi doğrudan bir arayüze sahiptir.
+
+80186 kişisel bilgisayarlarda 8086nın doğal bir halef olurdu. Ancak, orijinal IBM PC entegre donanım uyumsuz olunca, halefi olarak 80286 kullanılmıştır.
+
+Birkaç kişisel bilgisayarlar, bazı istisnai durum dışında 80.186 kullanilir: Avustralya Dulmont Magnum laptop, ilk dizüstü bilgisayarlar; Wang Office Yardımcısı, bir PC gibi tek başına bir kelime işlemci olarak pazarlanan, Mindset; Siemens PC-D ( % 100 IBM PC uyumlu değil ama MS-DOS ile 2,11 de: Siemens PC-D); Compis (İsveçli okul bilgisayar); RM Nimbus (İngiliz okulu bilgisayar); Unisys ICON (Kanadalı okul bilgisayar); ORB Bilgisayar ABS; HP 200lx; Tandy 2000 masaüstü (onun günün keskin grafikler biraz PC uyumlu iş istasyonu), Philips: EVET. Acorn bilgisayarlar 512 KB RAM, Master 512 sistemi 80186-10 içeren BBC Master aralığında bir plug-in için oluşturdu.
+
+CPU soketleri   ·   Chipset   ·   Micromimari   ·   İşlemciler   ·   Codenames

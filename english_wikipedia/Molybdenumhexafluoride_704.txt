@@ -1,0 +1,13 @@
+Molybdenum hexafluoride , also molybdenum(VI) fluoride is the  inorganic compound  with the formula MoF 6 . It is the highest  fluoride  of  molybdenum . A colourless solid, it melts just below  room temperature . It is highly unstable toward hydrolysis. [3]  It is one of the seventeen known binary  hexafluorides .
+
+Molybdenum hexafluoride is made by direct reaction of molybdenum metal in an excess of elemental  fluorine  gas. [2]
+
+Typical impurities are MoO 2 F 2  and MoOF 4 . [4]
+
+Molybdenum hexafluoride is a liquid at room temperature. It reacts violently with water with release of hydrofluoric acid and molybdenum oxides. [1]
+
+At −140 °C, it crystallizes in the  orthorhombic  space group  Pnma .  Lattice parameters  are  a  = 9.394  Å ,  b  = 8.543 Å, and  c  = 4.959 Å. There are four  formula units  (in this case, discrete molecules) per  unit cell , giving a density of 3.50 g·cm −3 . [2]  The fluorine atoms are arranged in the  hexagonal close packing . [5]
+
+In liquid and gas phase, MoF 6  adopt  octahedral molecular geometry  with  point group   O h . The Mo–F  bond length  is 1.817 Å. [2]
+
+Molybdenum hexafluoride has few uses. In the nuclear industry, MoF 6  occurs as an impurity in  uranium hexafluoride  since molybdenum is a  fission product  of  uranium . It is also an impurity in  tungsten hexafluoride , which is used in the semiconductor industry. MoF 6  can be removed by reduction of a WF 6 -MoF 6  mixture with any of a number of elements including molybdenum at moderately elevated temperature. [6] [7]

@@ -1,0 +1,11 @@
+In  Bell Atlantic Corp. v. Twombly ,  550 U.S. 544 (2007), the  U.S. Supreme Court  explained the standard that a plaintiff must meet in order to state a claim under section 1 of the  Sherman Act .  The Court held that a Section 1 claim must have "enough factual matter (taken as true) to suggest that an agreement was made." [1]  The Court emphasized that "an allegation of parallel conduct and a bare assertion of conspiracy will not suffice." [2]   Rather, there must be plausible grounds to infer an agreement. [3]
+
+Expressed another way, the Court held that to survive a motion to dismiss for failure to state a claim upon which relief can be granted, plaintiff must set forth factual allegations that rise above the speculative level.  The  Twombly  ruling thereby "retired the  Conley  no-set-of-facts test."  Ashcroft v. Iqbal , 129 S. Ct. 1937, 1944 (2009) (citing  Conley v. Gibson , 355 U.S. 41 (1957)).
+
+The Court gave as an example that "parallel behavior that would probably not result from chance, coincidence, independent responses to common stimuli, or mere interdependence unaided by an advance understanding among the parties." [4]
+
+Twombly  has been interpreted to abrogate many Circuit court precedents, but its holding rested on its finding that "nothing contained in the complaint invests either the action or inaction alleged with a plausible suggestion of conspiracy."  Id.  at 566.  The decision expressly stated that:
+
+Id.  at 570.
+
+Twombly  has quickly become one of the most cited recent precedents: 97,970 citations to it as of July 4, 2012.

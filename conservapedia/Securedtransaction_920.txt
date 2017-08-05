@@ -1,0 +1,3 @@
+A  secured transaction  is one in which an obligation, taken on by  contract , is guaranteed as payable by  collateral .  Most commonly, a secured transaction (abbreviated,  security ) refers to  stock  in a  corporation .
+
+A security in the form of stock is "secured" by the fact that the obligation is guaranteed by the  capital  of the corporation: the person who owns the security actually owns a right to part of the assets of the corporation, should the stock become payable as such through  bankruptcy  or a  merger .

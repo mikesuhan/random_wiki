@@ -1,0 +1,9 @@
+Ekstruder plastik hammaddeyi eritme, karıştırma ve istenilen basınçla kullanıma verme işlemini yapan makinedir. PPRC,PE,PVC,PEX benzeri hemen hemen her çeşit plastik hammaddeden ürün temini için en çok kullanılan makinelerden birisi de ekstruderdir.
+
+Ekstruder yapısı basit olarak bir adet hareket sağlayıcı motor ve bir adet vida kovan mekanizmasından ibarettir.Vida parçası üzerinde bulunan sarmal vida olukları sayesinde,döndükçe plastik hammaddeyi ilerletir,bu süreçte ergimesini ve basınç artımı oluşmasını sağlar.
+
+Ekstruderler tek vidalı,çift vidalı,planet estruder gibi kendi içinde sınıflara ayrılırlar.Bunun yanı sıra imalatı yapılacak hammaddeye göre ekstruder vida tasarımıda farklılık gösterir.
+
+Plastik hammaddenin eritilmeye ihtiyaç duyulduğu tüm proseslerde ekstruder kullanılabilmektedir.
+
+Kullanım yerlerinin başlıcaları; Plastik Enjeksiyon makinaları, Plastik geri dönüşüm makinaları, Plastik boru makinaları, Plastik film makinaları, Plastik profil üretim makinalarıdır.

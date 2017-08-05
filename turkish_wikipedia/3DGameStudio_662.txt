@@ -1,0 +1,35 @@
+3D GameStudio , yaygın adı  Gamestudio  ya da kısaca  3DGS  olarak bilinen, Level Editör, Model Editor, Script Editör ve Acknex motorunu içeren, 3D uygulama , oyun ve gerçekçi sanal uygulamalar geliştirmeye yönelik yazılım paketidir.Paketteki editörler Windows işletim sistemi üzerinde çalışmaktadır. Paketin farklı fiyatlarda farklı sürümleri vardır, daha düşük sürümlerde bazı özellikler kısıtlıdır.
+
+Paket aynı zamanda basit seviyeli ve programlama gerektirmeden  FPS  tarzı oyunlar yapabilmek için şablon projelerde içerir. Daha gelişmiş projeler için entegre programlama dili Lite-C veya  C++ ,  Delphi ,  C# , gibi harici diller kullanılabilir.
+
+Paket Acknex 7 veya kısa adı ile A7 motorunu içerir.Paketin genel amacı oyun gelişrmek olduğundan, Acknex motoru bu yönde gelişmektedir. Acknex,  DirectX  9 altyapsını kullanan bir motordur ve bu yüzden yalnızca  Windows  platformu üzerinde çalışabilir. Shader (HLSL) desteği,  DirectPlay  altyapısı ile yerel ağ veya internet üzerinden çoklu oyuncu desteği, fizik motoru, kemik ve nokta animasyonu desteği, partikül fışkırtıcı, terrain desteği,dinamik ışıklandırma içerir.  Özellik Listesi
+
+Motor entegre Lite-C dili ile programlanmaktadır.  C  programlama dilinin düzenlenmiş bir versiyonudur. Lite-c ve motora başlangıç için 25 bölümlük bir çalışma  e-kitabı  resmi sitede mevcuttur. Bu çalışma serisi hiç programlama bilmeyenleri hedef almaktadır.
+
+Ayrıca A7 esnek bir eklenti sistemide sunar. C programlama dili ile yazılmış dinamik bağlantı kütüphanelerine( DLL ) Lite-C den direk olarak erişilebilmektedir. Ayrıca Delphi ve C++ için plugin SDKsı(Yazılım Geliştirme Kiti) da mevcuttur.
+
+World Editör, projenin geçtiği ortamları, dünyayı hazırlamada kullanılan editördür. Kısaca bloklar kullanarak ve bunları kaplayarak, oyunun geçtiği bölümler meydana getirilir. Ayrıca oyundaki objeler dinamik olarak(kod kullanarak) oluşturulmuyorsa, modellerde bu aracı kullanarak levele yerleştirir ve kod ile bağlantısı kurulur.Ayrıca leveller başka bir program ile yapıldıysa(MAX, MAYA) yine World Editör kullanılaarak motora aktarılır. Editör yaptığımız levelleri motor tarafından gerçek zamanda çalıştıralabilecek şekilde derler.Derleme esnasında statik ışıkların oluşturduğu gölgelerde hesaplanır.Şablon projelerde sihirbazlar yardımı ile WED kullanılarak yapılır.
+
+Model editör model oluşturmak,düzenlemek ve diğer modelleme programlarından( 3ds Max , Maya , C4D ,XSI vb.) model akatarmamızı sağlar. Bu editör modelleri Acknex motorunun anlayacağı şekilde kaydeder. Modellerin kaplamaları,kemikleri,animasyonları kaydedilen modelin içinde saklanır. Çoklu vertex ağırlıklı kemik (Bone) animasyonu destekler ve sayılan programlardan FBX aracılığı ile kemikleri aktarabilir. Modelleme konusunda saydılan ticari ve gelişmiş araçlara göre zayıf bir editördür, fakat düşük poligonlu modellemede kullanılabilir.
+
+SED motor kütüphanelerini ve derleyicisini kullanmayı kolaylaştıran entegre geliştirme ortamıdır(IDE). Lite-c ve HLSL dilleri için sözdizimi renklendirme,proje yöneticisi,hata ayıklayıcı içerir. Ayrıca yazım esnasında kullanılan fonksiyon,önceden tanımlı değişken ve diğer motor öğeleri hakkında, ayrıntılı bilgi içeren hızlı yardım kutucuğu içerir. Örneğin bir fonksiyonun adını yazdığınızda bu kutuda, fonksiyonun aldığı parametreler,döndürdüğü değer,fonksiyonun hızı,ayrıntılar,fonksiyonla ilgili püf noktalar ve kullanım örneği gösterilir.
+
+Gerçek zamanlı olarak motor görünümünden, terrain düzenleme ve boyama, obje yerleştirme ve ayarlama gibi özellikler içermektedir.Henüz GameStudio paketine eklenmemiş olmakla birlikte, 2 Mayıs 2009 tarihinde, 0.2 numaralı önizleme versiyonu yayınlanmıştır. Şu an için kullanılabilir olsa da, obje niteliklerini düzenlemek, efekt ve materyallerini atamak, obje yerleştirmek, terrain boyamak ve oluşturmak özellikleri dışında kullanım alanı mevcut değildir. [www.crew51.de Crew 51] tarafından aktif olarak geliştirilmekte ve versiyon 1'e ulaştığında GameStudio paketine eklenmesi beklenmektedir.
+
+GameStudio 4 farklı sürümle olarak bulunur.( Bu sayfadan  tam karşılaştırma tablosunu görüntüleyebilirsiniz.)
+
+Ayrıca 30 günlük deneme sürümde mevcuttur. Ücretsiz sürüm hariç bütün sürümler bir kez lisanslandıktan sonra sınırsız sayıda ve genişlikte ticari projede kullanılabilir. Motorun kullanım alanı için genel olarak tek bir önemli kısıtlama vardır: "Günümüz dünyasında varolan belirli bir grup,etnik grup,ırk,ülke veya dine karşı soykırımı konu alan projelerde kullanılamaz" [2]
+
+Şu anki sürüm 7.85.4 dir.(25 Mayıs 2010). Her 4 ila 8 haftada yeni bir güncelleme yayınlanır, güncellemeler hata düzeltme ve yeni özellik eklemeye yöneliktir. Gamestudio / A7 iki farklı manaya gelir. Gamestudio editörler ve şablon sistemini, A7 ise oyun motorunu ifade eder.
+
+25 Mart 2010 Tarihi itibarı ile Gamestudio A8'in 2010 yaz döneminde stabil versiyonunun yayınlanacağı duyurulmuştur. Nisan ayından itibaren Proffesional sürüme sahip kullanıcılara açık A8 Beta testi başlamıştır. 2010 Mart ayından Extra, Commerical veya Proffesional sürümlerinden birini satın alan kullanıcı, Aynı sürüm A8'e ücretsiz geçiş yapabilecek.
+
+GÜNCELLEME :  12 Temmuz 2010 tarihinde ilk A8 açık Beta yayınlnmıştır. Güncellemeler devam etmektedir. En güncel sürüm için  Güncellemeler / Duyurular  sayfasını takip edebilirsiniz.
+
+Motora eklenen yeni özellikler,
+
+En önemli yenilik, ODE fizik motoru yerine NVIDIA Physx fizik motorunun eklenmesi olmuştur. Yine Bone render hızında 3 kat, model ve diğer objeler, özellikle Spriteların render hızında A7 motoruna göre %30 artış olacak. Diğer Özellikler,
+
+Ayrıca A8 Beta versiyonunda WED ve MED editörlerinin arayüzlerinde ufak değişikliklere gidilmiştir.
+
+GameStudio bugüne dek sayısız yayınlanmış projede kullanılmıştır. Bu projeler  Kabus 22  (2006, Son Işık LTD, Vestel) ve  Citroën C4 Robot  (2008, 2GEN Stüdyo, Citroën Türkiye) ve  Valve   Steam  üzerinden satılmış ve en çok satan listesinde ikinciliğe kadar tırmanmış  Wonderful End Of The World  (2008, Dejobaan Games, Valve)ü içerir. Ayrıca yine 2GEN Stüdyo tarafından geliştirilen GameStudio ile 2011 yılında  Süpercan  ve 2012 yılında  Süpercan  2 projeleri hazırlanmıştır. Ayrıca 2015 yılında çıkış yapan  Zula  oyunu da, Acknex A8 kullanan oyunlardan biridir.

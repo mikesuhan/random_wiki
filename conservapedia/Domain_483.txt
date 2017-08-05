@@ -1,0 +1,5 @@
+A  domain  is the  set  of points where a  mathematical  function is defined. When the  function  is a function of a  complex variable , a domain is usually an open connected set.
+
+Domains are useful in many fields of mathematics, including the study of  analytic  and  harmonic functions .
+
+In algebra, a domain is a  commutative   ring    with identity   without zero divisors: that is, for every  , if  , then   or  .

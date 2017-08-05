@@ -1,0 +1,5 @@
+Wave-particle duality  is the concept that matter and energy have both a  wave  nature and a  particle  nature.  It is a fundamental result predicted by  quantum mechanics .
+
+Whether waves or particles are better suited for describing a system depends on the circumstances.  For example, light is usually characterized as waves in most every-day applications, but  photons  (light particles) must be considered in some situations, such as the  photoelectric effect  and most particle physics experiments.
+
+The wave characterization may be nothing more than than a manifestation of the underlying positional uncertainty of a particle, which disappears upon observation.

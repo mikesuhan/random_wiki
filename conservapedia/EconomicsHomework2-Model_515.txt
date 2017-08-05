@@ -1,0 +1,29 @@
+Economics Homework  - [ 1  -  2  -  3  -  4  -  5  -  6  -  7  -  9  -  10  -  11  -  12 ]
+
+1.  Fill in the blanks in the following sentence: The  supply and demand  for a good determine both the _________ and ___________ at which the good is sold.
+
+2. Suppose the price demand curve for a particular good is P = $30 - Q, where P is the price and Q is the quantity.  Also suppose the price supply curve is P = $6 + Q.  At which price and quantity will the good be sold?
+
+Once we know that Q=12, then we can plug it back in:
+
+We can check this answer by plugging P into the other equation and making sure we get the same value above of Q=12:
+
+Therefore P=$18 and Q=12.  Be sure to include the "$" for P.
+
+3. When the  supply  of a good or service increases, such as increasing the number of oil wells, what happens to the market price of oil?  Explain.  When the  demand  for a good or service increases, such as more people driving cars that need gasoline (refined oil), what happens to the market price of oil?  Explain.
+
+4. Why do grocery stores lower the price of their fruit (such as grapes) when they have an oversupply of ripened fruit?  Explain by citing the downward slope of a demand curve, and describe what happens to this fruit after the grocery store lowers its price.
+
+5. When the New York Yankees built their new $1.5 billion ballpark, they made a decision about how many "obstructed view" bleacher seats to include.  Due to the design of this new stadium, people sitting in these "obstructed view" bleacher seats would not be able to see all of the field because stadium walls or poles or other fans would block part of their view.  An economist studied the "supply and demand" in the market, and developed this table:
+
+(A) Given the above supply and demand (you might find it easier to graph it), how many "obstructed view" bleacher seats did the New York Yankees build, and how much does the team make from sales of "obstructed view" tickets at each game?
+
+The price and quantity are where supply equals demand, which according to the table is at P=$15 and Q=600.  Total revenue is then P times Q, which is $9000.
+
+(B) Suppose the City of New York passed a law for a maximum price (a "price control") of $2 per "obstructed view" bleacher ticket, because politicians felt that fans should not pay more if they do not get a full view of the field.  Will the obstructed-view seats sell out under this law, and will people have to wait in line in order to buy them?  Would you oppose or support such a law, and why?
+
+6.  Suppose you own a restaurant, and your average customer spends $10.  Suppose further that your marginal cost for each customer is $5.  But in addition you have costs of $20 per hour in electricity and wages.  From 6-7pm each night, you usually have about 40 customers, but then it decreases by 50% each hour thereafter as it gets later in the evening.  At what time do you close your store for the night?  Explain your answer.
+
+The marginal profit (revenue minus cost) per customer is $5
+
+7.  Explain  why  waiting lists develop in countries (like Canada) where the government prohibits anyone from charging more than fixed prices for medical services, assuming that these fixed prices are lower than what the prices would be under supply and demand in the free market.  (Hint: the reason is related to the effect of price controls on the  supply  of a good or service.)

@@ -1,0 +1,25 @@
+Fisher's principle  is an  evolutionary  model that explains why the  sex ratio  of most  species  that produce  offspring  through  sexual reproduction  is approximately 1:1 between  males  and  females . It was famously outlined by  Ronald Fisher  in his 1930 book  The Genetical Theory of Natural Selection [1]  (but incorrectly attributed to Fisher as original [2] ). Nevertheless,  A. W. F. Edwards  has remarked that it is "probably the most celebrated argument in  evolutionary biology ". [2]  Specifically, Fisher couched his argument in terms of  parental expenditure , and predicted that parental expenditure on both sexes should be equal. Sex ratios that are 1:1 are hence known as "Fisherian", and those that are not 1:1 are "non-Fisherian" or "extraordinary" and occur because they break the assumptions made in Fisher's model. [3]  Many  eusocial   wasps , such as the  Polistes fuscatus  and the  Polistes exclamans  seem to exhibit such a ratio at times.
+
+W.D. Hamilton  gave the following basic explanation in his 1967 paper on "Extraordinary sex ratios", [3]  given the condition that males and females cost equal amounts to produce:
+
+In modern language, the 1:1 ratio is the  evolutionarily stable strategy  (ESS). [4]
+
+In Chapter 6 "Sexual Reproduction and  Sexual Selection ", Fisher wrote under the heading "Natural Selection and the sex-ratio" (page 141) [1]  the explanation described by  Eric Charnov  and  James J. Bull  as being "characteristically terse" and "cryptic": [5]
+
+Fisher's principle is an early example of a model in which genes for greater production of either sex become equalized in the population, because each sex supplies exactly half the genes of all future generations.
+
+Fisher's principle is rooted in the concept of frequency-dependent selection, though Fisher's principle is not frequency-dependent selection  per se . Frequency-dependent selection, in this scenario, is the logic that the probability of an individual being able to breed is dependent on the frequency of the opposite sex in relation to its own sex. It was first described by  Darwin  in  1871 .
+
+Fisher's principle extends frequency dependence to explain how natural selection can act on genes that affect the frequency of an individual's grandchildren without affecting the frequency of their children. Fisher predicted that parents will invest their resources equally between each sex of offspring, because each sex supplies exactly half the genes of all future generations. As a result, those genes that cause parents to invest unequally in the sexes will tend to be selected against. Fisher was aware that in humans, more boys are born, whilst boys are also more likely to die in infancy. As a consequence, he reasoned that because parents tend to invest less in boys –  because more boys die before the end of the period of parental care –  there is a higher rate of male births to equalise parental investment in each sex.
+
+Fisher's principle is also the precursor to  evolutionary game theory .  R.H. MacArthur  (1965) first suggested applying to sex ratios the language of  game theory , [6]  and this was subsequently picked up by  W.D. Hamilton  (1967) who termed the equilibrium point the " unbeatable strategy ". [3]  Hamilton's unbeatable strategy was refined by  John Maynard Smith  and  George R. Price  (1973) into their concept of the  evolutionarily stable strategy , i.e. one which cannot be invaded by a mutant strategy. [4]
+
+Fisher's concept of parental expenditure (now termed  parental investment ), developed particularly by  Robert Trivers  is now an important concept in  ecology .
+
+Historical research by  A.W.F. Edwards [2] [7]  has shown that the argument is incorrectly attributed to Fisher (the name is in common use and is unlikely to change).  Charles Darwin  had originally formulated a similar but somewhat confused argument in the first edition of  The Descent of Man [8]  but withdrew it for the second edition [9]  –  Fisher only had a copy of the latter, and quotes Darwin in  The Genetical Theory of Natural Selection . [1]
+
+Specifically,  Carl Düsing  of the  University of Jena  published this in three works between 1883–84, [7]  and this is essentially identical to Shaw and Mohler's later model. [10]
+
+As "probably the most celebrated argument in  evolutionary biology ", [2]  Fisher's principle is a staple of  popular science  books on evolution. For example, see:
+
+For those wishing more advanced treatment, see the 2002 book  Sex Ratios: Concepts and Research Methods  edited by Ian C.W. Hardy, (chapters 1 and 2 by Ido Pen and Franz J. Weissing.)

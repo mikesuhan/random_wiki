@@ -1,0 +1,1 @@
+CE  yaygın adıyla bilinen  Cheat Engine ,  Windows işletim sistemi  için Eric Heijnen ("Dark Byte") tarafından oluşturulan  açık kaynak kodlu  bir bellek tarayıcı, hex editörü ve ayıklama aracıdır. Cheat Engine çoğunlukla  bilgisayar oyunlarında  hile yapmak için kullanılır.

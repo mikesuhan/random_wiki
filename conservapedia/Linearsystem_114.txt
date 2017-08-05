@@ -1,0 +1,1 @@
+A  linear system  is a finite set of linear  equations , which can be solved "simultaneously" by finding the values of all the variables.

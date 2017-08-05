@@ -1,0 +1,1 @@
+Musical Instrument Digital Interface , more commonly called MIDI, is a standard electronic communication system which enables electronic instruments such as the synthesizer, sampler, sequencer, and drum machine from any manufacturer to communicate with one another and with computers.

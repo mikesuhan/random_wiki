@@ -1,0 +1,23 @@
+9К115-2   Metis-M   SSCB  tarafından geliştirilen  güdümlü tanksavar füzesidir . Füzenin  GRAU  adı "9K115-2" ,  NATO rapor adı  ise  AT-13   Saxhorn-2 dir.
+
+Füze motorize bölük sınıfı seviyesinde kullanılmıştır.
+
+Metis-M sistemi bomba fırlatıcı silahların sahip olduğu menzil, isabet oranı ve ölümcüllüğe sahip bir silahtır. Sahip olduğu küçük ve hafif yapısından ötürü sistem her türlü arazi şartında hatta akarsu geçişlerinde bile kolaylıkla taşınabilmektedir. Üç kişiden oluşan ekip silahı ve bun ait 5 adet füze zarfını taşımaktadır. Silahçı üzerinde bir adet füze zarfının takılı olduğu fırlatıcı sistemi taşımakta olup bu sayede daha sonraki atışlarda daha çabuk değiştirme şansı elde etmektedir. Eğer aniden bir hedefin ortaya çıkması durumunda silahçı füzeyi fırlatma ayağı olmadan omuzdan da fırlatabilir. Diğer iki mürettebat ise ikişerden toplam dört adet füze zarfı taşımaktadır.
+
+Sistemin basit ve kolay bir kullanımı vardı:
+
+Metis-M şu sistemlerden oluşuyordu:
+
+Metis-M sisteminin görev parçaları şunlardı:
+
+Metis-M ATGM sistemi yarı otomatik  güdümleme sistemine  sahip olup, ateşlendikten sonraki tüm gerekli komutlar ince bir tel yardımıyla füzeye iletilmektedir.  Jiroskopik  yer belirleyici, elektronik parçalar ve güç bataryasıdan oluşan çok gelişmiş ve pahalı güdümleme sistemi füze haricinde tutulmuştur.
+
+ATGM füze fırlatma zarfı bünyesindeki füze içerisinde kontrol ünitesi, uçuş motoru,  savaş başlığı , kanatçıklar, fırlatma motoru ve güdümleme sistemine ait tel bulunmaktadır. Güçlü  ikili patlayıcılı   HEAT  savaş başlığına sahip 9M131 füzesi çok çeşitli hedefelere örneğin  yarı etkin zırh  ile korunan  ana muharebe tankları , sığınak ve siperler, ayrıca hafif zırhlı araçlara karşıda etkilidir. Yapılan geliştirmelerle elde edilen 9M131F füzeleri üzerindeki  termobarik   savaş başlığı  içerisindeki yüksek patlayıcı sayesinde yerleşim alanlarındaki bina ve yapılarak karşı aynen yüksek kalibreli top mermilerinin sahip olduğu etkiyi yapabilmektedir.
+
+9P151 fırlatıcı düzenek optik nişangah gözü, elektronik parçalar, yanal ve dikey açılarda dönebilen üçayaktan oluşmaktadır. 9P151 fırlatıcıyı kullanmak için silahçının yüzüstü yatarak nişangah yardımıyla hedefi takip etmesi gerekmekteydi. Gece ve kötü hava şartlarında 9P151 fırlatıcıya 1PN86-VI termal nişangah takılarak daha başarılı isabet oranları elde edilmektedir.
+
+Füze sistemi kullanım ve saklanma sırasında herhangi bir koruyucu bakıma ihtiyaç duymamaktadır. 9P151 fırlatıcı ve 1PN86-1 termal nişangah test ekipmanı ile beraber saklanmaktadır. 9F640 tatbikat eğitim aparatı sayesinde silahçı çatışmalarda silahı nasıl kullanacağını arazide birebir öğrenebilmektedir. 9F660-4 eğitim aparatı sayesinde ise silahçı dershane çatısı altında basit çatıma tekniklerini öğrenir.
+
+İsrail askeri kaynakları ve  Lübnan 'da bulunan bazı  Hizbullaha  yakın basın organları bu füzelerin  2006 İsrail-Lübnan Savaşı  sırasında Hizbullah'a bağlı silahlı gruplarca  İsrail  yapımı  Merkava  tanklarına karşı kullanıldığını doğrulamaktadır.  İsrailin  bu gelişmiş tanksavar füzelerinin  Rusya  tarafından Hizbullah'a satıldığına ilişkin suçlamalar üzerine Rus yetkililer bu görüşü bir basın açıklaması ile yalanlamıştır. Rus yetkililer bu füzelerin  Suriye 'ye satıldığını ancak bazı silah kaçakçıları tarafından karaborsa yoluyla Hizbullah'ın eline geçtiğini ileri sürmüştür. [1]  Bunun üzerine Rusya ya giden yetkililer  Moskovada  yaptıkları incelemelerde bu füzenin sadece Suriye’ye satıldığını gösteren kanıtlara ulaşmıştır. [2]
+
+Rus Yapımı anti-tank füzeleri için NATO rapor isimleri listesi

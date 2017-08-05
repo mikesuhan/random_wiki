@@ -1,0 +1,5 @@
+Ppm , (İng.:  P arts  p er  m illion)  milyonda  bir birime verilen isimdir. Herhangi bir karışımda toplam madde miktarının milyonda 1 birimlik maddesine 1 ppm denir.  Derişim  birimi olarak bilinir. Her üç harfi de küçük olarak " ppm " şeklinde yazılır. Herhangi bir şeyin milyonda birini de ifade edebilir. Çok düşük değerleri ifade etmek için kullanılır. ppm ve diğer parts-per notasyonları (örn. ppb = parts per billion, milyarda bir gibi) orantı ifade ettikleri için boyutsuz niceliklerdir.
+
+5000 g  etanol  içinde 5 mg  metanol  varsa  metanol  1 ppm değerinde etanolün içinde bulunuyordur denir..
+
+Ayrıca şu yol ile kolayca hesap yapılabilir;

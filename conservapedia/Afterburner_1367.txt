@@ -1,0 +1,5 @@
+An  afterburner  is a device located in the exhaust system of a  turbojet   engine .
+
+Afterburners work by injecting  fuel  into the hot exhaust gases of the engine. Since the exhaust still contains some  oxygen , the fuel is able to burn giving extra thrust to the engine. Essentially it's like sticking another engine on the back.
+
+Afterburners are extremely wasteful of fuel, and thus are only fitted to small military aircraft that have a need for short bursts of extra speed (e.g.:  interceptors ). An engine using an afterburner is termed to be in "reheat", while use of full throttle without the afterburner is termed "full military". Some aircraft are now capable of achieving  supersonic  speeds without reheat. This is known as "supercruise".

@@ -1,0 +1,13 @@
+The  Falcon 5  was a proposed  two-stage-to-orbit  partially reusable launch vehicle designed by  SpaceX , since canceled in preference of the larger, more powerful  Falcon 9 . [1]
+
+The first stage of Falcon 5 was to be powered by five  Merlin engines  and the upper stage by one Merlin engine, both burning  RP-1  with a  liquid oxygen  oxidizer. Along with the  Falcon 9 , it would have been the world's only launch vehicle with all stages designed for reuse. [2]
+
+The Falcon 5 would have been the first American rocket since the  Saturn V  to have full engine out capability, meaning that with the loss of one engine, it can still meet mission requirements by burning the other four engines longer to achieve the correct orbit. [3]  In comparison, the  Space Shuttle  only had partial engine out capability, meaning it may not be able to achieve proper orbit by burning the remaining engines longer. [3]
+
+In 2006, SpaceX stated that the Falcon 5 was a Falcon 9 with four engines removed. [3]  Since the launchers were being co-developed, work on the Falcon 9 was also applicable to the Falcon 5. [3]
+
+Sources for this table are from Space Launch Report and SpaceX and footnoted here.   [4]   [5]   [6]   [7]   [8]
+
+Although an original Falcon 5 was never built, in December 2011  Stratolaunch Systems  announced that they planned to develop a four- or five-engine  Falcon 9 -derivative two-stage liquid-fueled air-launched launch vehicle to be developed by SpaceX. [9]  The launch vehicle was planned to be "along the lines of the company's Falcon 4 [sic] or Falcon 5," [10]  and was to have been capable of launching a 6,100 kilograms (13,500 lb) payload into  low earth orbit . [11]
+
+The air-launched rocket concept was eventually named the  Falcon 9 Air , and was being designed to have only four  Merlin 1D  engines. However, development was halted in late 2012 when SpaceX and Stratolaunch "amicably agreed to end [their] contractual relationship because the [Stratolaunch] launch vehicle design [had] departed significantly from the Falcon derivative vehicle envisioned by SpaceX and does not fit well with [SpaceX's] long-term strategic business model." [12]

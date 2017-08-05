@@ -1,0 +1,3 @@
+An  association  in  statistics  is the degree to which the occurrence of two variables or events is linked. Association describes a situation where the likelihood of one event occurring depends on the presence of another event or variable.
+
+However, an association between two variables does not necessarily imply a cause and effect relationship. The terms association and relationship are often used interchangeably.

@@ -1,0 +1,23 @@
+Matematiğin  bir alanı olan  karmaşık analizde , karmaşık değişkenli ve  karmaşık değerler  alan bir  f  fonksiyonu
+
+şeklinde açılıyorsa, fonksiyon  a  noktasında  analitiktir .(bu durum  yakınsaklık yarıçapının  pozitif olduğu gösterir.)
+
+Karmaşık analizin önemli teoremlerinden birisi de holomorf fonksiyonların analitik olmasıdır. Bu teoremin sonuçlarından bazıları ise şunlardır:
+
+İlk kez  Cauchy  tarafından verilen argüman,  Cauchy integral formülü  ve
+
+ifadesinin kuvvet serisi açılımına dayanmaktadır.
+
+f ,  a  merkezli açık bir diskin her yerinde türevli olsun.  z  de bu açık diskte olsun.  C  ise bu diskin içinde  a  merkezli, yarıçapı  z  'nin  a  'ya uzaklığından daha fazla olan pozitif yönlü (yani saat yönünün tersi yönlü) olan bir çember olsun. Cauchy integral formülünden başlarsak,
+
+sonucuna varırız.
+
+Burada toplam ve integralin yer değişimi, geometrik serinin, yakınsaklık diskinin içindeki sınırdan uzak sınırlı altkümeler içindeki düzgün sürekliliği tarafından sağlanmaktadır. ( z  -  a ) n  çarpanı  w  üzerinden alınan integrale bağlı olmadığından, çarpan dışarıya alınabilir:
+
+İntegral ve 1/(2π i ) çarpanı  z  değişkenine bağlı olmadığından, yani  z  'nin fonksiyonları olmadıklarından, tüm ifade bir  sabit   c n  olur. Yani
+
+ifadesini yazabiliriz ki bu da istenen kuvvet serisidir.
+
+kuvvet serisi kullanılırsa
+
+elde edilir. Bu türevler için Cauchy integral formülüdür. Bu yüzden, elde edilen kuvvet serisi,  f  'nin  Taylor serisidir .

@@ -1,0 +1,23 @@
+Yüksek gerilimli ve büyük akımlı şalterlerde, yük akımını ve kısa devre akımlarını kesmeye yarayan şalt cihazlarıdır. Üç faz ya da tek faz kumandalı olabilir.Bu cihazlar devreyi, boşta, yükte ve özellikle kısa devre halinde açıp kapayabildikleri gibi otomatik kumanda yardımı ile açılıp kapanmasına da olanak sağlarlar. Böylece insanları tehlikeden korumakta, alçak ve yüksek gerilim cihazlarında meydana gelebilecek hasarı önleyip en aza indirgemektedirler.
+
+Tüm kesiciler çalışması bakımından ortak özelliklere sahiptir. Bunların çeşitliliği, anma gerilimleri, anma akımları, kesici türlerine göre değişir.
+
+Kesici, bir arıza durumu algılayabilmelidir. Alçak gerilim kesicilerinde (otomatik sigortalarda) bunun için,  kontaklar  açılır ve akım kesilir.
+
+Büyük akımlı veya yüksek gerilimli kesicilerde, bir arıza akımı algılamak ve trip kesme mekanizmasını çalıştırmak için genellikle bir  röle  bulunur. Mandalı (Kilidi) serbest bırakan trip  bobini  genellikle ayrı bir  güç kaynağından  (örneğin bir  aküden ) beslenirken, yüksek gerilim kesicilerinde  akım trafosu , koruma röleleri ve iç kontrol güç kaynağı bulunur.
+
+Bir arıza algılandıktan sonra kesici kontakları devre akımını keser; mekaniksel depolanan enerji (bunun için bazen  yay  veya sıkıştırılmış hava kullanılır), kontakları birbirinden ayırır. Otomatik sigortalar elle çalıştırılabilirken, büyük kesicilerde mekanizmayı harekete geçirmek için bobinler ve yayları enerjilendirmek için  elektrik motoru  bulunur.
+
+Akım kesildiğinde,  ark  oluşur. Bu ark, kontrollü bir yöntemle soğutulmalı, söndürülmelidir. Böylece kontaklar arasındaki boşluk, devre gerilimine dayanıklı olur. Kesicilerde arkı söndürmek için ayrıca  vakum ,  hava , yalıtkan gaz, transformatör yağı da kullanılır.
+
+Sonuçta arıza durumu algılandığında, kesilen devrenin gücüne tekrar sağlamak için kontaklar tekrar kapanabilmelidir.
+
+Kesiciler çalışma ortamları, gerilimleri, büyüklerine göre çok çeşitli sınıflara ayrılır
+
+Alçak gerilim kesicileri (otomatik sigortalar), hem evsel hem de endüstriyel uygulamalarda kullanılır.
+
+Otomatik sigortalar, IEC 947 uluslararası standartına uygun olarak karakterize edilirler. Bunlar şalt panosununun kızağını tamamen sökmeye gerek kalmadan yalnızca kesicinin kendisi çıkarılacak biçimde üretilirler.
+
+Manyetik şalterler de, çekme kuvvetini akımla sağlayan bir  solenoid  ( elektromıknatıs ) vardır. Bu solenoidde ek olarak elektromanyetik kuvvetten faydalanılır. Şalter kontakları bir kilit ile kapalı tutulur. Şalterin solenoidindeki akım arttığında solenoidin dili, kilidi (mandalı) serbest bırakır ve yay hareket ederek kontaklar açılır. Akım anma değerini aşmadığı müddetçe yay gövdeye yapışık kalır.
+
+SF6  kesicinin kontakları etrafında kükürt hekza florür gazı bulunur. Bu gaz açma/kapama esnasında oluşan arkı söndürür. Bu kesiciler daha çok  şalt sahalarındaki  yüksek gerilim devrelerinde kullanılır.

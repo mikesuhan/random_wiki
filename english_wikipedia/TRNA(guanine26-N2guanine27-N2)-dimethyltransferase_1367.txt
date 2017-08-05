@@ -1,0 +1,3 @@
+TRNA (guanine 26 -N 2 /guanine 27 -N 2 )-dimethyltransferase  ( EC   2.1.1.215 ,  Trm1 ,  tRNA (N 2 ,N 2 -guanine)-dimethyltransferase ,  tRNA (m2(2G26) methyltransferase ,  Trm1[tRNA (m2(2)G26) methyltransferase] ) is an  enzyme  with  systematic name   S-adenosyl-L-methionine:tRNA (guanine 26 -N 2 /guanine 27 -N 2 )-dimethyltransferase . [1]  This enzyme  catalyses  the following  chemical reaction
+
+The enzyme from  Aquifex aeolicus  is similar to the TRM1 methyltransferases of  archaea  and  eukarya .

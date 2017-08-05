@@ -1,0 +1,8 @@
+Acoo  is a  web browser  which uses  Microsoft 's Trident engine, which is also used by  Internet Explorer .  However, this browser is significantly different than Internet Explorer in design and functionality.
+
+To operate, it requires Internet Explorer version 5 or later to be installed.  The last version of Acoo is dated September 27, 2009, and that version does not claim to be compatible with Windows 10.
+
+This browser offers a variety of customizations.  In general, the features include the following.  However, these can chance somewhat based on how a user customized it.
+
+Since this uses the Internet Explorer engine, it does not perform as quickly as some alternatives.  Also, in some cases it may not render things as expected, especially on older  operating systems .
+Additionally, although it can be assumed that this was a temporary problem, the default home page on version 1.98 build #744 in May 2016 directed users to a scam page which claimed the user had a virus on their computer and they ultimately need to pay to have it removed.  Another issue for some might be the considerable about of screen space which is consumed by toolbars and controls.  However, this lost space can be reduced by changing settings.

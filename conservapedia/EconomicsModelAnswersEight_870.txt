@@ -1,0 +1,63 @@
+Introductory: 1. A monopoly can be extraordinarily profitable because there is no __________.
+
+Competition.
+
+2. Provide three specific examples of monopolies and describe briefly what they do.
+
+The United States Postal Service, which delivers mail; Microsoft, which sells Windows and application programs; the public school system, which pretends to educate students.
+
+3. Given an example of how you lose time, money, or efficiency due to a specific monopoly.
+
+The post office closes at 4:30 pm when most businesses stay open later, and this causes a loss in efficiency when we need to receive service afterwards.
+
+Intermediate: 4. “Monopolies may be bad, but government regulations of monopolies are even worse!”  Do you agree?  Explain.
+
+According to the invisible hand government regulations on monopolies are worse than monopolies themselves.  Suppose a monopoly is extravagantly taking advantage of the consumers by raising prices and such.  There are two possible actions to take, have the government regulate the monopoly or allow the monopoly to run its course.  At first the government regulations seem to be the better option, this, however, makes the monopoly acceptable and is only a short term solution.  The monopoly is no longer extravagantly taking advantage of the consumers, but still the monopoly exists and it is taking advantage of its monopoly.  Suppose the monopoly was allowed to run its course.  If the consumers saw that it needed regulating, then they already know that the monopoly is taking advantage of them.  The monopoly will get more and more inefficient and cost the society money.  Rational consumers will soon stop purchasing the product that the monopoly has to offer or more likely someone will start up competition of the monopoly and the consumers will buy from them.  Since the consumers already dislike the once monopoly they would purchase from the new competition instead.  This in turn would encourage others to compete in the market, thus ending the monopoly on the industry. (thanks to Kris. T for that answer)
+
+5. List ways that monopolies can be established.
+
+Monopolies are established by operation of law, by licensing of professionals, by control of valuable resources, by large economies of scale, and by government-granted patents and copyrights that prevent selling substitutes.
+
+6. Suppose Katie likes to paint for money or even for free, but will not pay extra to paint.  Suppose also that the monthly demand for her paintings is P = $500 – 50Q.  How many paintings does she create each month?
+
+She paints 5 a month.  We find this by determining what Q is when P=0, and taking half of that in order to find where MR=0.
+
+7. List some differences between a monopoly and a competitive industry.
+
+In a monopoly there is no competition, which is the #1 qualification in a competitive industry.  A monopoly has market power, in which it can set its own prices, while a competitive firm must take the price consumers are willing to pay and thus had no market power.  Additionally, a competitive firm will produce where MR=MC, P=MR (because of no market power) and P=MC.  Conversely, a monopolistic firm will produce where MR=MC, but P>MC. (thanks to Rebecca B., who now runs her own business)
+
+8. Suppose Anthony owns a company having marginal costs of $5 for all his units.  If he sells only one, then he reaps $11; selling two fetches a price of $10 piece; selling 3 attains a price of $9; selling four reaps $8; Q=5 would have P=$7; Q=6 has P=$6, etc.  A competitive firm would have the same cost and demand numbers.  What does Anthony sell at, and what is the social cost of his monopoly?
+
+If Anthony's company has monopoly and a marginal cost of $5 per widget, then using the described demand curve, his company should sell three widgets at $9 apiece or 4 widgets at $8 apiece. Either approach will give Anthony's company a profit of $12.
+
+If Anthony sells only three widgets at $9, then that is four less than what a competitive market would sell. The social cost is the sum of (P-MC) over each of the withheld units, noting that the social cost for each withheld unit is different because the unit goes unsold at a different P.
+
+We assume that society would have purchased the unit at slightly less than the higher price, such $6 minus an infinitesimal amount. When the price went from $5 to $6, one unit went unsold and the loss to society was almost (P-MC=$6–$5=$1).  Likewise, another unit went unsold at $7 (P-MC=$2), another unit went unsold at $8 and another unit went unsold at $9. That total social cost is  almost  $1 + $2 + $3 + $4 = $10.
+
+If instead Anthony sold 4 units at $8, then the social cost is almost $1 + $2 + $3 = $6.  The "almost" is so close to the number that we drop the "almost" and simply provide the number as the estimated social cost.
+
+Honors: 9. Estimates are not very accurate about homeschooling, but some guess that 1 out of every 25 students is homeschooled.  At what level or fraction would homeschooling end the public school monopoly?  Discuss.
+
+10. Suppose you live in a valley where water flows freely and abundantly from a spring.  Suppose your entire family uses on average 80 gallons a day.  But then a company bought the spring.  If the demand curve is a straight line from P=$100, Q=0 to P=$0, Q=80, at what price and quantity would the company sell water?
+
+The water company has a monopoly, and monopolies (like every company) price its good where marginal revenue (MR) equals marginal cost (MC).  We have to assume that MC=0 here.  So where is MR=0?  By trial and error, if necessary, we we see that MR=0 when Q=40 and P=$50.  Algebraically we can reach the same result as follows:
+
+Marginal Revenue = (change in revenue) divided by (change in sales) = (change in PxQ) divided by (change in Q)
+
+The  lecture  says that "You will need this for several homework problems: when the demand curve is a straight line, the curve for the marginal revenue of a monopoly intersects the x-axis at exactly half the quantity of the demand curve."
+
+The intersection of the x-axis is where MR = 0, which is what we seek here.  That occurs at exactly half the quantity of the demand curve, which is Q= 80/2 = 40.  Plugging that back into the demand equation yields P = $50.
+
+We can also prove this result by using calculus. Marginal Revenue is the derivative of total revenue:
+
+Setting MR = 0 yields:
+
+Thus
+
+Plugging back into the first equation to find P yields:
+
+11. Monopolies: should the government regulate them?  If so, how?
+
+Yes: because monopolies impose social loss on society.  Regulate them by breaking them up into competing companies.
+
+No: because the "cure" of regulation is worse than the "disease" of the monopoly.

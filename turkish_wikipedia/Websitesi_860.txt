@@ -1,0 +1,27 @@
+Web sitesi ,  web  üzerindeki sayfalar; metin, görsel ve animasyon şeklinde ziyaretçisine bilgi aktaran veya hizmet sunan sayfaların tümünü kapsayan bir doküman topluluğudur. Ziyaretçiler bir web sitesine,  HTTP  veya  HTTPS  protokollerinde aşağıdaki bileşenlerden oluşan benzersiz bir adresi kullanarak erişirler:
+
+Bu adres gerekli dosyalara ulaşımı ve sergilenmesi sağlanarak ziyaretçiye görsel sunum şeklinde hizmet verir. Ayrıca web siteleri çok güncel kullanılmamasına rağmen özel bir ip adresinden de sergileme hizmeti verir.
+
+Web siteleri 1991'de geliştirilmeye başlandı. Daha sonra 30 Nisan 1993'te  CERN  tarafından  WWW  ön eki ile internet kullanıcılarının ulaşabileceği şekle getirildi. 12 Nisan 1993 tarihinde  ODTÜ 'den Ankara-Washington arasında kiralık hat ile Türkiye'de ilk internet bağlantısı gerçekleşti. [1]
+
+Bir Web sitesi  statik  veya  dinamik  olabilir:
+
+Statik  bir web sitesi, monoton veya az güncellenen sitelerdir. İçerik sık bir şekilde değişikliğe uğramaz. Genellikle uzun süre değişiklik olmayacak olan sitelerdir. Ziyaretçi veya üye katkısı yok denecek kadar azdır. Site tamamen siteyi oluşturan kişi tarafından düzenlenebilir. Statik Web sitesini oluştururken;
+
+dilleri kullanılabilir.
+
+Photoshop  ve  FIREWORKS  gibi görsel grafik editörleri kullanarak mizanpajlar da kullanılarak  GIF ,  JPEG  ve  PNG  formatlarındaki görsel dokümanlar ile ziyaretçinin tarayıcılarında izlenmesi sağlanır.
+
+Statik web sayfası/sayfaları, sayfaları oluşturan birey tarafından değiştirilmedikçe herhengi bir güncellemeye maruz kalmayarak en son yapılandırıldığı gibi bilgi veya görsel sunum aktarımı sağlar.
+
+Dinamik  bir web sitesi, her kullanıcı için ya da her ziyarette özel olarak oluşturulabilir. Dünya üzerindeki her kullanıcı, bir siteye kendi kullanıcı adıyla girdiğinde diğer kullanıcılardan farklı bir içeriğe erişebilir. Bu farklı içerik, Web sitesinin renkleri, teması, müzikleri, sitedeki yetki derecesi vb. şeklinde olabilir. Günümüz internetindeki popüler siteler dinamik sitelerdir. Bu dinakmikliği oluşturmak için dünyada kullanılan farklı diller vardır.
+
+Dinamik bir Web sitesinde kullanılabilen dillerden bazıları şunlardır:
+
+Sayfaların dinamik, yapımcı veya ziyaretçi tarafından sürekli güncellenebilir olmasını sağlayan bu yazılım dilleri; yapımcı ve yazılım dillerinin geliştiricileri tarafından sağlanan yenilikler ile kendilerini geliştirmektedir.
+
+Microsoft firması tarafından geliştirilen  ASP.Net  ve  ASP  nin belli bir kesim tarafından kabul edilip kullanılmasının yanı sıra günümüzde  PHP  olarak adlandırılan ve belide en çok kullanlan betik ve programlama dili de bir hayli yaygın olarak kullanılır.
+
+Sayfalardaki içeriğin dinamikliği için bu kullanılan yazılım dillerine yardımcı ve hatta tüm sayfaların dinamik bir şekilde kullanılmasını sağlayan  JavaScript ,  JQuery ,  Flash ,  Silverlight  gibi  gerçek zamanlı veri akışı  dillerde kullanılabilir.
+
+2008 yılı başlarında Web 2.0 adlı bir kavram doğmuştur. Bu kavram yeni nesil web sitesini ifade eder. Hız ve kodlama olarak çok değişen bir şey olmamakla beraber; renk uyumu, daha zarif geçişler, yuvarlak köşeler, kontrast renklerin bir arada bulunması gibi kombinasyonlarla oluşturulan sitelerdir. [ kaynak belirtilmeli ]

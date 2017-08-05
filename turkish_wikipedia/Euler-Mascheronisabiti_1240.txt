@@ -1,0 +1,44 @@
+Matematiksel analizin   sayı teorisinde   Euler–Mascheroni sabiti'   matematiksel sabit 'tir. Yunan harfi  γ  ( gama ) ile gösterilir.
+
+Harmonik seri  ile  doğal logaritma  arasındaki fark veya  limit 'tir.
+
+sayısal değerin 50 basamağı:
+
+γ 
+ 
+ 
+ {\displaystyle \gamma } 
+ 
+  ile  e sayısı  karıştırılmamalıdır  e   Euler sayısı ,  doğal logaritma 'nın tabanı olarak bilinir.
+
+Sabit 1735'te  İsviçreli  matematikçi  Leonhard Euler ,  De Progressionibus harmonicis observationes  başlığı (Eneström Index 43) açıklanmıştır. Euler'in sabit için kullandığı notasyon  C  ve  O  dur. 1790'te,  İtalyan  matematikçi  Lorenzo Mascheroni 'nin sabit için kullandığı notasyon  A  ve  a  'dır. γ gösterimine Euler veya Mascheroni sabiti dendi, daha sonra  gama fonksiyonu  ile ilişkisi anlaşıldı. Mesela Carl Anton Bretschneider tarafından γ notasyonu 1835'te kullanıldı. [1]
+
+Euler-Mascheroni sabiti, diğer denklemler içerisinde görünür :
+
+Bu tür için daha fazla bilgi,bkz:  Gourdon ve Sebah (2004).  rmulas.html Gourdon and Sebah (2004).]
+
+γ sayısının  cebirsel sayı  veya  aşkın sayı  olup olmadığı bilinmiyor. Hatta γ'nın  irrasyonel sayı  olup olmadığıda bilinmiyor  sürekli kesir 'le  rasyonel , γ paydası 10 242080  'dan büyük olmalıdır. [ kaynak belirtilmeli ]  Birçok denklemde ortaya çıkan γ'nın (pi/2e~0.5778) irrasyonalitesi? büyük bir açık sorudur.Sondow'a bakınız (2003a).
+
+Daha fazla bilgi için bakınız:  Gourdon and Sebah (2002).
+
+γ  digama fonksiyonu  Ψ ile ilişkilidir, Ψ , gama fonksiyonu  yani Γ 'unun türevidir.:
+
+Bunun limiti:
+
+Daha öte limit sonuçları (Krämer, 2005):
+
+beta fonksiyonu  ile ilişkisi (dolayısıyla  gama fonksiyonu )
+
+Pozitif tam sayı içeren  Riemann zeta fonksiyonu 'nun  sonsuz toplamı  γ sabitine yakınsar:
+
+zeta fonksiyonu içeren diğer serilerle ilişkisi:
+
+Son denklemde n sayısı nedeniyle hata teriminin hızla azalması hesaplama için uygundur.
+
+Diğer ilginç limit eşitliği Euler–Mascheroni sabitinin antisimetrik limitidir. (Sondow, 1998)
+
+ve
+
+rasyonel zeta serisi  ifadesi ilede yakında ilişkilidir.
+
+Burada ζ( s , k )  Hurwitz zeta fonksiyonu 'dur. Bu denklem  harmonik sayılar 'ın toplamını içermektedir.,  H n . Hurwitz zeta fonksiyonu'nun açılımındaki bazı terimler:

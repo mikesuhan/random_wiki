@@ -1,0 +1,5 @@
+The  hardness  of a  mineral  indicates how well it resists  scratching  and  abrasion . The degree of hardness is determined by observing the comparative ease or difficulty with which one mineral is scratched by another, or by a  file  or  knife . It is measured on a numerical scale introduced by  Mohs , from 1 (softest) to 10 (hardest):
+
+If the mineral under examination is scratched by the knife-blade as easily as calcite its hardness is said to be 3; if less easily than calcite and more so than fluorite its hardness is 3.5. In the latter case the mineral in question would be scratched by fluorite but would itself scratch calcite. It need hardly be added that great accuracy is not attainable by the above methods, though, indeed, for purposes of the determination of minerals, exactness is quite unnecessary.
+
+It should be noted that minerals of:

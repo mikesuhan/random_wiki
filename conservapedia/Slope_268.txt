@@ -1,0 +1,15 @@
+Slope  is the steepness of a  line .  A positive slope rises; a negative slope falls.  Another term for slope is gradient.
+
+For a straight line, the slope (m) is constant and represented by the difference in the vertical direction (y) divided by the difference in the horizontal direction (x):
+
+The delta, Δ, represents the difference in values between any two points in the x or y direction for straight line.  For a  curve , the delta, Δ, represents the difference in values for two points in very close proximity to each other.
+
+For a straight line, another way of representing the slope (m) is as follows:
+
+where the two points are located at (x 1 , y 1 ) and (x 2 , y 2 ).
+
+If a function has value   at   and   at   with   than the slope of the line joining   to   is,
+
+The slope of the line that meets (is tangential to)   at   is the limit as   tends to zero, or,
+
+which is denoted  , which is called the  derivative  of  .

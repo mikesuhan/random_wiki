@@ -1,0 +1,38 @@
+2X6U ,  2X6V ,  4S0H ,  5BQD
+
+6910
+
+21388
+
+ENSG00000089225
+
+ENSMUSG00000018263
+
+Q99593
+
+P70326
+
+NM_181486 
+ NM_000192 
+ NM_080717 
+ NM_080718
+
+NM_011537
+
+NP_000183 
+ NP_542448 
+ NP_852259
+
+NP_035667
+
+T-box transcription factor TBX5  is a  protein  that in humans is encoded by the  TBX5   gene . [3] [4] [5]
+
+This gene is a member of a phylogenetically conserved family of genes that share a common DNA-binding domain, the  T-box . T-box genes encode transcription factors involved in the regulation of developmental processes. This gene is closely linked [ clarification needed ]  to related family member T-box 3 (ulnar mammary syndrome) on human chromosome 12.
+
+The encoded protein may play a role in heart development and specification of limb identity. Mutations in this gene have been associated with  Holt-Oram syndrome , a developmental disorder affecting the heart and upper limbs. Skeletally there may be abnormally bent fingers, sloping shoulders, and phocomelia. Cardiac defects include ventral and atrial septation and problems with the conduction system. [6]  Several transcript variants encoding different isoforms have been described for this gene. [5]
+
+In studies done in mutant mice without the TBX5 gene it has been shown that the homozygous mice did not survive gestation due to the heart not developing past E9.5. Also the heterozygous mice were born with morphological problems such as enlarged hearts, atrial and ventral septum defects, and limb malformations similar to those found in the Holt-Oram Syndrome. [7]  Supporting the essential role of TBX5 in the heart development.
+
+TBX5 (gene) has been shown to  interact  with:
+
+Tbx5 is a gene that is located on the long arm of chromosome 12. [10]  Tbx5 produces a protein called T-box 5 that acts as a transcription factor. [11]  The Tbx5 gene is involved with forelimb and heart development. This gene impacts the early development of the forelimb by triggering FGF-10 (Fibroblast Growth Factor 10). [12]  Tbx5 is involved with the development of the four chambers in the heart, the electrical conducting system, and the septum separating the right and left sides of the heart. [13]  A mutation in this gene can cause Holt-Oram syndrome or Amelia syndrome. Holt-Oram syndrome can cause several different defects. One effect of Holt-Oram syndrome is a hole in the septum. [14]  Another symptom of this syndrome is bone abnormalities in the fingers, wrists, or arms. [15]  An additional defect that Holt-Oram syndrome can cause is a conduction disease leading to abnormal heart rates and arrhythmias. [16]  Amelia syndrome is a condition where forelimb malformation occurs because FGF-10 is not triggered due to Tbx5 mutations. [17]  This condition can lead to the absence of one or both forelimbs.

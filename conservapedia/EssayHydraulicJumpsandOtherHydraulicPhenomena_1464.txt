@@ -1,0 +1,45 @@
+Upon studying open-channel fluid flow, I have observed that hydraulic jumps, breaking waves, and waterfalls all seem to be the same phenomenon.
+
+Let us first define each phenomenon as it is conventionally understood:
+
+A  hydraulic jump  is a discrepancy in water depths. When water in a stream flows over a rock, for example, the water may reach a very high speed due to the decrease in the height of the water. (This is due to the continuity equation, (initial velocity)(initial height) = (final velocity)(final height).) If the speed increases greatly, it may exceed the speed that waves propagate at; such a speed is called "super-critical" flow. In this case, a sudden jump in the water's height will occur so that the speed of the water is reduced to sub-critical speed.
+
+A  breaking wave  is a wave where the back of the wave catches up to the front and tumbles over, causing the wave to break. Once the wave has been broken for some time, it looks like it does in the photo. I will refer to such a wave as a " developed breaking wave ".
+
+A  waterfall  is an amount of water that falls over the top of a ledge of some sort, falling into a body of water below.
+
+Now, let us study photographic images of these three phenomena. Pay attention to the regions outlined in pink - they look very similar to each other.
+
+The Hydraulic Jump
+
+The Developed Breaking Wave
+
+The Waterfall
+
+In each photograph, there is a cusp of whitish foam that appears right where a change in the depth of the water occurs. In the case of the hydraulic jump and waterfall, this cusp of foam is preceded by a region of water that is higher velocity and smaller depth (we'll call this Region 1). In the developed breaking wave, if you observe the wave in a control volume such that the cusp of whitish foam is stationary, this is also true. After the cusp, there is a region of lower-velocity, larger-depth water (we'll call this Region 2). So, the hydraulic jump, developed breaking wave, and waterfall are all similar in that there is a high-velocity, small-depth region of water, then a cusp of whitish foam, and then a low-velocity, large-depth region of water.
+
+In Fluid Mechanics, Volume 10 by Pijush K. Kundu and Ira M. Cohen, the following diagram appears, illustrating three different hydraulic jumps:
+
+The first hydraulic jump appears to be the same as a waterfall (take note, however, that it is not quite like a waterfall because a waterfall's Region 1 is airborne and does not touch the bottom.) The second hydraulic jump pictured is a standard, stationary hydraulic jump. The third hydraulic jump is moving and appears to be the same as a developed breaking wave.
+
+So, these three phenomena seem to be very similar. How could we prove that they are the same? Well, the hydraulic jump is governed by a particular equation. If this equation holds true for developed breaking waves and waterfalls as well, that would prove that they are all the same phenomena.
+
+The equation is:
+
+Where
+
+(  is called the Froude number,   is the speed of the water,   is the acceleration due to gravity, and   is the depth of the water.)
+
+We will now try to apply this hydraulic jump equation to developed breaking waves and waterfalls.
+
+In a hydraulic jump, the cusp of white foam that we mentioned earlier occurs just where the speed of the water becomes exactly critical: that is, where the speed of the water in Region I reaches sqrt(gY_1).
+
+THIS SECTION IS NOT FINISHED
+
+Our conclusion is that developed breaking waves are hydraulic jumps in series:
+
+THIS SECTION IS NOT FINISHED
+
+Our conclusion is that waterfalls are hydraulic jumps only if the water is not airborne:
+
+THIS SECTION IS NOT FINISHED

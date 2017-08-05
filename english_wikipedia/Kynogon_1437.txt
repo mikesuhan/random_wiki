@@ -1,0 +1,7 @@
+Kynogon  was a computer software company that provided  AI middleware  to the video game and the simulation industries. The company was acquired by  Autodesk  in February 2008, [1]  and its flagship product is now titled Autodesk  Navigation .
+
+Kynogon was founded in France in 2000 by Pierre Pontevia and Jacques Gaubil. It also has offices in Montreal, Canada, and the UK. Kynogon has won many awards such as  Red Herring  100  or Develop Industry Excellence. [ citation needed ]
+
+In the video game domain, Kynogon maintains partnerships with console makers ( Microsoft ,  Sony  and  Nintendo ). Kynogon is a member of  Epic Games 's integrated partner program and  Kynapse  is available as integrated into the  Unreal Engine . Kynogon also works with other complementary middleware developers ( Ageia ,  Emergent Game Technologies ,  Trinigy ). [ citation needed ]
+
+In the simulation industry, Kynogon partners with MAK Technologies and is the developer of BHave, a plug-in to VR-Forces CGF. [ citation needed ]

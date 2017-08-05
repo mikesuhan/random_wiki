@@ -1,0 +1,9 @@
+Avira  is a company which provides  Anti-virus software .  This German company released its first version in 1988.  Avira offers a free version of its protection software for private uses, as well as several paid options.
+
+Avira offers both signature-based and  heuristic  (AHeAD) detection.  In more expensive versions, it also offers system optimization features and file encryption.  It also offers cloud protection, which means suspected files may be uploaded and examined by this cloud. [1]
+
+In 2015, Avira scored high for its malware detection rate by the prominent anti-virus testing company AV Comparatives. [2]
+
+According to the leading software review website C/NET, "Avira System Speedup is a utility to safely and thoroughly remove unused programs and files to optimize Windows to bring back the fast, error-free performance you deserve. It has a System Cleanup module which contains a complete set of tools that swiftly and safely clear out PC clutter." [3]
+
+In 2015,  Avira boasted about 30,000,000 detections worldwide per day, among about 100,000,000 customers. [4]

@@ -1,0 +1,1 @@
+The  weight , in  tons , of a  vessel  and its contents. Calculated by dividing the volume of water displaced in cubic feet by 35, the average density of sea water. [1]

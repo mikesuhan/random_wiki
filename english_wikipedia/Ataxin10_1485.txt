@@ -1,0 +1,27 @@
+25814
+
+54138
+
+ENSG00000130638
+
+ENSMUSG00000016541
+
+Q9UBB4
+
+P28658
+
+NM_013236 
+ NM_001167621
+
+NM_016843
+
+NP_001161093 
+ NP_037368
+
+NP_058539
+
+Ataxin-10  is a  protein  that in humans is encoded by the  ATXN10   gene . [3] [4]
+
+The autosomal dominant  cerebellar ataxias  (ADCAs) are a clinically and genetically heterogeneous group of disorders characterized by ataxia, dysarthria, dysmetria, and intention tremor. All ADCAs involve some degree of cerebellar dysfunction and a varying degree of signs from other components of the nervous system. A commonly accepted clinical classification (Harding, 1993) divides ADCAs into 3 different groups based on the presence or absence of associated symptoms such as brainstem signs or retinopathy. The presence of pyramidal and extrapyramidal symptoms and ophthalmoplegia makes the diagnosis of ADCA I, the presence of retinopathy points to ADCA II, and the absence of associated signs to ADCA III. Genetic linkage and molecular analyses revealed that ADCAs are genetically heterogeneous even within the various subtypes. [4]
+
+Defects in ATXN10 have been associated with  Joubert syndrome . [5]

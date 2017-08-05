@@ -1,0 +1,7 @@
+Current  is the amount of electrical charge flowing through an object, or through an electric circuit, at a given moment.  While moving charge is normally carried by  electrons , positive current is measured in the opposite direction from the flow of electrons, since electrons have a negative charge.
+
+Different objects have different  resistance .  An object with high resistance, called an  insulator , will have a lower current flowing through it.  An object with low resistance, called a  conductor , will have a higher current flowing through it.
+
+Current  is typically measured in the  SI  unit of Amperes ( A ), often referred to as "amps".   1 A = 1  Coulomb / second
+
+The word "current" appears in the phrases "direct current" ( DC ) and "alternating Current" ( AC ) though those phrases don't specifically refer to current, and could more commonly be considered to refer to  voltage .

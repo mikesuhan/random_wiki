@@ -1,0 +1,11 @@
+Derin Ağ ,  Derin İnternet  ya da  Derin Web  ( İngilizce :  Deep Web ),  İnternetin  çıktığı ilk tarihlerden itibaren  arama motorlarının   indeksleyemediği  verilerin bulunduğu bilgileri içeren binlerce  linkten  oluşan bir sistemdir. Arama linki verilmeyen veya arama motorları tarafından bulunamayan bütün siteler Derin Ağ'a dahildir.
+
+İnternet siteleri çeşitli nedenlerden görüntülenmemek isteyebilir. Örneğin; kütüphane arşivleri, kamu ve özel şirket bilgileri gibi genellikle herkes tarafından görülmesi istenmeyen veya indekslenmeleri zor olan içerik taşıdıkları için arama motorlarında görüntülenmek istemezler. Bunların dışında  flash  siteler, ajaxlı siteler ( jQuery  ile çalışan), şifre ile girilen siteler,  ftp  siteler de arama motorları tarafından okunmaları zor olduğu için Derin Ağ'a dahildir. Güvenlik açıkları oluşmaması için forumlardaki ve sitelerdeki, sistem ve yönetici klasörleri de otomatik olarak arama sonuçlarında gösterilmez. Derin Ağ'a farklı arama motorları kullanarak ulaşmak mümkündür.
+
+Kaliforniya Üniversitesi 'nin yaptığı bir araştırmaya göre 2001 yılında [1]  7.5  petabayt  büyüklüğünde bir verinin Derin Ağ'da olduğu tahmin ediliyordu. Başka bir araştırmaya göre ise 2004 yılında Derin Ağ'da 300.000 web sitesi faaliyet gösteriyordu ve Shestakov'e göre, 2006 yılında bunun 14.000'i sadece Derin Ağ'ın Rusça olan kısmındaydı. [2]
+
+Derin Ağ adı verilen bu sisteme kapalı uçlu dns yönlendirmeleri ile girilebilir.Bu da özel olarak tasarlanmış tarayıcı veya işletim sistemleri ile mümkündür.Tarayıcı uygulamalarının başında ilk olarak ABD Donanması tarafından üretilen, sonrasında iptal edilip internette paylaşılan Tor Browser gelmektedir. [3]
+
+Derin Ağ'ın içinde yasa dışı içerik paylaşan İnternet sitelerinin tamamı Karanlık Ağ ( İngilizce :  Dark Web ) olarak adlandırılır. Yaygın olarak Karanlık Ağ tanımı Derin Ağ yerine de kullanılır.
+
+Karanlık Ağ linklerinde çok sayıda yanlış veya doğru illegal veriler bulunabilir. Karanlık Ağ'da bilgi/video/resim indirmek bazen yasa dışıdır çünkü bu linklerde devlet sırları, önemli insanların özel bulguları, +18 müstehcen içerik, çocuk cinsel tacizleri, uyuşturucu satıcılığı, yasal olmayan yollardan silah satışı, kumar ve sayamadığımız birçok yasal olmayan içerikler bulunmaktadır. [4]

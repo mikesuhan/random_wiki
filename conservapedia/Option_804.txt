@@ -1,0 +1,5 @@
+An  option  gives its owner the right, but not the obligation, to trade an underlying financial asset or commodity.  Options are a common form of executive compensation in company  stock .
+
+Options differ from futures in that the owner of an option need not exercise it by purchasing the underlying contract, while the owner of a future is obligated to make the purchase.
+
+There are two kinds of options:  calls  and  puts . A call is the right to buy an underlying instrument, and a put is the right to sell it.

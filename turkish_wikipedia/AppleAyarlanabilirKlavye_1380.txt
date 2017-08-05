@@ -1,0 +1,7 @@
+Apple Ayarlanabilir Klavye  (ingilizce:Apple Adjustable Keyboard)  Apple Computer  tarafından 1993 yılında  Macintosh  kişisel bilgisayarlar için ABD doları 219 dolara piyasaya sürülen ergonomik ve ayarlanabilir bir klavyedir. Klavye bilgisayara Apple Masaüstü Veri Yolu (ADB) üzerinden bağlanır. [1]   Apple Desktop Bus 'la sonuncusu olduğu için USB'den ADB'ye adaptör kullanmadan bu klavyeyle uyumlu olan son Apple bilgisayarı  Power Macintosh G3 (Blue & White)  idi.
+
+Birkaç bilgisayar klavye üreticisinin zayıf tasarım için dava açtıktan sonra,  karpal tünel sendromuna  neden olan tekrarlayan stres yaralanmalarını çözmeyi amaçladı. Apple Ayarlanabilir Klavye, kontürlü plastik bilek dayanakları ve işlev tuşları ve  Ok tuşları  bulunan ayrı bir tuş takımıyla geldi. [2]  Bu, Apple'ın ayrı bir sayısal tuş takımı sunduğu üçüncü ve son kez oldu. Öncekilerin aksine, ayrı olarak satılmadı. Klavye aynı zamanda ses düzeyi düğmelerini ve klavyenin sağ tarafındaki kayıt düğmesini de içeriyordu.
+
+Kullanıcı klavyenin sağ ve sol tarafları arasındaki açıyı ayarlamasına izin vererek tepeye menteşeleniyordu. Bölünme anahtar çiftler arasında geldi: 5/6, T / Y, G / H ve B / N. Uzay çubuğu iki parçanın ortasında süzüldü. Klavye birçok ergonomik sorunu ele almasına rağmen, esas olarak isteğe bağlı avuç içi dayanaklarından dolayı büyük bir masa alanı kullanması nedeniyle gözden geçirildi. [3]
+
+Klavye  Alps Electric  SKFS anahtarlarını kullanıyor ve bu tuş takımı, biraz "tık" hissi ile dokunsal geribildirim sağlıyor.

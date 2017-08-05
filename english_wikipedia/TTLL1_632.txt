@@ -1,0 +1,22 @@
+25809
+
+319953
+
+ENSG00000100271
+
+ENSMUSG00000022442
+
+O95922
+
+Q91V51
+
+NM_001008572 
+ NM_012263
+
+NM_178869
+
+NP_036395
+
+NP_849200
+
+Probable tubulin polyglutamylase TTLL1  is an  enzyme  that in humans is encoded by the  TTLL1   gene . [3] [4] [5]

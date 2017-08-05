@@ -1,0 +1,3 @@
+Man (elkitabı) sayfası  ( İngilizce : man page, yani manuel sayfası), genellikle  Unix  veya Unix-benzeri ( Linux )  işletim sistemlerinde  bulunan  çevrim içi  bir  yazılım  belgeleme tipi. Kapsanan mevzular arasında bilgisayar yazılımları (kütüphane ve  sistem çağrısı  dahil), resmi standartlar ve kurallar, hatta soyut kavramlar vardır. Bir  kullanıcı  man sayfasını  man  komutu vererek başlatabilir.
+
+Bir Unix emiri elkitabı sayfasını okumak için, şöyle tuşlanır:

@@ -1,0 +1,11 @@
+Common Remotely Operated Weapon System  programı, ( CROWS ) ( Türkçe   Müşterek Uzaktan Kumandalı Silah Sistemi ) çeşitli türde araçlara monte edilebilen ve farklı silahları uzaktan kumanda yardımı ile sevk ve idare etmeye yarayan bir düzenektir. Takıldığı araçlar başlıca M1114 ve M1116 gelişmiş zırhlı  HMMWV  ve  M1117  Zırhlı Güvenlik araçlarıdır.
+
+İlk CROWS sistemi  ABDnin   Illinois  eyaletinin Barrington kentinde bulunan  Recon Optical  firmasının  [1]  geliştirdiği  RAVEN SRWSdir .
+
+Ortaya çıkan talebe başvuruda bulunan ve merkezi  Norveçde  bulunan  [2]   KONGSBERG  firması  [3]  üretmiş oldukları  M151 PROTECTOR  model CROWS sistemi ile ihaleyi kazanmıştır. Tamamı bir  milyar  ABD Doları bulacak olan siparişin ilk alımında KONGSBERG firması 300 milyon dolarlık CROWS sistemi satmıştır.
+
+CROWS iki kısımdan oluşmaktadır: Aracın dış kısmına kurulan gövde ve içeriden ona kumanda etmeye yarayan kontrol sistemi. Aracın dış kısmına kurulan gövdenin 360 derece yanal ve -20 ila +60 derecelik hareket kabiliyeti bulunmaktadır.Bu sistem bünyesinde kullanılabilecek silahlar arasında  M2 HB .50-cal Makineli Tüfek,  Mk19  40-mmlik Otomatik Bomba atar,  M240B  7.62-mmlik Makineli Tüfek ve  M249 takım otomatik silahını  sayabiliriz. Cihaz içerisindeki algılayıcı bünyesinde günışığında çalışan video kamera, gece kullanımı için termal kamera ve lazer nişangah bulunmaktadır. [4]
+
+CROWS kontrol sistemi ise aracın içerisine monte edilmektedir.( HMMWV  araçlarında sürücünün arkasındaki koltuğa). Bu kontrol sistemi 15  inçlik  ekran, düğmeler ve bir kumanda kolundan oluşmaktadır.Bu sistem sayesinde zırhlı aracın içerisinde bulunan operatör aracın dışına çıkmadan görev sırasında gerekli gördüğü hedeflere silah türüne göre ateş edebilmektedir. [5]
+
+İlk seri üretim olan CROWS modeli RAVEN 2004 yılında  Irakta  görev yapmakta olan özel birlikler, askeri inzibat, piyade ve levazım birliklerine ait araçlara monte edilmektedir. Şu ana kadar 200 adet sistem araçlara monte edilmiştir. [6]

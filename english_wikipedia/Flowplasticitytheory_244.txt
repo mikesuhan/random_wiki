@@ -1,0 +1,173 @@
+Flow plasticity  is a  solid mechanics  theory that is used to describe the  plastic  behavior of materials. [1]  Flow plasticity theories are characterized by the assumption that a  flow rule  exists that can be used to determine the amount of plastic deformation in the material.
+
+In flow plasticity theories it is assumed that the total  strain  in a body can be decomposed additively (or multiplicatively) into an elastic part and a plastic part. The elastic part of the strain can be computed from a  linear elastic  or  hyperelastic  constitutive model. However, determination of the plastic part of the strain requires a  flow rule  and a  hardening model .
+
+Typical flow plasticity theories (for small deformation perfect plasticity or hardening plasticity) are developed on the basis of the following requirements:
+
+The above requirements can be expressed in three dimensions as follows.
+
+In metal plasticity, the assumption that the plastic strain increment and deviatoric stress tensor have the same principal directions is encapsulated in a relation called the  flow rule . Rock plasticity theories also use a similar concept except that the requirement of pressure-dependence of the yield surface requires a relaxation of the above assumption. Instead, it is typically assumed that the plastic strain increment and the normal to the pressure-dependent yield surface have the same direction, i.e.,
+
+where  
+ 
+ 
+ 
+ d 
+ λ 
+ > 
+ 0 
+ 
+ 
+ {\displaystyle d\lambda >0} 
+ 
+  is a hardening parameter. This form of the flow rule is called an  associated flow rule  and the assumption of co-directionality is called the  normality condition . The function  
+ 
+ 
+ 
+ f 
+ 
+ 
+ {\displaystyle f} 
+ 
+  is also called a  plastic potential .
+
+The above flow rule is easily justified for perfectly plastic deformations for which  
+ 
+ 
+ 
+ d 
+ 
+ σ 
+ 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle d{\boldsymbol {\sigma }}=0} 
+ 
+  when  
+ 
+ 
+ 
+ d 
+ 
+ 
+ ε 
+ 
+ 
+ p 
+ 
+ 
+ > 
+ 0 
+ 
+ 
+ {\displaystyle d{\boldsymbol {\varepsilon }}_{p}>0} 
+ 
+ , i.e., the yield surface remains constant under increasing plastic deformation. This implies that the increment of elastic strain is also zero,  
+ 
+ 
+ 
+ d 
+ 
+ 
+ ε 
+ 
+ 
+ e 
+ 
+ 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle d{\boldsymbol {\varepsilon }}_{e}=0} 
+ 
+ , because of Hooke's law. Therefore,
+
+Hence, both the normal to the yield surface and the plastic strain tensor are perpendicular to the stress tensor and must have the same direction.
+
+For a  work hardening  material, the yield surface can expand with increasing stress. We assume Drucker's second stability postulate which states that for an infinitesimal stress cycle this plastic work is positive, i.e.,
+
+The above quantity is equal to zero for purely elastic cycles. Examination of the work done over a cycle of plastic loading-unloading can be used to justify the validity of the associated flow rule. [2]
+
+The  Prager consistency condition  is needed to close the set of constitutive equations and to eliminate the unknown parameter  
+ 
+ 
+ 
+ d 
+ λ 
+ 
+ 
+ {\displaystyle d\lambda } 
+ 
+  from the system of equations. The consistency condition states that  
+ 
+ 
+ 
+ d 
+ f 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle df=0} 
+ 
+  at yield because  
+ 
+ 
+ 
+ f 
+ ( 
+ 
+ σ 
+ 
+ , 
+ 
+ 
+ ε 
+ 
+ 
+ p 
+ 
+ 
+ ) 
+ = 
+ 0 
+ 
+ 
+ {\displaystyle f({\boldsymbol {\sigma }},{\boldsymbol {\varepsilon }}_{p})=0} 
+ 
+ , and hence
+
+Large deformation flow theories of plasticity typically start with one of the following assumptions:
+
+The first assumption was widely used for numerical simulations of metals but has gradually been superseded by the multiplicative theory.
+
+The concept of multiplicative decomposition of the deformation gradient into elastic and plastic parts was first proposed independently by B. A. Bilby, [3]  E. Kröner, [4]  in the context of  crystal plasticity  and extended to continuum plasticity by Erasmus Lee. [5]  The decomposition assumes that the total deformation gradient ( F ) can be decomposed as:
+
+where  F e  is the elastic (recoverable) part and  F p  is the plastic (unrecoverable) part of the deformation. The  spatial velocity gradient  is given by
+
+where a superposed dot indicates a time derivative. We can write the above as
+
+The quantity
+
+is called a  plastic velocity gradient  and is defined in an intermediate ( incompatible ) stress-free configuration. The symmetric part ( D p ) of  L p  is called the  plastic rate of deformation  while the skew-symmetric part ( W p ) is called the  plastic spin :
+
+Typically, the plastic spin is ignored in most descriptions of finite plasticity.
+
+The elastic behavior in the finite strain regime is typically described by a  hyperelastic material  model. The elastic strain can be measured using an elastic right  Cauchy-Green deformation tensor  defined as:
+
+The  logarithmic  or  Hencky strain  tensor may then be defined as
+
+The symmetrized  Mandel stress  tensor is a convenient stress measure for finite plasticity and is defined as
+
+where  S  is the  second Piola-Kirchhoff stress . A possible hyperelastic model in terms of the logarithmic strain is  [6]
+
+where  W  is a strain energy density function,  J  = det( F ),  μ  is a modulus, and "dev" indicates the deviatoric part of a tensor.
+
+Application of the  Clausius-Duhem inequality  leads, in the absence of a plastic spin, to the finite strain flow rule
+
+The loading-unloading conditions can be shown to be equivalent to the  Karush-Kuhn-Tucker conditions
+
+The consistency condition is identical to that for the small strain case,

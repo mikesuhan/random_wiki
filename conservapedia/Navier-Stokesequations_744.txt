@@ -1,0 +1,3 @@
+The Navier-Stokes equation is an equation in  fluid mechanics  that states:
+
+where   is the pressure difference (expressed as the partial derivative of pressure in each dimension),   is the total derivative of velocity,   is the kinematic viscosity of the fluid,   is the density of the fluid, and   is the gravitational acceleration. [1]

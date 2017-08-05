@@ -1,0 +1,3 @@
+Entity-Relationship Model , kısaca ER-Modeli veya ERM, Türkçesi varlık-bağıntı modeli, gerçek hayattaki nesneler ve aralarındaki ilişkileri, bağlantıları tasvir eden bir modelleme tekniğidir. Genel olarak günümüzde Veritabanı oluşturmak için kullanılmaktadır.
+
+Bu modelleme tekniği ilk olarak 1976 yılında Peter Chen tarafından bilime kazandırılmıştır. 1977 yılında Smith and Smith tarafından geliştirilmiş ve 1980 li yıllarda Wong ve Katz tarafından son şeklini kazanmıştır.

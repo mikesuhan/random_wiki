@@ -1,0 +1,9 @@
+Yazılım geliştirmede   Apache Subversion  (eski adıyla  Subversion [1] , 2000 yılında  CollabNet  firması tarafından başlatılan ve desteklenen bir  sürüm kontrol sistemidir . Yazılım geliştiricileri Subversion'ı  kaynak kodu , ağ sayfaları veya belgelendirme gibi dosyaların güncel ve geçmiş tüm değişikliklerini tutmak için kullanırlar. Amacı yaygın olarak kullanılan  Concurrent Versions System  (CVS)'in olabildiğince uyumlu bir ardılı olmaktır.
+
+Açık kaynak  topluluğu Subversion'ı yaygın olarak kullanmıştır: örneğin  Apache Software Foundation  projelerinde,  Free Pascal ,  FreeBSD ,  GCC ,  Django ,  Ruby ,  Mono ,  SourceForge ,  ExtJS ,  Tigris.org ,  PHP  ve  MediaWiki .  Google Code  açık kaynak proje barındırmalarında Subversion desteği de vermektedir.  CodePlex  diğer istemcilere olduğu kadar Subversion erişimi de sağlamaktadır.
+
+İş dünyası da Subversion kullanımı kabul etmeye başlamıştır.  Forrester Research  tarafından 2007 yılında hazırlanan bir rapora göre Tekbaşına Yazılım Konfigürasyonu Yönetimi (SCM) kategorisinde Subversion'ı lider ve Yazılım Konfigürasyonu ve Değişiklik Yönetimi (SCCM) alanında da güçlü bir oyuncu gösterilmiştir. [2]
+
+Subversion  Apache Lisansını  kullanmaktadır ve açık kaynak kodludur.
+
+Subversion projesi 2000 yılında CollabNet adlı firma tarafından,  CVS  adlı sürüm kontrol sisteminin sahip olmadığı bazı özellikleri sağlayarak yerini almak üzere açık kaynaklı bir proje olarak başlatıldı. 2001 yılına gelindiğinde kendi kaynak kodunu barındırabilecek duruma gelen Subversion,  Kasım 2009 'da  Apache Incubator  projesine dahil edilerek [3]  tepe seviye Apache projesi haline gelmesinin başlangıcı olarak gösterildi. ve 17 Şubat 2010 tarihinde tepe seviye Apache projesi haline geldi. [4]

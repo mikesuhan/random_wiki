@@ -1,0 +1,1 @@
+Serpent  is a symmetric stream  cipher  which came second place in the competition to determine which cipher should be called  AES .

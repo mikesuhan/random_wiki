@@ -1,0 +1,13 @@
+Bağlama  veya  ligasyon ,  rekombinant DNA teknolojisinde   klonlanacak   geni  taşıyan  DNA  parçaları ile  vektörün  bir enzim aracığılıyla birbirlerine bağlanması işlemine denir. Bu işlem için  ligaz  cinsi enzimler görev yapar.
+
+Bağlamadaki sorunlardan biri vektörün yabancı DNA'ya bağlanması yerine kendi uçlarının birleşip halka şeklini kazanmasıdır, bunu engellemek için yapılan uygulamalardan biri, vektörün 5' uçlarındaki fosfat gruplarının yokedilerek fosfodiester bağ oluşumunu önlemektir.
+
+Bağlama için uygun uçların bulunması ya da oluşturulması gerekir. Değişik yöntemlerle bu gerçekleştirilebilir:
+
+Aynı cins enzimle kesilmiş DNA parçaları ve doğrusal konuma getirilmiş taşıyıcı DNA molekülleri bir araya getirildiğinde, farklı kökenlere sahip olsalar bile, birbirlerini tamamlayıcı özellikteki (yapışkan)  uçları  taşımalarından dolayı uçlar arasındaki baz eşleşmeleriyle moleküller bağlanır. Sonrasında ligaz enzimi  nükleotidler  arasında  fosfodiester  bağları kurarak açık uçları kapatır.
+
+Bu yöntem  rDNA  elde etmek için kullanılan en basit ve etkili yoldur. Ligaz yüksek yoğunlukta kullanılırsa rekombinant oranı artarken, düşük yoğunlukta kullanıldığında DNA parçaları halka şeklini alırlar.
+
+Bu yöntem küt olan  uçların  bağlanmasında kullanılır. Aracı olarak yapay bağlayıcı moleküller kullanılmaktadır. Bu sentetik aracı moleküller 6-10  baz çiftinden  oluşan  oligonükleotidlerdir . Bu moleküller 5' uçları  polinükleotid kinaz  ile fosforlanma sonrası T4  DNA ligaz  yardımıyla küt uçlu parçalara bağlanır ve bir  kesme enzimi  yardımıyla yapışkan uçlar oluşturulur. Bu şekilde oluşturulmuş diğer bir taşıyıcıya bağlanma ve aralıkların ligazla kapatılmasıyla bağlanma işlemi tamamlanır.
+
+Bu yöntemle de küt uçların bağlanması sağlanmaktadır. Küt uçların 3' uçlarında terminal transferaz enzimi yardımıyla homopolimerik tek zincirli kuyruklar takılır. Bu yöntem özellikle ökaryotik genlerin çoğaltılmasında kullanılmaktadır.  Ökaryotik   cDNA  parçalarının taşıyıcılara bağlanmasında kuyruklama yöntemi başarılı sonuçlar vermektedir.

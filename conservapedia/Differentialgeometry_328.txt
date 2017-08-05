@@ -1,0 +1,7 @@
+Differential geometry  is a branch of mathematics which makes use of techniques of  analysis , particularly  calculus , to study geometric problems.  Initially, geometers primarily sought to understand the geometry of curves and surfaces in 3-dimensional  Euclidean space , and many important early results in the subject are due to  Gauss .  Other early pioneers included  Bernhard Riemann  and Tullio Levi-Civita.
+
+The primary objects of study in differential geometry are  smooth  and  Riemannian   manifolds .  A typical example of such an object is a smooth surface in R^3, for example, the unit sphere.  Typical questions that a differential geometer might ask about a manifold include:
+
+Study of differential geometry requires a firm knowledge of  calculus  and  plane geometry .
+
+A slight modification of differential geometry was the basis of  General Relativity : the modification was replacing  Riemannian  manifolds for  Pseudo-riemannian  manifolds. In naive terms, in Riemannian manifolds the square of all distances between different points are positive numbers (so the distances can be taken to be the positive square root of their squares), while the latter uses a  pseudo-metric  where the square of a distance can be positive, negative or zero.

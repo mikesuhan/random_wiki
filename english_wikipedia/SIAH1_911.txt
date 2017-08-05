@@ -1,0 +1,29 @@
+2A25 ,  4C9Z ,  4CA1 ,  4I7B ,  4I7C ,  4I7D ,  4X3G
+
+6477
+
+20437
+
+ENSG00000196470
+
+ENSMUSG00000036840
+
+Q8IUQ4
+
+P61092
+
+NM_001006610 
+ NM_003031
+
+NM_009172
+
+NP_001006611 
+ NP_003022
+
+NP_033198
+
+E3 ubiquitin-protein ligase SIAH1  is an  enzyme  that in humans is encoded by the  SIAH1   gene . [3] [4]
+
+This gene encodes for a polypeptide structure that is a member of the seven in absentia homolog (SIAH) family. The protein is an  E3 ligase  and is involved in  ubiquitination  and  proteasome -mediated degradation of specific proteins. The activity of this ubiquitin ligase has been implicated in the development of certain forms of  Parkinson's disease , the regulation of the cellular response to  hypoxia  and induction of  apoptosis .  Alternative splicing  results in several additional transcript variants, some encoding different isoforms and others that have not been fully characterized. [5]
+
+SIAH1 has been shown to  interact  with:

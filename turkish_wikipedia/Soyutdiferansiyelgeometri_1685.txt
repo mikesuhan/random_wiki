@@ -1,0 +1,9 @@
+Soyut  sıfatı  diferansiyel geometri  öncesinde sıklıkla uygulanıyordu, ama bu makalenin  soyut diferansiyel geometri  ( ADG )si düzgünlüğün  hesabı  kavramı dışında diferansiyel geometrinin bir formudur,  Anastasios Mallios  ve diğerleri tarafından 1998 sonrası geliştirildi. [1]
+
+Hesabın yerine, diferansiyel geometrinin aksiyomatik bir işleyişi  demet teorisi  ve  demet kohomolojisi  yoluyla yapılı  demetlerin  alanı içinde keyfi  topolojik uzaylar  tabanı üzerine  vektör   demetleri  kullanılıyor. [2] .Mallios  görecelik geometrisini  ADG'nin özel bir durumu olarak kabul eder ve ADG  Sentetik diferensiyel geometriye  benzer olabilir diyor.
+
+Mallios ve Raptis  genel görelilikte  tekilliği önlemeye ve  kuantum çekime  bir rota olarak bu ADG önerisini kullandı . [3]
+
+Şablon:Theories of gravitation
+
+Şablon:Quantum-stub

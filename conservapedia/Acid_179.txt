@@ -1,0 +1,5 @@
+An  acid  is a  molecule  that creates H +  and H 3 O +  ions in water (according to the Arrhenius definition), that donates H +   ions  ( protons ) in a chemical reaction (according to the  Bronsted-Lowry  definition), or that accepts an electron pair in a reaction(according to the Lewis definition).
+
+Acids taste sour and turn blue  litmus paper  red; they have pH values of less than 7.  Acids are covalent compounds, but when dissolved in  water , they will conduct electricity. When an Arrhenius acid is put into water, it will lose its H + , a process called aqueous dissociation.  Strong acids  are those that completely give up their protons in solution, whereas  weak acids  reach an equilibrium concentration of H +  in solution. Many  organic molecules  that play important roles in biological processes are also acids, such as  amino acids  and  carboxylic acids .
+
+Never  taste, or even touch, an acid stronger than 5% acetic acid, commonly known as vinegar; acids can be highly corrosive.

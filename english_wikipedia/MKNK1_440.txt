@@ -1,0 +1,33 @@
+2HW6 ,  2Y9Q
+
+8569
+
+17346
+
+ENSG00000079277
+
+ENSMUSG00000028708
+
+Q9BUB5
+
+O08605
+
+NM_001135553 
+ NM_003684 
+ NM_198973
+
+NM_001285487 
+ NM_001285488 
+ NM_021461
+
+NP_001129025 
+ NP_003675 
+ NP_945324
+
+NP_001272416 
+ NP_001272417 
+ NP_067436
+
+MAP kinase-interacting serine/threonine-protein kinase 1  is an  enzyme  that in humans is encoded by the  MKNK1   gene . [3] [4]
+
+MKNK1 has been shown to  interact  with  MAPK1 [5]  and  Eukaryotic translation initiation factor 4 gamma . [6]

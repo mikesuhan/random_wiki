@@ -1,0 +1,1 @@
+The  .NET runtime environment  is a virtual machine for executing Just In Time (JIT) compiled byte-code ( MSIL ) for software written in  .NET   programming languages  such as  C#  and  Visual Basic.net .

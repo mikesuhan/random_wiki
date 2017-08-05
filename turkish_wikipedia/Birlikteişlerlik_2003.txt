@@ -1,0 +1,3 @@
+Birlikte işlerlik  ürünlerin, sistemlerin veya iş süreçlerinin beraber çalışarak ortak bir işlemi yerine getirmelerine denir. Bu terim, teknik alanlarda kullanılabileceği gibi;  sosyal ,  politik  ve  organizasyonel  alanlar da dikkate alınarak daha geniş bir kapsamda tanımlanabilir ve kullanılabilir.
+
+Yazılım  alanında birlikte işlerlik, farklı programların belirli iş süreçlerini kullanarak bilgi alışverişinde bulunabilmesi, aynı dosyaları okuyup yazabilmesi ve aynı protokolleri kullanabilmesidir. Bir üründe birlikte çalışabilirliğin bulunmaması bir tasarım yetersizliği olarak görülebilir.

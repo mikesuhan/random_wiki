@@ -1,0 +1,9 @@
+8051   mikrodenetleyicileri  ilk olarak  Intel  tarafından  1980  yılında üretilmiştir. Eski bir ürün olmasına rağmen, hem kendisi, hem de yapısı temel alınarak üretilmiş diğer işlemciler bugün geniş bir kullanım alanına sahiptir. Harvard bilgisayar mimarisine sahiptir.
+
+İlk olarak Intel tarafından üretilmesine rağmen bugün aralarında Intel’e ek olarak  Atmel ,  Dallas Semiconductors  ve  Philips ’in de bulunduğu onlarca üretici firma tarafından da üretilmektedir; kısaca çok kaynaklı bir mikrodenetleyicidir.Geniş bir yelpazeye sahiptir ve de  Microchip (PIC)  firmasının karşısındaki bir mimari yapının adıdır. Dünyaca kabul görmüş bir yapıttır.
+
+Zamanla üzerindeki geliştirme çalışmalarının sonucu tek bir mikrodenetleyici olmaktan çıkıp bir 8051 ailesi olarak anılan bir mikrodenetleyici ailesi haline gelmiştir. Bu aileye  8031 ,  8032 , 8051,  8052 ,  80151 ,  80251 , ve  XA  serileri dahildir. Yukarıda da bahsedildiği gibi çok kaynaklı bir denetleyici olmasından ötürü, ona kaynak sağlayan firmalar tarafından bu aile elemanları da üretilmektedir.
+
+8 bitlik veri işleme yeteneğine sahip olan 8051’in diğer teknik özellikleri kısaca aşağıdaki gibidir.
+
+32 adet Giriş/Çıkış kanalı

@@ -1,0 +1,27 @@
+Windows Update ,  Shareware ,  Windows Server Update Services ,  System Center Configuration Manager
+
+Windows Server 2016 ,  Windows 10  ile eş zamanlı olarak geliştirilen, Windows NT işletim sistemleri ailesinin bir parçası olarak Microsoft tarafından geliştirilen bir sunucu işletim sistemidir. [1]  İlk erken önizleme sürümü (Teknik Önizleme),  Microsoft Servers  ilk teknik önizleme ile birlikte 1 Ekim 2014 tarihinde mevcut oldu. İstemci işletim sistemi ile eş zamanlı olarak yayımlanmış olan önceki Windows Server sürümlerinin aksine, Windows Server 2016 Ekim 2016 için planlanan genel durumu ile Microsoft Ignite toplantısında 26 Eylül 2016 tarihinde serbest bırakıldı.
+
+Microsoft, Server ve  Microsoft Servers  ekiplerini yerleştirme ile birlikte,  Satya Nadella  tarafından yeniden düzenlenmiştir. [2]  Daha önce, Server ekibi daha yakından Windows istemci ekibi ile uyumlu hale getirilmiştir.  Microsoft Azure  ekibi ayrıca Sunucu ekibi ile yakın çalışıyor.
+
+Windows Server 2016 yeni özellikler içerir:
+
+Microsoft yeni bir yükleme seçeneği, Windows Serverin minimal bir yer kaplayan başsız sürümünü sunan Nano Serveri açıkladı. Bu grafiksel kullanıcı arabirimi,  WoW64  ve  Windows Installer  (32-bit yazılım desteği) dışlar. Bu yerel olarak veya Uzak Masaüstü Bağlantısı üzerinden, konsolda  Oturum açmanı  desteklemez. Tüm yönetim, Windows Yönetim Araçları ( WMI ),  Windows PowerShell  ve Uzak Sunucu Yönetim Araçları (web tabanlı GUI ve komut satırı araçları bir koleksiyon) üzerinden uzaktan yapılır. Ancak, Teknik Önizleme 5-de, Microsoft PowerShell aracılığıyla yerel Nano Server'ı yönetmek yeteneği yeniden eklendi. Microsoft mühendisi Jeffrey Snover göre, Nano Sunucuda  Windows Serverden  % 93 daha düşük VHD boyutu, % 92 daha az kritik güvenlik uyarılarının ve % 80 daha az yeniden reboot bulunmaktadır.
+
+Windows Server 2016 bir genel beta sürümü (vNext denir), "Windows Server Teknik Önizleme" olarak markalandı, 1 Ekim 2014 tarihinde serbest bırakıldı; teknik önizleme yapıları kurumsal kullanıcılara yönelik amaçlanmaktadır. İlk Teknik Önizleme 15 Nisan 2015 yılında sona erdi, ancak Microsoft daha sonra Mayıs 2015'te OS ikinci teknik önizlemeye kadar, bitiş tarihini uzatmak için bir araç yayımladı. İkinci beta sürümü, "Teknik Önizleme 2", 4 Mayıs 2015 tarihinde serbest bırakıldı. Üçüncü önizleme sürümü, "Teknik Önizleme 3" 19 Ağustos 2015 tarihinde serbest bırakıldı. "Teknik Önizleme 4" 19 Kasım 2015 tarihinde serbest bırakıldı. [8]  "Teknik Önizleme 5" 27 Nisan 2016 tarihinde serbest bırakıldı. [9]
+
+Windows Server 2016 resmen 26 Eylül 2016 tarihinde Microsoft Ignite Konferansı'nda serbest bırakıldı. Selefinden farklı olarak, Windows Server 2016  CPU soketi  sayısı yerine,  Çok çekirdekli işlemci  sayısına göre lisanslıdır,  Microsoft BizTalk Server  2013 ve  Microsoft SQL Server  2014 tarafından kabul edilmiştir.
+
+Önceki       Eski sürüm, hala desteklenmekte       En son versiyon       Son önizleme sürümü
+
+6.4.9841
+
+Versiyon 10.0.10074 [10]
+
+Versiyon 10.0.10514
+
+Versyion 10.0.10586
+
+Versiyon 10.0.14300
+
+Version |c|10.0.14393}}

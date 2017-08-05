@@ -1,0 +1,3 @@
+A  root  in  mathematics  is a value of x such that a  function  f(x)=0:
+
+Polynomials  have finitely many roots, while the  exponential function  has none.

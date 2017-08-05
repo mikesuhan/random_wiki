@@ -1,0 +1,9 @@
+Turing testinde , A odasında (dışarıda) oturan sorgulayıcı, B ve C odalarına çeşitli sorular yöneltir. B odasında bilgisayar C odasında ise insan bulunmaktadır.
+
+Dışarıdaki insanın amacı hangi odadakinin  bilgisayar , hangisinin insan olduğunu tahmin etmektir. Bilgisayar sorgulayıcıyı, kendisinin insan olduğuna inandırmaya çalışacak şekilde programlanmıştır. Turing, eğer ortalama bir sorgulayıcı, geçerli bir süre içinde insanı teşhis edebilirse, makinenin “düşünemediğini” söyleyebileceğimizi öne sürer.
+
+Ses , özellikle tonlama gibi yardımcı unsurlar yardımıyla insanın teşhisinde ek avantajlar sağlayacağı için, sorular ve cevaplar, şekilde, bilgisayar ağı aracılığıyla taşınmaktadır. Turing’in makalesini yazdığı dönemde bilgisayar ağları yoktu. Turing soruların ve cevapların taşınması için o dönemin teknolojisiyle çeşitli çözümler teklif etmişti.
+
+Şüphesiz bir makinenin (bilgisayar), bu yeteneğe sahip olabilmesi gerçekten çok zor görünmekle birlikte bu fikir  yapay zekâ  (Artificial Intelligence) biliminin doğmasına yol ve bu alanda bir çığır açmıştır.
+
+Bugünkü yapay zekâ ürünleri (ses tanıma, yüz tanıma, parmak izi tanıma, vs.) hepsi dışarıdaki insanın içerideki bilgisayarla iletişim ve etkileşimi sağlamaya yönelik çabaların ürünü olarak görülebilir.

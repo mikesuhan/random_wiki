@@ -1,0 +1,27 @@
+Micro Focus ZENworks , a suite of  software  products developed and maintained by  Micro Focus International  for computer  systems management , aims to manage the entire  life cycle  of  servers , of  desktop   PCs  ( Windows ,  Linux  or  Mac ), of  laptops , and of  handheld devices  such as  Android  and  iOS  Mobile Phones and Tablets. As of 2011 [update]  Novell planned to include  full disk encryption  functionality within ZENworks. [2]  ZENworks supports multiple server platforms and multiple  directory services . [3]
+
+In the latest version of ZENworks Known as ZENworks 2017 the  ZENworks Suite  consists of seven individual products:
+
+Additionally, Novell offers an  ITIL  version of „Novell Service Desk". This version is ITIL certified by PinkVERIFY and supports ten ITIL v3 processes. E.g. Change, Incident, Problem and Service Level Management. [4]
+
+Customers can buy the whole suite or choose between individual elements.
+
+Kevin Hopton, a corporate systems engineer at Novell, first conceived of the software which later became  NAL  ( Novell Application Launcher ) in 1993. He with the Product Manager, Ron Tanner, are responsible for much of the creation of the program. The original concept involved using the  Novell Directory Services  (NDS)  directory  as a  namespace  and  storage engine . NDS, in concert with a client console program, would perform just-in-time  application -configuration. The directory namespace - global, unambiguous and outside the influence of end users - provided a highly reliable mechanism for ensuring that expert staff could define the methods invoked for launching  an application  (app).
+
+The prototype consisted of a demonstration app named "Magic Windows" due to the automatic correction of configuration errors after the double-click and before the launch. Kevin Hopton, the primary architect and developer of Magic Windows, received important assistance from JD Marymee in the writing of  AppWare  objects that enabled directory access. Hopton produced a second version, written in  Delphi  and with  UI  assistance from Eric Burkholder. That version added representation for users and several other object classes.
+
+Once the demonstration application proved a hit with customers, Novell's software-engineering organization took over the code and rewrote it from scratch in  C . Key engineers and architects for this official version (named Novell Application Launcher or NAL) included Damon Janis, Kelly Sonderegger, Matt Brooks and Calvin Gaisford. Ron Tanner was brought over to continue to oversee the project, and Sandy Marymee handled marketing. The network-administrator community responded favorably to NAL, and its use and adoption quickly grew. [ citation needed ]
+
+From this point forward, ZENworks became one of the most profitable products for Novell. Ron Tanner continued to push the project to higher standards, eventually becoming Director of Engineering, overseeing the development of ZENworks until his departure in 2007.
+
+The success of NAL led to a desire to expand its functionality. Notably, Kent Prows lobbied for adding software-distribution capabilities, Samm DiStasio came up with the name "ZENworks" (for "Zero Effort Networks") with Allen Tietjen driving the bundle. [5]  The "Novell Application Launcher" service and executable program-names with the .nal file extension persist within ZENworks.
+
+Novell later wrote a version that diversified the managed object class to include users. That solution (based on the second iteration of Magic Windows, engineered primarily by Damon Janis), "UserNet", appeared at the Novell Brainshare conference in 1994.
+
+Kelly Sonderegger had done prior work relating to NDS as a shared  Windows registry ; that work significantly influenced the design of the official versions of NAL and ZENworks.
+
+The new name, "ZENworks", first appeared as "Z.E.N.works" in 1998 with ZENworks 1.0 [6]  and with ZENworks Starter Pack - a limited version of ZENworks 1.0 that came bundled with  NetWare  5.0 (1998). Novell added server-management functionality, and the product grew into a suite consisting of:
+
+Novell has continued to add components to the suite, which it sells under the consolidated name " ZENworks Suite ".
+
+The " ZENworks  11 Support Pack 4" was released on 30 July 2015. [7]

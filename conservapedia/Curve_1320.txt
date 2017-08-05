@@ -1,0 +1,1 @@
+A  curve  is a  mathematical  object defined as a one-dimensional, continuous mapping from one interval of  real numbers  to another.

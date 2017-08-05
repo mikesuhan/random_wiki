@@ -1,0 +1,132 @@
+Hamilton Yolu , yönlü veya yönsüz bir grafta Hamilton yolu veya Hamilton devresinin olup olmadığının kararının verilmesinin problemidir.
+
+Yönlü ve yönsüz hamilton devresi problemi Karp’ın 21 NP-tam probleminden ikisidir  [1] . Garey ve Johnson, 1974 senesinde düzlemsel graflar için yönlü hamilton devresi probleminin ve kübik düzlemsel graflar için yönsüz hamilton devresi probleminin değişmeden NP-tam kalacağını kısaca göstermişlerdir  [2] .
+
+Hamilton yolları, yaygın olarak  Seyyar satıcı problemi 'nin çözümü için kullanılmaktadır.
+
+Bir graf’taki  Hamilton yollarının  bulunması  NP-tam  bir işlemdir.
+
+Hampath ’in NP bir problem olduğu zaten bilinmektedir. [3]
+
+3SAT  
+ 
+ 
+ 
+ 
+ ≤ 
+ 
+ p 
+ 
+ 
+ 
+ 
+ {\displaystyle \leq _{p}} 
+ 
+  HAMPATH indirgemesinin doğrulanması durumunda iddia ispatlanmış olacaktır.
+
+Her 3cnf formülü  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  için, s ve t düğümleri ile yönlü graf G’nin nasıl oluşturulacağı gösterilecektir.
+
+Eğer  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  şartları sağlıyorsa, s ve t arasında bir hamilton yolu bulunmaktadır.
+
+k adet clause’dan oluşan 3cnf formülü  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  :
+
+Denklemde yer alan her p, q, r ; x i  veya x i ’ olmak üzere
+
+ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+ ’nın l adet değişken içerdiği varsayılacak olursa denklemde yer alan değişkenler : x 1  … x l
+
+ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  ’nın graf G’ye dönüştürülmesi işleminde; graf G,  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  ’nın içerisindeki değişkenler ve clause’lardan oluşacaktır.
+
+Her değişken x i , aşağıdaki illüstrasyondada olduğu gibi yatayda dizilmiş düğümlerden oluşan elmas şeklindeki bir yapı ile temsil edilecektir. Daha sonra, yatay sırada gözüken düğümlerin sayısı belirlenecektir.
+
+Değişken x i ’nin elmas içerisinde tasvir edilmesi
+
+ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  ’daki her clase’un tek bir düğüm ile tasvir edilmesi
+
+Aşağıdaki figür, G’nin global yapısını göstermektedir. İllüstrasyon, değişkenlerin clause’lar ile olan ilişkileri haricinde G’nin tüm elemanları ve ilişkilerini göstermektedir.
+
+Graf G’nin Global Yapısı
+
+Ardından, değişkenleri temsil eden elemanlarla clause’ları temsil eden düğümlerin nasıl ilişki içerisinde oldukları gösterilecektir. Yatay sırada 3k+1 adet düğüm ve bunlara ilavaten iki adet başta ve sonda bulunan elmasa dahil düğüm bulunmaktadır. Bu düğümler, her clause için bitişik düğümler oluşturacak şekilde gruplanacak ve bu çiftlerden sonra ekstra ayırıcı bir düğüm bulunacaktır. Tıpkı şekildede görüldüğü gibi:
+
+Elmas yapısında yer alan yatay düğümler
+
+Eğer değişken x i , clause c j  içerisinde yer alıyorsa; i. değişkendeki j. çift ile j. clause ilişki içerisindedir. 
+ 
+ 
+Clause c j  nin x i  yi içermesi durumundaki ilave kenarlar
+
+Eğer x i ’, clause c j  içerisinde yer alıyorsa; i. değişkendeki j. çift ile j. clause ilişki içerisindedir. 
+ 
+Clause cj nin xi‘ yi içermesi durumundaki ilave kenarlar
+
+Her clause’da her x i  veya x i ’ nin var oluşuna göre eklenecek kenarlar ile, G’nin yapısı tamamlanmış olacaktır. Yol s’den başlayacak, her elmasa sırasıyla uğrayacak t’de son bulacaktır. Elmasta izlenecek yolun bulunması için,  
+ 
+ 
+ 
+ ϕ 
+ 
+ 
+ {\displaystyle \phi } 
+ 
+  ’yı sağlayan değerlerden belirlenmek üzere yol ya soldan sağa doğru zig-zag yapacak ya da sağdan sola doğru zag-zig yapacaktır. Şayet x i  DOĞRU olarak belirlenmişse yol elmas boyunca zig-zag yapacak, YANLIŞ olarak belirlenmişse yol elmas boyunca zag-zig yapacaktır. Her iki ihtimalde takip eden figürde gösterilmiştir.
+
+Elmas boyunca zig-zag veya zag-zig yapılması denklemde şartları sağlayan değerler tarafından belirlenmektedir.
+
+Böylelikle arzu edilen Hamilton yolu oluşturulmuş olur. Geriye gösterilmesi kalan tek şey Hamilton yolunun  normal  olmak zorunda olduğudur. Normallik sadece bir yol clause’a bir elmastan girip, clause çıkışında farklı bir elmasa gidiyorsa başarısız olacaktır. Tıpkı illüstrasyonda betimlendiği gibi: 
+ 
+Bu Durum Gerçekleşemez
+
+Yol a 1 ’den C’ye gider, ancak aynı elmastaki a 2 ’ye dönmesi gerekirken, farklı bir elmastaki b 2 ’ye döner. Eğer bu durum olursa, ya a 2  ya da a 3  ayırıcı düğüm olmak zorundadır. Şayet a 2  ayırıcı düğüm olsaydı, a 2 ’ye giren kenarlar yalnızca a 1  ve a 3 ’ten olurdu. Eğer a3 ayırıcı düğüm olsaydı,a 1  ve a 2  aynı clause çifti içerisinde yer alırdı. Bundan ötürüde a 2 ’ye giren kenarlar yalnızca a 1 , a 3  ve c’den olabilirdi. Her iki durumdada, yol a2 düğümünü içermezdi. Yol a 2 ’ye c veya a 1 ’den giremez çünkü yol bu düğümlerden başka bir yere gitmektedir. Yol a 2 ’ye a 3 ’ten giremez çünkü a 3 , a 2 ’nin işaret ettiği tek mevcut düğüm. Bu yüzden, yol a 2 ’den a 3  vasıtasıyla çıkmak zorundadır.
+
+İş bu nedenle , hamilton yolu  normal  olmak zorundadır. Bu indirgeme açık olarak polinomsal zamanda işler ve ispat tamamlanmış olur.

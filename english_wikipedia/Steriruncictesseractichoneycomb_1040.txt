@@ -1,0 +1,15 @@
+In  four-dimensional   Euclidean geometry , the  steriruncic tesseractic honeycomb  is a uniform space-filling  tessellation  (or  honeycomb ) in Euclidean 4-space.
+
+The [4,3,3 1,1 ],  ,  Coxeter group  generates 31 permutations of uniform tessellations, 23 with distinct symmetry and 4 with distinct geometry. There are two alternated forms: the alternations (19) and (24) have the same geometry as the  16-cell honeycomb  and  snub 24-cell honeycomb  respectively.
+
+5 ,    6 ,    7 ,    8
+
+9 ,    10 ,    11 ,    12 ,    13 ,    14 ,
+
+(10) ,    15 ,    16 ,    (13) ,    17 ,    18 ,    19
+
+1 ,    2 ,    3 ,    4
+
+20 ,    21 ,    22 ,    23
+
+Regular and uniform honeycombs in 4-space:

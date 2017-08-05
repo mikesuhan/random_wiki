@@ -1,0 +1,19 @@
+İşletim Sistemlerinde olan Com EXE gibi çalıştırılabilir bir işlem dosyasıdır. COM'un açılışı  Command' dır. Yani Komut dosyasıdır
+
+Komut Dosyaları Command Prompt'ta komut satır yazılır
+
+İnternet alan adı uzantısı olan .com bu dosya uzantisi ile karıştırılmamalıdır. Web alan adı uzantısı olan com, Communication ve Commercial kelimelerinden türemiştir. Dosya uzantısı olan COM Command'ın kısaltılmış halidir. Ancak E-mail ile alındığında Com dosya uzantısı ieren dosya trojan içerir.
+
+COM İlk kez  DOS  İşletim Sistemi için 1970'lerde üretilmiştir.
+
+EXE veya COM:  çalışabilir işlem dosyasıdır.
+
+Com dosyası EXE dosyasına benzer şekilde çalışabilir dosyalardır. Fakat  Exe  dosyalarına göre daha küçük boyutludur ve işlem olarak kısıtlıdır.
+
+COM ve EXE dosyalarına örnekler gösterelim
+
+Örnek.exe  ve  Örnek.com  masaüstünde olduğu için ilk önce  Örnek.com  dosyası çalışır
+
+Bu varsayılan davranışı avantajlarından yararlanarak ilgili EXE dosyası ile aynı dizinde yer ise, bir komut ya da toplu iş dosyası yanlışlıkla kendi programında olabilir umuduyla, virüs yazarları ve diğer kötü niyetli programcılar, kendi yarattıkları için notepad.com gibi isimleri kullanmışlardıryerine metin editörü notepad.exe'yi tetikleyebilir.
+
+Dosya Uzantısı.comdan COM

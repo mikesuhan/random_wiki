@@ -1,0 +1,3 @@
+Zillow  is a leading-edge real estate web site integrating Multiple Listing Services (MLS) databases with satellite mapping and a proprietary algorithm to provide estimate residential housing price called a "Zestimate".
+
+For a significant period of time in its early years, it displayed the ZID number (akin to a  Social Security Number ) in its URLs for each residential house that incremented steadily as the addresses progressed down the street, which implicitly allowed third parties to scan the database by neighborhood. The ZID is no longer used in its residence-specific URLs.

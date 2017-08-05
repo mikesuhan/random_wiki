@@ -1,0 +1,11 @@
+Giriş Açıklığı  (İngilizce: entrance pupil), objektiflerde ışığın optik sisteme girdiği ön taraftan bakıldığında görülebilen fiziksel diyafram açıklığının  görüntüsü dür. Aynı diyafram açıklığının objektifin arka kısmından görünümüne ise  çıkış açıklığı  adı verilir.
+
+Optik tasarım dahilinde fiziksel diyaframın önünde cam elemanlar bulunduğundan, giriş açıklığının çapı gerçekte olduğundan daha büyük veya küçük görünecektir. Söz konusu açıklığın çapı objektifin  büyütme  özelliğine ve optik tasarım dahilindeki yerine bağlı olarak değişkendir. Giriş açıklığının yeri objektifin perspektif merkezidir. Diğer bir değişle  paralaks  etksinin sıfır olduğu noktadır. Bu açıdan bakıldığında panoramik fotoğrafçılıkta önem arz eder. Birden fazla karenin çekildiği ve nihayi tek bir fotoğraf olarak birleştirildiği durumlarda fotoğraf makinası, üzerinde takılı objektifin giriş açıklığının bulunduğu nokta sabit tutularak yatay düzlemde döndürülür. Bu şekilde kullanım perspektif hatalarını elimine eder.
+
+Bunun dışında giriş açıklığı  f-stop  değerinin hesaplanmasında da kullanılır. Bir objektifin f-stop değerleri aşağıdaki formülle hesaplanır:
+
+f-stop = f/E N
+
+f = objektifin odak uzaklığı (mm)
+
+E N  = giriş açıklığı çapı (mm)

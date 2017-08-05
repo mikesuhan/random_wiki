@@ -1,0 +1,3 @@
+Işık yılı , (sembol: IY,  İng.   light year  ( ly )),  ışığın  bir yılda boşlukta aldığı mesafedir.  Astronomik birim 'e kıyasla büyük bir uzunluk birimidir, bu sebeple genellikle yıldızlar arası mesafeleri ölçmekte kullanılır.  Uluslararası Astronomi Birliği  (IAU), yıl birimi olarak  Jülyen yılı 'nın kullanılmasını önermektedir. [1]  Buna göre bir Jülyen yılı 365,25 gün ya da 31.557.600 saniyedir. [1]
+
+1 IY (km) =  Işık hızı  (km/s) x bir yıl (saniye)

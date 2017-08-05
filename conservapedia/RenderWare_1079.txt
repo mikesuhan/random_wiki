@@ -1,0 +1,1 @@
+RenderWare  is a video game rendering engine developed by a third party company; Criterion Software. It has become obsolete since 2008 and is no longer available for purchase and has been abandoned almost entirely by the  video game industry  due to technical obsolescence.

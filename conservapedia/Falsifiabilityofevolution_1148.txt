@@ -1,0 +1,68 @@
+The  falsifiability of evolution  is an issue of contention between some  creationists  and some  evolutionists .
+
+For a more detailed treatment, see  Falsifiability .
+
+Falsifiability  is a frequently used criterion in determining whether a particular hypothesis is  scientific  or conjecture.  A hypothesis is considered falsifiable if it is logically  possible  that it could be proven wrong by experiment or observation.  This does not mean that the test or observation must be feasible or logistically possible with our current technology, simply that a logically consistent test or observation must be conceivable.
+
+It is important to realize that just because a proposition is  unfalsifiable  does not mean it is  false.   Conversely, just because a proposition is  false  does not mean it is  falsifiable .
+
+This concept falls under the category of  Philosophy of Science  and is a useful tool in determining the scientific validity of a hypothesis, although not a complete test in and of itself.
+
+For instance, the proposition "Gravity accelerates objects towards the Earth at 32 ft/s 2 " can be tested by dropping an object in Earth's gravitational field.  If we did this and it didn't fall, or it fell at a different speed, we would know that the proposition is false.
+
+However, other propositions are not testable.  For instance, "There is an invisible pink unicorn in my room."  While the proposition that the unicorn is in the room is testable (by methods other than sight) because said unicorn is invisible, it is impossible to detect colour, and the hypothesis that said unicorn is pink can not rise above conjecture.
+
+In the same way, if a person claims that six weeks ago they drank three glasses of water for the day, there is no way that particular claim can possibly be shown to be false (barring the existence of witnesses).  It is therefore not even  possible  to prove his claim to be wrong, so the claim is said to be  unfalsifiable , and therefore not scientifically valid.
+
+A  scientific theory  seeks to explain a process and thereby make predictions.  The falsifiability of a theory is established if it is possible to test these predictions.
+
+The first step in determining whether or not "evolution" is falsifiable is defining what, exactly, we mean by "evolution."
+
+Evolutionary biologists counter that while direct observation of past events is currently impossible, the theory of common descent could be falsified by tests or observations of the predictions inferred from this theory.
+
+Several tests have been proposed to test evolution.
+
+In 1949, [1]  J.B.S. Haldane proposed that evolution could be falsified if "various mechanisms, such as the wheel and magnet, which would be useless till fairly perfect" were found in nature.  This is substantially the same as the argument for intelligent design below.  Creationists typically attempt to falsify evolution on these grounds by pointing out that wheels and magnets have been found in nature, although none have been found in biological organisms to date without a logically possible path of evolution.
+
+Another proposed test has been dubbed instances of " irreducible complexity ."  Essentially, since evolution requires a step-wise development in which each variation is advantageous enough to survival to spread throughout the gene pool, then evolution with respect to a particular biological structure could be falsified if the components of that organ were found to be totally useless unless already put together.  Creationists and Intelligent Design advocates have proposed a number of such structures, including the eye, the cilia of cells, the enzymes involved in human blood clotting, etc.  Proponents of evolution have responded by describing hypothetical paths for the evolution of each disputed structure that account for useful function at each stage of development.  While it remains unproven that these paths are the actual method by which these structures evolved, they serve to disprove the proposition that it is logically impossible for them to have evolved.
+
+Another test proposed by Haldane was that the discovery of rabbits in  Precambrian  strata would disprove evolution. [2]
+
+This could be broadened to discovering anything in the fossil record that was grossly "out of place" and unable to be accounted for by other mechanisms, and indeed others have proposed that finding a human fossil in  Jurassic  sediments would disprove evolution.
+
+Creationists have claimed that evidence supporting this falsification has been suppressed:
+
+by beliefs that are wrong, and if you try to get anything published by
+a journal today, you will run up against a paradigm, and the editors
+
+Forbidden Archeology , by Cremo and Thompson, lists some out-of-place human artefacts. 9 . ...
+
+Human fossils have been found, hundreds of them, but generally in deposits which most creationists would think were post-Flood ... .
+
+Other proposed falsifications include: [4]
+
+Creationists  have argued that evolution is not a scientific theory because it is not falsifiable, and in this respect they claim to have the support of Popper himself, as well as other evolutionists.  The  Swedish  cytogeneticist, Antonio Lima-De-Faria, who has been knighted
+by the king of Sweden for his scientific achievements, noted that "there has never been a theory of evolution". [7] [8]
+
+Karl Popper , leading philosopher of science and originator of the idea of  falsifiability as a criterion of demarcation of science from nonscience , said: [9] [10]
+
+Despite this, Popper wrote the following:
+
+Later in "Natural Selection and the Emergence of Mind", Popper wrote the following retraction: [12]
+
+While Popper maintained that "In its most daring and sweeping form, the theory of natural selection" was "not only refutable but actually refuted", [13]  this criticism applied only to a subset of the natural selection model of evolution, and not evolutionary science as a whole.
+
+He later wrote in a letter to the New Scientist in 1980: [14]
+
+"... some people think that I have denied scientific character to the historical sciences, such as paleontology, or the history of the evolution of life on Earth; or to say, the history of literature, or of technology, or of science.
+This is a mistake, and I here wish to affirm that these and other historical sciences have in my opinion scientific character; their hypotheses can in many cases be tested."
+
+It is clear, however, that Popper had not really retracted his original 1974 claim regarding Darwinism not being a testable scientific theory, but a metaphysical research programme. [10]   In fact in the 1982 revised edition of the book, his original conclusion that "Darwinism is not a testable scientific theory, but a metaphysical research programme" remained. [10]  Leading Darwinist and philosopher of science, Michael Ruse acknowledged regarding Popper's statement and the actions he took after making that statement: "Since making this claim, Popper himself has modified his position somewhat; but, disclaimers aside, I suspect that even now he does not really believe that Darwinism in its modern form is genuinely falsifiable." [10]
+
+Max Whitten of the University of Melbourne said: [16]
+
+Whitten, however was referring not to a fundamental problem with the theory of evolution itself, but with the difficulty of overcoming entrenched ideas in all forms of science.  Whitten recently expounded on this in his article "Facts Are Not Everything in Science" for Issues magazine: [17]
+
+find a satisfying explanation within our prevailing worldview. I cannot call to mind a credible experiment that would challenge the
+
+It is not a technical issue that Whitten addressed, but a social issue throughout research in general.

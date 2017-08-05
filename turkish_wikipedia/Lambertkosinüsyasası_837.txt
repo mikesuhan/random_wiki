@@ -1,0 +1,429 @@
+Optikte ,  Lambert kosinüs yasası na göre, ideal dağınık bir şekilde yansıtılan yüzeyden veya ideal dağınık bir ısıtıcıdan gözlemlenen radyant yoğunluğu veya parlaklık yoğunluğu, gözlemcinin görüş yeri ve yer arasında kalan teta açısı ile doğru orantılıdır. Bu yasa ‘kosinüs emisyon yasası’ ya da ‘Lambert emisyon yasası’ olarak da bilinmektedir. Ayrıca, bu yasa  1760  yılında  Johann Heinrich Lambert 'ın ‘Photometria’ adı kitabı yayınlandıktan sonra isimlendirilmiştir.
+
+Lambert yasasına uyan bir yüzey ‘Lambertian’ olarak ifade edilir ve bu yüzey ‘Lambertian yansıması’ nı sergiler. Böyle bir yüzey, hangi açıdan bakılırsa bakılsın, aynı ışınıma sahiptir. Bu, insan gözünün aynı görünür parlaklıkta olduğu anlamına gelmektedir. Hangi açıdan bakılırsa bakılsın, açının hep aynı olmasının sebebi, belirli bir alanın ögesinden yayılan enerjinin, gözlemlenen alanın görünür boyutu olarak da ifade de edilebilen emisyon açısının kosinüsü tarafından azaltılmasıdır. Sonuç olarak, parlaklık hep aynıdır.
+
+Bir alanın ögesi, dış bir kaynak tarafından aydınlatılması sonucunda yayılım yaptığı zaman, o bölgeye düşen parlama, aydınlanmış olan kaynak ve normal arasındaki açının kosinüsünü ile orantılı olacaktır. Bir lambertian saçıcısı, bir lambertian emitorü olan aynı kosinüs kuralına göre, saçılım yapacaktır. Bu durum, yüzeyin parlaklığı, normal ile aydınlatma kaynağı arasında ki açıya bağlıyken, normal ile gözlemci arasındaki açıya bağlı değildir olarak ifade edilebilir. Örneğin, eğer Ay bir Lambertian saçıcısı olsaydı, gözlem yapan kişinin beklentisi, Ayın terminatöre doğru saçtığı bu parlaklığın, güneş ışığının üstüne düştüğü yüzeyin açısının arttırılmasından dolayı kayda değer bir şekilde azalmasını görmeyi ummak olurdu. Fakat, bu parlaklığın azalmaması durumu da gösterir ki, ay bir Lambertian saçıcısı değildir ve ay, oblik açının içerisine, bir Lambertian saçıcısından daha fazla ışık saçma eğilimlidir.
+
+Kendi içerisinde yaydığı radyasyondan ziyade, Lambertian yayıcısının emisyonu anlık radyasyonun miktarına bağlı değildir. Örneğin, eğer güneş bir Lambertian yayıcısı olsaydı, gözlem yapan kişinin beklentisi, bütün solar disk üzerinde sabit bir parlaklık görmeyi ummak olurdu. Ancak, görünür bölgede güneşin uzuv koyulaşması sergilemesi (limb darkening) gerçeği, güneşin bir Lambertian yayıcısı olmadığını gösterir. Bir kara cisim, bir Lambertian yayıcısı olarak örnek gösterilebilir.
+
+Lambertian yüzeyi (saçılım ya da yayılım yapan) durumu Şekil 1 ve Şekil 2’de gösterilmektedir. Kavramsal netlik olması açısından, aydınlanma enerjisini ya da enerjiyi düşünmek yerine fotonlar düşünülür. Resimde ifade edilen dairelerin içinde bulunan her kama, dΩ’ ya eşit olarak kabul edilir, ve Lambertian yüzeyi için, her kama içerisinde bulunan ve her saniye başı yayılan fotonların sayısı kamanın alanı ile doğru orantılı olarak ifade edilebilir.
+
+Her kamanın uzunluğu, çemberin yarıçapının ve cos(θ) açısının bir çarpımı olarak görülebilir. Ayrıca, her kamanın uzunluğu, tam açı birimi başına düşen foton yayılmasının maksimum oranı, normal boyunca ve θ = 90° olduğu zaman sıfıra doğru azalır, şeklinde ifade edilebilir. Matematiksel ifadelerde, normal boyunca uzanan parlaklık I photons/(s·cm2·sr) eşittir. Dikey kama içerisinde saniye başına yayılan fotonların sayısı ise I dΩ dA’ ya eşittir. θ açısında, kama içerisinde saniye başına yayılan fotonların sayısı da I cos(θ) dΩ dA olarak ifade edilmektedir.
+
+Şekil 2, bir gözlemci tarafından görülenleri ifade etmektedir. Doğrudan yayma ögesinin üzerinde bulunan bir gözlemci tarafından, bir alanın açıklığı içerisinden bir olay görülecektir ve alan ögesi olan dA, dΩo’ın tam açısını subtend edecektir. Eğer genelleme kaybedilmeden bir varsayım yaparsak, yayma ögesi alanı görüldüğü zaman, dΩ tam açısını subtend etmek için açıklık oluşur. Bu gözlemci, saniye başına düşen I dΩ dA foton sayısını kaydedebilecek, ve I photons/(s·cm2·sr)’nin yarıçapını ölçebilecektir.
+
+I 
+ 
+ 0 
+ 
+ 
+ = 
+ 
+ 
+ 
+ I 
+ 
+ d 
+ Ω 
+ 
+ d 
+ A 
+ 
+ 
+ d 
+ 
+ Ω 
+ 
+ 0 
+ 
+ 
+ 
+ d 
+ 
+ A 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle I_{0}={\frac {I\,d\Omega \,dA}{d\Omega _{0}\,dA_{0}}}} 
+ 
+  photons/(s·cm 2 ·sr).
+
+Normale θ açısı uzaklıkta olan bir gözlemci dA0 alanının açıklığını aynı görecektir ve alan ögesi olan dA, dΩ0 cos(θ) tam açısı olarak subtend edilecektir. Bu gözlemci saniye başına düşen I cos(θ) dΩ dA fotonlarını kaydedebilecektir ve normalde duran bir gözlemcinin gözlemlediği yarıçapın aynısını görecektir.
+
+I 
+ 
+ 0 
+ 
+ 
+ = 
+ 
+ 
+ 
+ I 
+ cos 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ d 
+ Ω 
+ 
+ d 
+ A 
+ 
+ 
+ d 
+ 
+ Ω 
+ 
+ 0 
+ 
+ 
+ 
+ cos 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ d 
+ 
+ A 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ = 
+ 
+ 
+ 
+ I 
+ 
+ d 
+ Ω 
+ 
+ d 
+ A 
+ 
+ 
+ d 
+ 
+ Ω 
+ 
+ 0 
+ 
+ 
+ 
+ d 
+ 
+ A 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle I_{0}={\frac {I\cos(\theta )\,d\Omega \,dA}{d\Omega _{0}\,\cos(\theta )\,dA_{0}}}={\frac {I\,d\Omega \,dA}{d\Omega _{0}\,dA_{0}}}} 
+ 
+  photons/(s·cm 2 ·sr)
+
+Genel olarak, bir noktanın ışık yoğunluğu yön tarafından değişir. Bir Lambertian yüzeyi için, bu dağılım kosinüs yasası tarafından normal yönde bulunan zirvedeki ışık yoğunluğu ile tanımlanır. Sonuç olarak,Lambertian varsayımına göre ışık akısı ( 
+ 
+ 
+ 
+ 
+ F 
+ 
+ t 
+ o 
+ t 
+ 
+ 
+ 
+ 
+ {\displaystyle F_{tot}} 
+ 
+ ),kosinüs kuralının integrali alınarak zirvedeki ışık akısından ( 
+ 
+ 
+ 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ 
+ {\displaystyle I_{max}} 
+ 
+ ) hesaplanabilir.
+
+F 
+ 
+ t 
+ o 
+ t 
+ 
+ 
+ = 
+ 
+ ∫ 
+ 
+ 0 
+ 
+ 
+ π 
+ 
+ / 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ ∫ 
+ 
+ 0 
+ 
+ 
+ 2 
+ π 
+ 
+ 
+ cos 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ sin 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ d 
+ ⁡ 
+ ϕ 
+ 
+ d 
+ ⁡ 
+ θ 
+ 
+ 
+ {\displaystyle F_{tot}=\int \limits _{0}^{\pi /2}\,\int \limits _{0}^{2\pi }\cos(\theta )I_{max}\,\sin(\theta )\,\operatorname {d} \phi \,\operatorname {d} \theta }
+
+= 
+ 2 
+ π 
+ ⋅ 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ ∫ 
+ 
+ 0 
+ 
+ 
+ π 
+ 
+ / 
+ 
+ 2 
+ 
+ 
+ cos 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ sin 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ d 
+ ⁡ 
+ θ 
+ 
+ 
+ {\displaystyle =2\pi \cdot I_{max}\int \limits _{0}^{\pi /2}\cos(\theta )\sin(\theta )\,\operatorname {d} \theta }
+
+= 
+ 2 
+ π 
+ ⋅ 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ ∫ 
+ 
+ 0 
+ 
+ 
+ π 
+ 
+ / 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ sin 
+ ⁡ 
+ ( 
+ 2 
+ θ 
+ ) 
+ 
+ 2 
+ 
+ 
+ 
+ d 
+ ⁡ 
+ θ 
+ 
+ 
+ {\displaystyle =2\pi \cdot I_{max}\int \limits _{0}^{\pi /2}{\frac {\sin(2\theta )}{2}}\,\operatorname {d} \theta }
+
+ve ayrıca ;
+
+F 
+ 
+ t 
+ o 
+ t 
+ 
+ 
+ = 
+ π 
+ 
+ 
+ s 
+ r 
+ 
+ ⋅ 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ 
+ {\displaystyle F_{tot}=\pi \,\mathrm {sr} \cdot I_{max}}
+
+Buradaki  
+ 
+ 
+ 
+ sin 
+ ⁡ 
+ ( 
+ θ 
+ ) 
+ 
+ 
+ {\displaystyle \sin(\theta )} 
+ 
+  değeri, birim küre için olan Jacobian matrisinin determinantı,  
+ 
+ 
+ 
+ 
+ I 
+ 
+ m 
+ a 
+ x 
+ 
+ 
+ 
+ 
+ {\displaystyle I_{max}} 
+ 
+  ise, steradyan başına düşen ışık akısı olarak ifade edilmektedir. Buna benzer olarak tepe yoğunluğu, toplam yayılan ışık akısının  
+ 
+ 
+ 
+ 1 
+ 
+ / 
+ 
+ ( 
+ π 
+ 
+ 
+ s 
+ r 
+ 
+ ) 
+ 
+ 
+ {\displaystyle 1/(\pi \,\mathrm {sr} )} 
+ 
+  ’si kadarına eşit olacaktır. Lambertian yüzeyi için  
+ 
+ 
+ 
+ π 
+ 
+ 
+ s 
+ r 
+ 
+ 
+ 
+ {\displaystyle \pi \,\mathrm {sr} } 
+ 
+  ’ın aynı faktörü, parlaklılığı parlaklık yayımına, radyasyonu radyasyon yayımına ve radyasyon yoğunluğunu radyasyon akısına ilişkilendirir. Elbette, radyan ve steradyanın boyutları yoktur. Ancak ‘rad’ ve ‘sr’ ifadeleri, radyan ve sterayanların tanımlarına açıklık getirmek amacıyla kullanılır.
+
+Örnek: Eğer yüzey, kusursuz bir Lambertian yayıcısı ise, yüzeyin parlaklığı 100 cd/m2 (= 100 nits, typical PC monitör) olacaktır. Ayrıca, bu yüzey,314 lm/m2 parlaklık yayımına sahip olacaktır. Eğer bu yüzeyin alanı 0.1 m2 (~19" monitör)’ye eşit ise, toplam yayılan ışık, ya da diğer bir ifadeyle ışık akısı, 31.4 lm’ ye eşit olacaktır.
+
+Lambert kosinüs yasasının tersi olan form, yani Lambertian yansıması, der ki, Lambertian yüzeyinin görünür parlaklığı, yüzeyin normali ve gelen ışığın arasında kalan açının kosinüs değeri ile orantılıdır.
+
+Bu olgu, diğerlerinin yanı sıra, bir yapıya/nesneye materyalini değiştirmek zorunda kalmadan ya da pigment uygulamadan açık ya da koyu gölgeli çizgiler uygulamak için kullanılan pervazları oluşturmak için kullanılır. Açık ve koyu ışıklı alanların kontrastı, nesnenin tanımını vermektedir. Pervazlar, yüzeyler arasını kapatmak için ya da dekorasyon amaçlı kullanılan çeşitli kesitlerde olan malzeme şeritleridir.
+
+"Lambert's cosine law" . 5 Aralık 2015 tarihinde  kaynağından  arşivlendi .  http://web.archive.org/web/20151205025233/https://en.wikipedia.org/wiki/Lambert%27s_cosine_law .

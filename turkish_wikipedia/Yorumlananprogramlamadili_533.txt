@@ -1,0 +1,7 @@
+Yorumlanan programlama dili   bilgisayar programlamada  yazılan programların çalışabilmeleri için  kaynak kodlarının  bir  yorumlayıcı  tarafından yorumlanması gerektiğini ifade etmektedir. " Interpreted programming language " olarak da geçmektedir.
+
+Teorik olarak herhangi bir  proglamlama dili  ile yazılan bir program, kendi  derleyicisi  tarafından  makine diline  dönüştürülür ve derlendikleri platform üzerinde doğrudan çalıştırılır ( C ,  Ada ,  Pascal ,  Delphi ,  Algol  dillerinde olduğu gibi) ya da o dilin yorumlayıcısı tarafından işletilerek çalıştırılır ( Python ,  Ruby ,  Java ,  Lisp ,  BASIC ,  AWK  gibi). Bununla beraber kimi dillerde bu iki özelliğe de rastlamak mümkündür ( Lisp ,  C ,  Ocaml  ve  Python 'da olduğu gibi).
+
+Ek olarak yorumlanan diller, doğrudan makine diline çevrilmedikleri ve bir yorumlayıcı tarafından yorumlandıkları için performans gerektiren yerlerde bekleneni veremeyebilirler. Fakat özellikle akademik çalışmalarda programlama dili öğretmek için ya da yazılım projelerinde prototoip üretimi için sıkça tercih edilmektedirler.
+
+Listedeki dillerin tamamı sadece yorumlanan programlama dili değildir, fakat sıklıkla yorumlanan bir dil olarak da kullanılmaktadırlar.

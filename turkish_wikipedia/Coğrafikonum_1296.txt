@@ -1,0 +1,9 @@
+Coğrafi konum . Bir yapı ve etmenin bulunduğu yerin paralel, meridyen gibi ölçü birimleri ile gösterilmesi ve yerinin belirlenmesine verilen addır.
+
+Herhangi bir noktanın dünya üzerinde kapladığı alana coğrafi konum denir. Özel ve matematik konum olarak ikiye ayrılır.
+
+Herhangi bir yerin kıtalara, denizlere, dağ sıralarına, boğazlara ,komşu ülkelere, ulaşım yollarına, yer altı ve yerüstü kaynaklarına, siyasi bloklara göre olan konumu ve yükseklik değerleri özel konumudur.
+
+Özel konum ülkelerin; jeopolitik konumunu, iklimini, nüfusun dağılışını, yerleşme şartlarını, turizm faaliyetlerini, ulaşım imkânını, ekonomik faaliyetlerini etkiler.
+
+Matematik konum:Bir yerin enlem ve boylamlara (meridyen ve paralellerine) göre dünya üzerindeki yeridir. Bir başka ifade ile Ekvator’a (en büyük paralel ) ve Greenwich ‘e (başlangıç meridyenine) göre konumudur.

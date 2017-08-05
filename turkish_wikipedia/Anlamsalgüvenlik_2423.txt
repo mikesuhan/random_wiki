@@ -1,0 +1,61 @@
+Anlamsal güvenlik  bir  açık anahtarlı şifreleme sistemindeki  güvenliği tanımlamak için sık kullanılan bir ifadedir. Bir şifreleme sisteminin anlamsal olarak güvenli olması için,  hesaplama yetenekleri  sınırlı olan bir  saldırganın , elinde sadece  şifreli metin  ve buna karşılık gelen açık anahtar bulunduğunda, gizli metin hakkında önemli bilgi çıkartabilmesinin uygulanabilir olmaması gerekir. Anlamsal güvenlik sadece "edilgin" saldırgan durumunu inceler, örn. bir kişinin açık anahtarı kullanarak sadece seçtiği açık metinlere karşılık gelen şifreli metinleri incelediği durum. Diğer güvenlik tanımlamaları gibi, anlamsal güvenlik, saldırganın seçtiği bazı şifreli metinlerin açık hallerini elde edebildiği  seçilen şifreli metin saldırısı  durumunu göz önünde bulundurmaz ve birçok anlamsal güvenlik şifreleme şemalarının seçilen şifreli metin saldırısına karşı güvensizliği gösterilebilir. Sonuç olarak anlamsal güvenlik genel bir şifreleme şemasının güvenliğini tanımlamak için yetersiz sayılır.
+
+Anlamsal güvenlik tanımı ilk olarak Goldwasser ve Micali tarafından 1982'de ortaya atıldı. [1]  Fakat, ilk önerdikleri tanım uygulamalı şifreleme sistemlerinin güvenliğini kanıtlamak için hiçbir basit yol önermemekteydi. Goldwasser/Micali daha sonra anlamsal güvenliğin, diğer bir güvenlik tanımı olan  şifreli metin ayırdedilemezliğine  denk olduğunu gösterdiler. [2]  Bu tanım asıl tanımdan daha yaygın kabul gördü, çünkü uygulamalı şifreleme sistemleri için daha iyi bir güvenlik kanıtı getirdi.
+
+Seçimli açık metin saldırısı  altında ayırdedilemezlik genelde aşağıdaki  oyun  üzerinden tanımlanır:
+
+Eğer düşman bu iki mesajdan hangisinin kahin tarafından seçildiğini (rastgele tahminin başarı oranı olan)  
+ 
+ 
+ 
+ 1 
+ 
+ / 
+ 
+ 2 
+ 
+ 
+ {\displaystyle 1/2} 
+ 
+  olasılıktan anlamlı şekilde daha yüksek olasılıkla tespit edemiyorsa bu yapıdaki  şifreleme sistemi  IND-CPA (ve dolayısıyla seçimli açık metin saldırısı karşısında anlamsal olarak güvenlidir). Bu tanımlamanın değişik biçimleri ayırdedilemezliği  seçimli şifreli metin saldırısı  ve  uyarlanabilen seçimli şifreli metin saldırısı  ( IND-CCA ,  IND-CCA2 ) altında tanımlar.
+
+Düşmanın yukarıdaki oyunda açık anahtara sahip olması dolayısıyla, bir anlamsal güvenlik şifreleme şemasının tanım gereği,  rastgelelik  kaynağı içeren,  olasılıksal şifreleme  olması gerekir, eğer bu koşul sağlanmazsa, düşman basitçe  
+ 
+ 
+ 
+ 
+ m 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ {\displaystyle m_{0}} 
+ 
+  ve  
+ 
+ 
+ 
+ 
+ m 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ {\displaystyle m_{1}} 
+ 
+  değerlerini deterministik olarak şifreler ve sonuçları kahinin tercihini bulabilmek için dönen mesajlarla  
+ 
+ 
+ 
+ c 
+ 
+ 
+ {\displaystyle c} 
+ 
+  karşılaştırır.
+
+Anlamsal olarak güvenli şifreleme algoritmaları arasında  Goldwasser-Micali ,  El Gamal  ve  Paillier  sayılabilir. Bu şemalar, anlamsal güvenlikleri bazı zor matematiksel problemlerin (örn.  Decisional Diffie-Hellman  ya da  Quadratic Residuosity Problem  gibi) çözümüne indirgenebileceği için  kanıtlanabilir güvenlik  sunar. Diğer  RSA  gibi anlamsal olmayan güvenli algoritmalar  Optimal Asymmetric Encryption Padding  (OAEP) gibi rastgele şifreleme dolgu şemaları kullanılarak (daha kuvvetli varsayımlar altında) anlamsal güvenli hale getirilebilir.

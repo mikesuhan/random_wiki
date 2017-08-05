@@ -1,0 +1,1 @@
+Core War , oyuncuların karşılıklı, programladıkları  savaşçılarıyla  oynadıkları bir bilgisayar oyunudur. Oyuncular, savaşçılarını bir çeşit  assembly  dili türevi olan  RedCode  ile programlarlar ve MARS (Memory Array Redcode Simulator) adı verilen bir simulatör yardımıyla savaştırırlar.  Windows 'da ise  CoreWin  adlı simulatörle karşılaşmalar yapılabilir.

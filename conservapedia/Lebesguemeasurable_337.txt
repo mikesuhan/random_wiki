@@ -1,0 +1,3 @@
+Lebesgue measurable  sets are those which can be assigned a volume.  The measure of  set A is λ(A).
+
+Non-Lebesgue measurable sets, when combined with the  Axiom of Choice , lead to strange results such as the  Banach-Tarski paradox .

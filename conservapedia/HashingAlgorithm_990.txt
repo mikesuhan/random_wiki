@@ -1,0 +1,7 @@
+In  computing , a  hashing algorithm  is a computational process which takes an input of  bytes  and reduces it to a fixed length base64 string which is unique (within boundaries) to the input. Hashes are mainly used for data integrity, and with further asymmetrical  algorithms , digital signatures.
+
+Hashes are computed by churning down a large size byte array until it reaches the target size. If the initial byte array length is not divisible by the target size then the initial array is buffered with blank bits to ensure the algorithm will compute down to the target length. One important characteristic of hashing algorithms is that the hash should not be reversible.
+
+MD5 became a computing standard  [1]  for hashing but was subsequently found to be insecure [2]  and was replaced with SHA1. MD5 breaks the input up into 512-bit blocks and churns it down into a 128-bit bit hash. For example, the text "The quick brown fox jumps over the lazy dog" would become (base64 encoded):
+
+SHA (Secure Hash Algorithm) is a set of functions for hashing which fixed the problems found in MD5 and has since become the industry standard. SHA1 hashes down to a 160-bit hash. For example, the text "The quick brown fox jumps over the lazy dog" would become (base64 encoded):

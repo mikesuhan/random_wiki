@@ -1,0 +1,363 @@
+Mikroekonomi   ·   Makroekonomi 
+ Ekonomik düşünce tarihi 
+ Metodoloji   ·   Heterodoks
+
+Matematiksel   ·   Ekonometri 
+ Deneysel   ·   Milli muhasebe
+
+Davranışsal   ·   Kültürel   ·   Çevresel 
+ Büyüme   ·   Gelişme   ·   Tarih 
+ Uluslararası   ·   Ekonomiler 
+ Monetarizm   ve   Finansal ekonomi 
+ Kamu   ve   Refah ekonomisi 
+ Sağlık   ·   Çalışma   ·   Yönetimsel 
+ İşletme   ·   Bilgi   ·   Oyun kuramı 
+ Endüstriyel organizasyon   ·   Hukuk 
+ Tarım   ·   Doğal kaynak   ·   Ekolojik 
+ Kent   ·   Kırsal   ·   Bölgesel 
+ Ekonomik coğrafya
+
+Kategoriler  ·  Başlıklar  ·  Ekonomistler
+
+Anarşizm   ·   Kapitalizm 
+ Komünizm   ·   Korporatizm 
+ Faşizm   ·   Solidarizm 
+ Piyasa sosyalizmi   ·   Devletçilik   ·   Merkantilizm 
+ Sanayi korumacılığı    ·   Sosyalizm 
+ Sendika   ·   Üçüncü görüş
+
+Ekonomi  alanındaki başlıklar  Journal of Economic Literature  (JEL) denilen bir makale sınıflandırma sistemiyle sınıflandırılırlar. On dokuz ana kategori bulunmaktadır ve her biri alt kategorilerine ayrılmıştır.
+
+Başlıca kodlar şunlardır:
+
+Metodoloji
+
+Kategori:Genel ekonomi
+
+JEL: A1  - Genel ekonomi
+
+JEL: A2  -  Economics Education and Teaching of Economics
+
+JEL: A3 - Multisubject Collective Works
+
+Kategori:Schools of economic thought and methodology
+
+JEL: B0 - Genel
+
+JEL: B1  -  Ekonomik düşünce tarihi  through 1925
+
+JEL: B2  -  Ekonomik düşünce tarihi  1925'den beri
+
+JEL: B3 - Düşünce tarihi: Kişiler
+
+JEL: B4  -  Ekonomik Metodloji
+
+JEL: B5  -  Mevcut Heterodoks yaklaşımlar
+
+Kategori:Matematiksel ve kantitatif metotlar (ekonomi)
+
+JEL: C0  - Genel
+
+JEL: C1  -  Ekonometri  ve  İstatistiksel metotlar : Genel
+
+JEL: C2  -  Econometric methods: Single equation models;Single variables
+
+JEL: C3  -  Econometric Methods: Multiple or Simultaneous Equation Models
+
+JEL: C4  - Ekonometrik ve istatistiksel metodlar: Özel başlıklar
+
+JEL: C5  -  Ekonometrik Modelleme
+
+JEL: C6  -  Matematiksel Ekonomi  ve  Programlama
+
+JEL: C7  -  Game theory  and  Bargaining theory
+
+JEL: C8  -  Data Collection and Data Estimation Methodology ;  Computer Programs
+
+JEL: C9  -  Deneysel Ekonomi
+
+JEL: D0 - Genel
+
+JEL: D1  -  Hanehalkı Davranışları ve Ev Ekonomisi
+
+JEL: D2  - Üretim ve Organizasyon
+
+JEL: D3  -  Distribution
+
+JEL: D4  -  Piyasa Yapısı ve Fiyatlama
+
+JEL: D5  -  Genel equilibrium  and Disequilibrium
+
+JEL: D6  -  Refah Ekonomisi
+
+JEL: D7  - Analysis of Collective Decision-Making
+
+JEL: D8  -  Information , Knowledge, and Uncertainty
+
+JEL: D9  -  Intertemporal choice  and  Growth
+
+JEL: E -  Macroeconomics  and  Monetary Economics
+
+Kategori:Macroeconomics and monetary economics
+
+JEL: E0 - Genel
+
+JEL: E1 - Genel Aggregative Models
+
+JEL: E2  - Macroeconomics: Consumption, Saving, Production, Employment, and Investment
+
+JEL: E3 - Prices, Business Fluctuations, and Cycles
+
+JEL: E4  - Money and Interest Rates
+
+JEL: E5  - Monetary Policy, Central Banking, and the Supply of Money and Credit
+
+JEL: E6  - Macroeconomic Policy Formation, Macroeconomic Aspects of Public Finance, Macroeconomic Policy, and Genel Outlook
+
+JEL: F -  International Economics
+
+Kategori:International economics
+
+JEL: F0 - Genel
+
+JEL: F1  -  Trade
+
+JEL: F2  - International Factor Movements and International Business
+
+JEL: F3  -  International Finance
+
+JEL: F4  - Macroeconomic Aspects of International Trade and Finance
+
+JEL: G - Financial Economics
+
+Kategori:Financial economics
+
+JEL: G0  - Genel
+
+JEL: G1  - Genel Financial Markets
+
+JEL: G2  -  Financial institutions  and  Services
+
+JEL: G3  -  Corporate finance  and  Governance
+
+JEL: H -  Public Economics
+
+Kategori:Public economics
+
+JEL: H0 - Genel
+
+JEL: H1 - Structure and Scope of Government
+
+JEL: H2  -  Taxation ,  Subsidies , and  Revenue
+
+JEL: H3 - Fiscal Policies and  Behavior of Economic Agents
+
+JEL: H4 -  Publicly provided goods
+
+JEL: H5 - National Government Expenditures and Related Policies
+
+JEL: H6 - National Budget, Deficit, and Debt
+
+JEL: H7 - State and Local Government; Intergovernmental Relations
+
+JEL: H8 - Miscellaneous Issues
+
+JEL: I - Health, Education, and Welfare
+
+Kategori:Health, education, and welfare economics
+
+JEL: I0 - Genel
+
+JEL: I1  -  Health
+
+JEL: I2  -  Education
+
+JEL: I3  - Welfare and Poverty
+
+JEL: J - Labor and Demographic Economics
+
+Kategori:Labor and demographic economics
+
+Kategori:Labor
+
+Kategori:Demographic economics
+
+JEL: J0 - Genel
+
+JEL: J1  -  Demographic Economics
+
+JEL: J2  - Time Allocation, Work Behavior, and Employment Determination and Creation;  Human capital
+
+JEL: J3  -  Wages , Compensation, and Labor Costs
+
+JEL: J4  - Particular Labor Markets
+
+JEL: J5  - Labor–Management Relations, Trade Unions, and Collective Bargaining
+
+JEL: J6  -  Mobility ,  Unemployment , and Vacancies
+
+JEL: J7  - Labor Discrimination
+
+JEL: J8  - Labor Standards: National and International
+
+JEL: K - Law and Economics
+
+Kategori:Law and economics
+
+JEL: K0 - Genel
+
+JEL: K1 - Basic Areas of Law
+
+JEL: K2  - Regulation and Business Law
+
+JEL: K3 - Diğer Substantive Areas of Law
+
+JEL: K4 - Legal Procedure, the Legal System, and Illegal Behavior
+
+Kategori:Industrial organization
+
+JEL: L - Industrial Organization
+
+JEL: L0 - Genel
+
+JEL: L1  - Market Structure, Firm Strategy, and Market Performance
+
+JEL: L2 - Firm Objectives, Organization, and Behavior
+
+JEL: L3 -  Kategori:Non-profit organizations  and  Kategori:Public enterprise
+
+JEL: L4 -  Antitrust  Issues and Policies
+
+JEL: L5 - Regulation and  Kategori:Industrial policy
+
+JEL: L6  - Industry Studies: Manufacturing
+
+JEL: L7 - Industry Studies: Primary Products and Construction
+
+JEL: L8  - Industry Studies: Services
+
+JEL: L9  - Industry Studies: Transportation and Utilities
+
+JEL: M - Business administration and business economics; marketing; accounting
+
+Kategori:Business economics
+
+JEL: M0 - Genel
+
+JEL: M1  - Business Administration
+
+JEL: M2 - Business Economics
+
+JEL: M3  - Marketing and Advertising
+
+JEL: M4  - Accounting and Auditing
+
+JEL: M5 -  Personnel economics
+
+JEL: N -  Economic History
+
+Kategori:Economic history
+
+JEL: N0 - Genel
+
+JEL: N1 - Macroeconomics and Monetary Economics; Growth and Fluctuations
+
+JEL: N2 - Financial Markets and Institutions
+
+JEL: N3 - Labor and Consumers, Demography, Education, Income, and Wealth
+
+JEL: N4 - Government, War, Law, and Regulation
+
+JEL: N5 - Agriculture, Natural Resources, Environment, and Extractive Industries
+
+JEL: N6 - Manufacturing and Construction
+
+JEL: N7 - Transport, International and Domestic Trade, Energy, Technology, and Diğer Services
+
+JEL: N8 - Micro-Business History
+
+JEL: N9 - Regional and Urban History
+
+JEL: O -  Economic Development ,  Technological Change , and  Growth
+
+Kategori:Economic development, technological change, and growth
+
+JEL: O1  -  Economic development
+
+JEL: O2 - Development Planning and Policy
+
+JEL: O3  -  Technological Change ; Research and Development
+
+JEL: O4  - Economic Growth and Aggregate Productivity
+
+JEL: O5  - Economywide Country Studies
+
+JEL: P -  Economic Systems
+
+Kategori:Economic systems
+
+JEL: P0 - Genel
+
+JEL: P1  -  Capitalist Systems
+
+JEL: P2  -  Socialist Systems  and  Transitional Economies
+
+JEL: P3  - Socialist Institutions and Their Transitions
+
+JEL: P4 - Diğer Economic Systems
+
+JEL: P5 -  Comparative Economic Systems
+
+JEL: Q - Agricultural and Natural Resource Economics; Environmental and Ecological Economics
+
+Kategori:Agricultural and natural resource economics; environmental and ecological economics   Kategori:Resource economics
+
+JEL: Q0 - Genel
+
+JEL: Q1  -  Agriculture
+
+JEL: Q2  - Renewable Resources and Conservation
+
+JEL: Q3  - Nonrenewable Resources and Conservation
+
+JEL: Q4  -  Enerji Ekonomisi
+
+JEL: Q5  -  Çevresel Ekonomi
+
+JEL: R -  Kent Ekonomisi ,  Kırsal Ekonomi  ve  Bölgesel Ekonomi
+
+Kategori:Kentsel, Kırsal ve bölgesel ekonomi
+
+JEL: R0 - Genel
+
+JEL: R1  - Genel  Bölgesel ekonomi
+
+JEL: R2 - Hanehalı analizler
+
+JEL: R3 - Üretim analizleri ve Firma yeri
+
+JEL: R4  -  Ulaştırma Ekonomisi
+
+JEL: R5 - Bölgesel yönetim analizi
+
+JEL: Y1 - Data: Tables and Charts
+
+JEL: Y2 - Introductory Material
+
+JEL: Y3 - Book Reviews (unclassified)
+
+JEL: Y4 - Dissertations (unclassified)
+
+JEL: Y5 - Further Reading (unclassified)
+
+JEL: Y6 - Excerpts
+
+JEL: Y8 - JEL: Related Disciplines
+
+JEL: Y9 - Diğer
+
+JEL: Z - Diğer özel başlıklar
+
+JEL: Z0 - Genel
+
+JEL: Z1  -  Kültürel ekonomi ;  Ekonomik sosyoloji ;  Ekonomik antropoloji

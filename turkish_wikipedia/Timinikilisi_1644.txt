@@ -1,0 +1,7 @@
+Timin dimeri  veya  timin ikilisi  bir DNA molekülüne bulunan bitişik iki  timin  bazının,  radyasyon  veya kimyasal  mutajenler  tarafından birbirlerine  kovalent  bağlanmış halidir.  Pirimidin ikilisi  olarak adlandırılan daha genel bir DNA hasar tipinin bir örneğidir. Pirimidin ikilileri, bitişik herhangi iki pirimidin bazı (C,T,U) arasında meydana gelebilir. Timin dimeri DNA'nın yapısında bir çıkıntı yaptığı için [1]   eksizyon tamir  enzimleri bu hasarı tanır ve onarır. Çoğu organizmada (insan gibi  plasentalı memeliler  hariç) DNA  fotoliyazlar  dimeri keserek hasarı onarırlar. [2]
+
+Morötesi ışığın UV-B (315-280 nm dalga boylu) tipi, siklobutan pirimidin dimerleri oluşturarak DNA'ya doğrudan zarar verebilir. [3]  DNA'da meydana gelen bu hasar eğer zamanında onarılmazsa DNA ikileşmesine ve rekombinasyona etki ederek mutasyonlara ve kansere yol açabilir. [3]  Aslında pirimidin ikilileri çok sık meydana gelir, güneş ışığına maruz kalan deri hücrelerinde saniyede 50-100 pirimidin ikilisi oluşur. Timin dimerleri bunların bir tipidir, timin bazları arasında bir cis-syn cyclobutan bağlantısı oluşması ile meydana gelirler. [1]
+
+Timin ikilileri, diğer pirimidin dimerleri gibi, DNA hasar tamir enzimleri tarafından onarılır.
+
+DNA hasarının tamiri sonucu çıkarılan timin dimerleri, deri pigmenti  melanin  sentezi için bir sinyal olarak etkirler. Deneylerde, timin dinükleotiti eklenen hücrelerde melanin sentezinin 7 kat arttığı bulunmuştur, derisine pTpT sürülen deney hayvanlarının derisi birkaç gün içinde  bronzlaşır . [4]

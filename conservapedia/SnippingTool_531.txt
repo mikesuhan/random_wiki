@@ -1,0 +1,3 @@
+The  Snipping Tool  is a program included with the  Windows Vista   operating system  and all later versions so far.  It is screenshot [1]  utility which can not only make an image of the complete area of the screen(s), but also selected portions.
+
+To start this program on you post- Windows XP  system, just click on the Start button, and click All Programs. Then select the Accessories folder, and click on "Snipping Tool." [2]

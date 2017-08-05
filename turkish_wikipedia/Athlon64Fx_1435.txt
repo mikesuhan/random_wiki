@@ -1,0 +1,7 @@
+Athlon 64 Fx ,  AMD  firmasının çıkardığı, piyasada yer alan tek çekirdekli ve en kuvvetli  mikroişlemcisi . Günümüzde kullanılan 32 Bit uygulamalar ile birlikte yeni nesil 64Bit uygulamaları da desteklemektedir. İstisnai durum harici Dual Core mimarisini kullanır. Bunun yanında AMD'nin geliştirdiği, mikroişlemciye yük binmeyen zamanlarda daha sessiz ve serin çalışmasını sağlayan Cool&Quiet teknolojisini de destekler. En performanslı modeli Fx-74 [1]  modelidir. AMD'nin  Intel 'e ciddi olarak rakip olduğu ve performans olarak birçok Intel mikroişlemcisini geride bırakan bir  CPU 'dur. Oyun ve şirket uygulamalarında üstün performans sergiler. Sse, Sse2, Mmx, Mmx2, 3dNow, plus komut setleri yanında hem  i386  standart mimarisini hem de  AMD64  mimarisini destekler ve AMD64 komut seti ve mimarisi lisansı için Intel, AMD şirketine telif ödemektedir.
+
+Çift Çekirde  CPU
+
+Çift Çekirdek  CPU
+
+Çift Çekirdek ,Çift  CPU  (toplam 4 çekirdek)

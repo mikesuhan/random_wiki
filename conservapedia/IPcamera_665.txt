@@ -1,0 +1,9 @@
+IP cameras can be used to record a sporting event or to maintain surveillance of a location.  Typically, the camera operator places the camera and then leaves the camera's location.
+
+IP cameras are trivial to install. The IP cameras are connected to a network, usually with Ethernet  cable  or a wireless connection, and a source of  power . Once they have been powered on and connected, client  software  or a  web browser  can be used to see and hear the camera's output as well as control any additional features such as zoom, panning,  email  alerts, etc.
+
+Most IP camera have some form of web server and several other types of servers as well. The features of these cameras will give you different abilities in controlling the camera or know what is going on with it even when you are not looking at it.
+
+The extensive use of IP cameras is a major issues for  privacy . Many  citizens  have concerns with the fact that countless IP cameras and other surveillance cameras have been install in every major intersection of big  cities  and in innumerable other public places.
+
+In the modern era, rather than a  sentry , the IP camera has become almost indispensable to all modern " fortification " and  security  from  banks , to  government  and  business  offices to  home security  and even  defense landscaping  for  survivalist retreats . A fortified and  secure  location is nearly indefensible without some sort of IP cameras.

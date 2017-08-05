@@ -1,0 +1,3 @@
+The  command locations  for familiar software products can sometimes change, without notice. If you don't know where the new command is, it can be frustrating to try and find it. (Like, what happened to the  Print preview  command in  Microsoft Excel ?)
+
+This online guide is an attempt to list desired commands, and how you can get to them.

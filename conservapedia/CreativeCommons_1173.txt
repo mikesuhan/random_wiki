@@ -1,0 +1,13 @@
+Creative Commons  is a non-profit organization, best known for their publicly reusable licenses, that promote the legal sharing and improvement on creative works. The licenses used do not replace copyright, but rather place a series of "terms-and conditions" that the author may impose on their creative works, instead of using a generic "all rights reserved" policy, resulting in a low-overhead, simple to use license that can be exported almost anywhere. This also differs from the category of  public domain  in that the author reserves some rights to himself by granting such a license.
+
+Various forms of the Creative Commons License are often used. The most common conditions that granting authors place on Creative Commons-licensed work include the following conditions, or combinations thereof:
+
+See:  [1]  and  [2] .
+
+CC-BY-SA  is a license of more than 3,100 words that exists in several different versions (e.g., "3.0").  It was adopted by Wikipedia in 2009 to replace the GFDL, the even more complicated license that Wikipedia was previously using.
+
+Attribution-ShareAlike 3.0 Unported  FULL LICENCE:  [3]
+
+The new  Attribution-ShareAlike 4.0 International  FULL LICENCE:  [4]
+
+The Creative Commons site provides links to repositories of Creative Commons-licensed works. In addition, the multimedia sharing service Flickr advises its users on how to license their work under Creative Commons, if they so desire.

@@ -1,0 +1,5 @@
+In  Weisgram v. Marley Co. , 528 U.S. 440 (2000), a unanimous  U.S. Supreme Court   held that federal trial and appellate courts have the authority to decide, as a matter of law, that judgment should be entered in favor of a verdict loser after unreliable and inadmissible expert testimony is excluded.
+
+Plaintiff in a product liability action won a jury verdict. Defendant argued unsuccessfully before the federal district court that the plaintiff's expert witness testimony was unreliable.  On appeal, defendant argued successfully that expert testimony plaintiff introduced was unreliable, and therefore inadmissible, under the analysis required by  Daubert v. Merrell Dow Pharmaceuticals, Inc. , 509 U.S. 579 (1993).
+
+Once the erroneously admitted expert testimony was excluded, the record evidence is insufficient to justify a plaintiff's verdict. The Supreme Court held that the court of appeals may instruct the entry of judgment as a matter of law for defendant rather than remand the case for consideration of a new trial.

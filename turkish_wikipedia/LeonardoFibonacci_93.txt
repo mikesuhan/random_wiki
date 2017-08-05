@@ -1,0 +1,113 @@
+Leonardo Fibonacci , ( Pisalı Leonardo ,  Leonardo Pisano  d. 1170, ö. 1250), yaygın olarak ismiyle Fibonacci diye anılan, orta çağın en yetenekli matematikçisi olarak kabul edilen  İtalyan  matematikçi.
+
+Fibonacci modern çağda en fazla  Hint-Arap Sayılarını  Avrupa'ya getirmesiyle ve 13. yüzyıl başlarında yayınlanan  Liber Abaci  isimli hesaplama yöntemleri kitabıyla tanınır.  Liber Abaci 'de bir örnek olarak yer alan modern sayılarla hesaplanmış kendi adıyla anılan sayı dizisi  Fibonacci Dizisi  olarak anılmaktadır. [1] [2]  Sadece Fibonacci dizisi ve özellikleri ile ilgili kitaplar hatta haftalık düzenli yayınlanan matematik dergileri bile bulunmaktadır.
+
+Leonardo 1170 yılında İtalya'nın Pisa şehrinde doğdu. Kesin doğum tarihi bilinmemektedir. Babası Guglielmo'dur.Takma adı Bonaccio idi ve bu ad,  iyi tabiatlı  veya  sade ruhlu  anlamına gelmekteydi. Annesi Alessandra,Leonardo 9 yaşındayken öldü. Leonardo babasının takma adını miras olarak aldı. İtalyanca  Filius Bonacci , Bonacci'nin oğlu anlamına gelmekteydi ve Leonardo bu nedenle Fibonacci diye anılmaya başlandı. [3]
+
+Babası Guglielmo Cezayir'in  Béjaïa  limanı ile İtalya'nın  Bugia  kenti arasında bir ticaret postasını idare etmekteydi. Genç bir çocuk olan Leonardo babasına yardım etmek için onunla seyahat ederdi. Burası Leonardo'nun Hint-Arap sayı sistemini öğrendiği yerdir.
+
+Fibonacci Hint-Arap sayıları ile aritmetik işlemler yapmanın Roma rakamları ile hesap yapmaktan çok daha basit ve verimli olduğunu gördü. Leonardo bütün Akdeniz bölgesini gezdi ve dönemin önde gelen Arap matematikçiler ile çalışma olanağı buldu. Leonardo yaklaşık olarak 1200 yıllarında bu seyahatinden döndü. 1202 yılına gelindiğinde 32 yaşında, öğrendiklerini  " abaküs  kitabı"  veya  "hesaplama kitabı"  anlamına gelen  Liber Abaci  isimli eserinde topladı. Yayınladığı bu eserinde Hint-Arap Sayı Sistemi'ni Avrupa'ya duyurdu.
+
+Leonardo matematik ve bilim ile ilgilenmeyi seven Roma İmparatoru II. Frederick ile dost oldu. 1240 senesinde Pisa cumhuriyeti kendisini Leonardo Bigollo namıyla taltif edip onurlandı ve maaş bağlandı. [4]  19. yüzyılda Pisa'da Fibonacci heykeli yapılmış ve buraya dikilmiştir. Heykel bugün Camposanto'nun batı galerisinde ve Piazza dei Miracoli tarihi mezarlığında bulunmaktadır. [5]
+
+Liber Abaci'de (1202) Fibonacci,  modus indium  (Hintlerin Yöntemi) adını verdiği ve günümüzde Arap-Hint sayıları diye bilinen modern ondalık sayı sistemini tanıtır. Bu kitap gündelik hayatta ticari defter tutma, ölçü birimlerini çevirme, faiz hesaplama, para bozma ve değiştirme ve benzeri işlemlerde önemini göstermiştir. Kitap Avrupa'da tahsilli insanlar arasında hızlı bir şekilde yayılmış ve Avrupa'nın müspet bilimde ilerlemesine önemli etkileri olmuştur.
+
+Liber Abaci'de ayrıca kapalı bir ortamdaki bir tavşan ailesinin artışını, her tavşan çiftinin bir ay sonra bir yavru yapıp onun da 1 ay sonra 1 yavru yapacağı gibi ideal varsayımlar altında hesaplanmasını gösterir. Bu problemin çözümünde tavşan çiftlerinin sayısının artışını gösteren sayı dizisi Fibonacci sayıları,  diziye  de Fibonacci dizisi denir. Bu sayı dizisi 6. yüzyıldan beridir Hint matematikçiler tarafından bilinmekteydi ancak Avrupa'ya ilk olarak Fibonacci tarafından tanıtılmıştır. [6] [7]
+
+Daha önce 6. yüzyılda Hint matematikçiler tarafından bulunmuş olan bu sayı dizisi Liber Abaci kitabında tavşanların üremesiyle ilgili problemin hesaplanması sonucu Fibonacci tarafından 1202 yılında ortaya konmuştu. Dizinin ilk sayı değeri 0, ikincisi 1 ve her ardışık elemanı da önceki iki elemanın değerinin toplamı alınarak bulunur ve bu halde 0, 1, 1(1+0), 2(1+1), 3(2+1), 5(3+2), 8(5+3), 13(8+5),21(13+8)... şeklinde artar.  
+ 
+ 
+ 
+ 
+ F 
+ 
+ n 
+ 
+ 
+ = 
+ 
+ 
+ { 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ if  
+ 
+ n 
+ = 
+ 0 
+ ; 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ if  
+ 
+ n 
+ = 
+ 1 
+ ; 
+ 
+ 
+ 
+ 
+ 
+ F 
+ 
+ n 
+ − 
+ 1 
+ 
+ 
+ + 
+ 
+ F 
+ 
+ n 
+ − 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ if  
+ 
+ n 
+ > 
+ 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle F_{n}={\begin{cases}0&{\mbox{if }}n=0;\\1&{\mbox{if }}n=1;\\F_{n-1}+F_{n-2}&{\mbox{if }}n>1.\\\end{cases}}}
+
+Bu dizinin ileri elemanlarında, bir sonraki elemanın bir öncekine oranı  Altın oran  adı verilen ve yaklaşık 1,618 (1:0,618) değerine eşit bir sayıyı verir.
+
+Altın oran matematikte genellikle  
+ 
+ 
+ 
+ φ 
+ 
+ 
+ 
+ {\displaystyle \varphi \,} 
+ 
+  harfi ile gösterilir.
+
+Tabiattaki canlılarda uzuvların oranı  altın oran  adı verilen 1.618... sayısına uygunluk gösterir. Antik mimari eserler ve bazı modern mimari eserler bu orana uygun tasarlanırlar. Altın orana uygun ölçülerdeki nesnelerin ve canlıların daha  estetik  olduğu ve  güzel  göründüğü savunulur.
+
+Ayçiçeğinin merkezinden dışarıya doğru sağdan sola ve soldan sağa doğru taneler sayıldığında çıkan sayılar Fibonacci Dizisinin ardışık terimleridir. Papatya Çiçeğinde de ayçiçeğinde olduğu gibi bir Fibonacci Dizisi mevcuttur. Fibonacci dizisinde ardışık elemanlar bir önceki elamanın oranındaki ardışık terimlerin farkıyla oluşan dizi de Fibonacci dizisidir. Ömer Hayyam üçgenindeki tüm katsayılar veya terimler yazılıp çapraz toplamları alındığında Fibonacci Dizisi ortaya çıkar. Çam kozalağındaki taneler kozalağın altındaki sabit bir noktadan kozalağın tepesindeki başka bir sabit noktaya doğru spiraller (eğriler) oluşturarak çıkarlar. İşte bu taneler soldan sağa ve sağdan sola sayıldığında çıkan sayılar, Fibonacci Dizisi'nin ardışık terimleridir. Bitkilerin yapraklarının dizilişinde bir Fibonacci Dizisi söz konusudur; yani yaprakların diziliminde bu dizi mevcuttur.  Mimar Sinan 'ın da birçok eserinde Fibonacci dizisi görülmektedir. Mesela  Süleymaniye  ve  Selimiye Camileri'nin  minarelerinde bu dizi mevcuttur. [ kaynak belirtilmeli ]

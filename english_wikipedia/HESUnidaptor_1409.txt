@@ -1,0 +1,15 @@
+The  HES Unidaptor  is a video game adapter which allows any  Nintendo Entertainment System  (NES) console game to be operated on any NES hardware despite the  10NES  region security chip. It was developed by  Australian  company  Home Entertainment Suppliers   Pty. Ltd.  (HES). Two models were released: the  HES Unidaptor  and the  HES Unidaptor MKII . Neither version is compatible with the original  Japanese   Famicom .
+
+Nintendo , in an attempt to prevent companies releasing an unlicensed Nintendo game (which is not illegal to do), in later revisions of their hardware locked out these titles. To circumvent this, HES developed a bypass  technology  called the 'Piggy Back' or 'Dongle' game, where you could insert an officially licensed NES  cartridge  into the back of a HES game and it operated using the country code of the official title. This was so successful HES also used this technology to build a converter to bypass the 10NES security protocol entirely, released as the HES Unidaptor.
+
+Other companies have released similar products but none that allows the conversion of all NES games onto all NES hardware.
+
+The original HES Unidaptor is quite a bulky device with a cartridge that slips into the NES unit, and straps over the top of the NES. The component that lies atop of the NES has three slots.
+
+Slot 1  is the  master  slot which is where the user inserts an official licensed NES game compatible with the NES hardware so that the 10NES chip can read the country code from the master's  EPROM . The others,  Slot 2  and  Slot 3  (called the  slaves ), allowed the user to insert either a 72-pin  NTSC / PAL  cartridge to play or a 60-pin Famicom respectively.
+
+When the NES was switched on it read the security code from the local licensed title, and then executed the  code  on the slave’s cartridge. Because its connector to the NES was only made with a 72-pin configuration, this unit was only compatible with American, European, Australian and New Zealand NES machines. However it was still able to play 60-pin Japanese Famicom games on those systems.
+
+A more refined and cheaper version was released that was more similar in appearance to HES games. It was simply a cartridge that slotted into the NES, which had two 'Piggy back' slots (the bottom being the master and the top being the slave).
+
+This unit only supported 72-pin NTSC/PAL cartridges.

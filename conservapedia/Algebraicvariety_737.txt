@@ -1,0 +1,5 @@
+Formally, an  algebraic variety   V  over a  ring   K  is defined as the set of all points in   satisfying a system of  polynomial  equations with  coefficients  in  K .
+
+This has an easy intuitive definition: a variety is just the set of points where some polynomial(s) in several variables vanishes.  Many familiar spaces are examples of algebraic varieties:
+
+Varieties are one of the primary objects of study of  algebraic geometry .  It is useful to group all of these objects together instead of studying each one separately, because many theorems can be proved about all varieties at once.  For example, you may know that two  conic sections  (for example, two ellipses) generally intersect at four distinct points.  You can also draw a graph and be convinced that the graphs of two cubics intersect at 9 distinct points.  Bezout's theorem, a result about algebraic varieties in general, gives a way to compute the number of intersections of two varieties in terms of the degree of the polynomials of which they are zero sets.  So both of these familiar facts are just cases of Bezout's theorem!

@@ -1,0 +1,225 @@
+A  side reaction  is a  chemical reaction  that occurs at the same time as the actual main reaction, but to a lesser extent. It leads to the formation of  by-product , so that the  yield  of main product is reduced: [1]
+
+A 
+ + 
+ B 
+   
+ 
+ 
+ → 
+ 
+ 
+ k 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ P 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle \mathrm {A+B\ {\xrightarrow {k_{1}}}\ P_{1}} }
+
+A 
+ + 
+ C 
+   
+ 
+ 
+ → 
+ 
+ 
+ k 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ P 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle \mathrm {A+C\ {\xrightarrow {k_{2}}}\ P_{2}} }
+
+P 1  is the main product if k 1 > k 2 . The by-product P 2  is generally undesirable and must be  separated  from the actual main product (usually in a  costly process ).
+
+B and C from the above equations usually represent different  compounds . However, they could also just be different positions in the same molecule.
+
+A side reaction is also referred to as competing reaction [2] [3]  when different compounds (B, C) compete for another reactant (A). If the side reaction occurs about as often as the main reaction, it is spoken of parallel reactions [4]  (especially in the kinetics, see below).
+
+Also there may be more complicated relationships: Compound A could reversibly but quickly react to substance B (with speed k 1 ) or irreversible but slow (k 1 > k −1  >> k 2 ) to substance C:
+
+B 
+   
+ ⇌ 
+   
+ A 
+   
+ 
+ 
+ → 
+ 
+ 
+ k 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 
+ 
+ {\displaystyle \mathrm {B\ \rightleftharpoons \ A\ {\xrightarrow {k_{2}}}C} }
+
+Assuming that the reaction to substance C is irreversible, as it is thermodynamically very stable. In this case, B is the kinetic and C is the thermodynamic product of the reaction (see also  here ). [5] [6] [7]  If the reaction is carried out at low temperatures and stopped after a short time, it is spoken of kinetic control, primarily the kinetic product B would be formed. When the reaction is carried out at high temperatures and for long time (in which case the necessary activation energy for the reaction to C is available, which is progressively formed over time), it is spoken of thermodynamic control; the thermodynamic product C is primarily formed.
+
+In organic synthesis, elevated  temperatures  usually lead to more side products. Side products are usually undesirable, therefore low temperatures are preferred ("mild conditions"). The ratio between competing reactions may be influenced by a change in temperature because their  activation energies  are different in most cases. Reactions with high activation energy can be stronger accelerated by an increase in temperature than those with low activation energy. Also the state of  equilibrium  depends on temperature. [8]
+
+Detection reactions  can be distorted by side reactions.
+
+Side reactions are also described in the  reaction kinetics , a  branch  of  physical chemistry . Side reactions are understood as  complex reaction , since the overall reaction (main reaction + side reaction) is composed of several (at least two)  elementary reactions . [9]  Other complex reactions are competing reactions, parallel reactions, consecutive reactions, chain reactions, reversible reactions, etc. [10] [10] :280–291
+
+If one reaction occurs much faster than the other one (k 1  > k 2 ), it (k 1 ) will be called the main reaction, the other one (k 2 ) side reaction. If both reactions roughly of same speed (k 1  ≅ k 2 ) is spoken of parallel reactions. [4]
+
+If the reactions  
+ 
+ 
+ 
+ 
+ A 
+ + 
+ B 
+   
+ 
+ 
+ → 
+ 
+ 
+ k 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ P 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle \mathrm {A+B\ {\xrightarrow {k_{1}}}\ P_{1}} } 
+ 
+  and  
+ 
+ 
+ 
+ 
+ A 
+ + 
+ C 
+   
+ 
+ 
+ → 
+ 
+ 
+ k 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ P 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle \mathrm {A+C\ {\xrightarrow {k_{2}}}\ P_{2}} } 
+ 
+  are irreversibly (without reverse reaction), then the ratio of P 1  and P 2  corresponds to the relative reactivity of B and C compared with A:
+
+[ 
+ 
+ P 
+ 
+ 1 
+ 
+ 
+ ] 
+ 
+ 
+ [ 
+ 
+ P 
+ 
+ 2 
+ 
+ 
+ ] 
+ 
+ 
+ 
+ = 
+ 
+ 
+ 
+ 
+ k 
+ 
+ 1 
+ 
+ 
+ [ 
+ B 
+ ] 
+ 
+ 
+ 
+ k 
+ 
+ 2 
+ 
+ 
+ [ 
+ C 
+ ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ {\displaystyle \mathrm {{\frac {[P_{1}]}{[P_{2}]}}={\frac {k_{1}[B]}{k_{2}[C]}}} }

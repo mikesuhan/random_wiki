@@ -1,0 +1,35 @@
+Video oyunu türleri  belirlenirken sınıflandırmada  video oyunlarının  oynanış tarzları esas alınır. Lakin bu sınıflandırma her zaman tutarlı veya sistematik bir yol izlememiştir. Bunun nedeni kriterlerin, ayrımı yapan kişi ya da kuruma göre farklılık göstermesidir. Tümüyle akademik çalışmaların yürütülmemesinden ötürü kimi zaman keyfi isimlendirmeler de söz konusudur. Buna rağmen dünya genelinde benimsenmiş tür kalıpları da mevcuttur.
+
+Oyun türleri kullanıcıların farklı beklentilerini karşılamak üzere türetilmiştir. Oyun türlerinin belirlenmesi zamanla daha da belirginleşmiş ve belli başlıklar altında gruplandırılabilmiştir. Tabi oyun türlerinin gruplandırılmasında araştırmacılar arasında kesin bir görüş birliği yoktur. Bu konuda birden fazla sınıflandırma yapılmıştır.
+
+Kabaca aksiyon filmlerinin dengi gibi düşünülebilir. Bol hareket ve hız içerir. Savaş ve şiddet unsurları da içerebilir. Bu terim, birinci şahıs nişancı oyun türüne eş değer olarak da kullanılır. Örnek olarak;  Metro: Last Light ,  Half-Life ,  Crysis  verilebilir.
+
+Macera oyunları araştırma, keşif, bulmaca çözme gibi unsurları içeren, hikâyeye odaklı bir çeşit video oyunu türüdür. Bu türün bilgisayar platformunda örneği çoğunlukta olsa da konsol temelli macera oyunları da mevcuttur. Örnek olarak;  Uncharted 3: Drake's Deception ,  Tomb Raider (seri) ,  God of War  verilebilir.
+
+Bu tür oyunlarda oyuncular belli bir karaktere veya oyunda sunulan seçeneklerden birine bürünerek dövüşerek oynanır.Örnek olarak;  Mortal Kombat ,  Street Fighter ,  Tekken (seri) ,  Soul Calibur  verilebilir.
+
+Bilgisayar Oyunları tarihinde önemli bir yer tutan platform oyunları genelde oyuna konu olan kahramanın çeşitli engeller üzerinden geçirilerek bölümün tamamlanması ve bir sonraki bölüme geçilmesi üzerine kurulmuş bir algoritmaya dayanır.  Super Mario Bros.  en büyük örneğidir
+
+Bilmece; Yanıtlanması için sorulan şaşırtıcı ve eğlendirici sorulara bilmece adı verilir.  [ kaynak belirtilmeli ]
+
+Oyuncunun mantıksal ya da kavramsal problemler çözmesini gerektiren oyunlara  bulmaca oyunu  denir. Oyunların amacı genellikle farklı tipte nesneleri kullanarak istenen bir  örüntüyü  oluşturmaktır.  Tetris ,  2048  ve  Portal  bu türün bazı örnekleridir.
+
+Simulasyon oyunları gerçeğe yakın oyunlardır. ör. train simulator, bus simulator vb...
+
+Oyuncu belli bir durumda bir karakterin rolünü üstlenir. Var olan bilgi ve kaynakları kullanarak bu karakterin başına gelen sorunları çözmeye çalışır. Örnek olarak  Dragon Age: Origins ,  The Elder Scrolls V: Skyrim  verilebilir
+
+Bu tür oyunlar daha çok bir spor alanından taklit ederek hazırlanmış bir platformdur. Bu tür oyunlarda spor türüne göre dallanma meydana gelmiştir. Örnek olarak futbol, basketbol, ralli oyunları örnek olarak gösterilebilir. Bu tür oyunlar daha çok klavye yetenek gerektiren ve daha çok oynanmaları gerçeği simule etmesi kişilerin daha çok isteklerini ve beğenilerini toplamıştır.
+
+İkiye ayırmak mümkündür. Gerçek zamanlı strateji oyunları (İngilizce: ``real-time strategy [RTS]’’), oyuncuların birbirlerinin sırasını beklemeden devamlı olarak karşılıklı oynamaya devam ettikleri bilgisayar oyunları. Bunun aksi olarak sıra tabanlı strateji oyunları vardır. Sıra tabanlı oyunlarda oyuncular hamle yapabilmek için karşı tarafın hamlesini beklemek zorundadırlar.
+
+Strateji oyunlarına en bilinen örnek satrançtır. Bunun yanında Dune 2, Tycoon Serisi, Warcraft, Starcraft, Age Of Empires v.b.örnekleri verilebilir.
+
+Mantık oyunları oyuncunun belli mantık hesaplamaları yaparak ilerleme sağlayabildiği oyunlardır. [ kaynak belirtilmeli ]
+
+Çevrimiçi oyunlar internet üzerinden katılıp online olarak oynanabilen oyunlardır. Uzman Bilgisayar ve bazı taşınabilir çoklu ortam aygıtları ile, bir ya da birden fazla kişinin, genel ağa (internet) bağlanarak bilgisayar oyunları oynanması paylaşımına "çevrim içi oyun" denir. Örnek; World of Warcraft, Knight Online, Metin2
+
+Oyunlar yukarıda belirtiler türler içerisinden tek bir tür özelliği de içerebilir, bu türlerin birkaçının kombinasyonu özelliği de taşıyabilir. [ kaynak belirtilmeli ]
+
+Eğitsel oyunlar özellikle eğitim amaçlı tasarlanmış oyunlardır. Bu tür oyunlarla öğretilmek istenen bilgi veya davranış oyunun içine katılarak öğrencinin öğrenmesi sağlanır. Bu oyunlarda bazen soru cevap şeklinde öğretilen bilgi bazen de oyunun içinde tur atlamak vb aktiviteleri gerçekleştirmek için bilinmesi gereken bilgiler olarak verilebilir. Bunların dışında oyunda öğrenciye farkında bile olmadan öğreten oyunlar da vardır.
+
+Eğitsel oyunların okullardaki derslere yardımcı olması için de tasarlananları vardır. Dolayısıyla bu tür oyunlar okul müfredatına bağlı hazırlanabilir.

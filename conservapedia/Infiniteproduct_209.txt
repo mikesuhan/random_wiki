@@ -1,0 +1,11 @@
+An  infinite product
+
+of a  sequence  of terms  a 1 ,  a 2 ,  a 3 , ... is defined to be the  limit  of the partial products  a 1 a 2 ... a n  as  n  goes to infinity.  The infinite product converges if and only if the infinite sum   converge.
+
+Karl Weierstrass  proved that every  entire function   f ( z ) with a sequence (λ n ) of zeros that does not  accumulate , can be factored into an infinite product of the form:
+
+where  m  is the multiplicity of the zero of  f ( z ) at the origin, and φ( z ) is some  entire function .
+
+One spectacular result of the  Weierstrass Factorization Theorem  is the representation of the  Riemann Zeta function    as a product over its non-trivial zeros  n , known as the  Hadamard Product :
+
+where   is the  Euler-Mascheroni constant  and   is the  Gamma function . [1]

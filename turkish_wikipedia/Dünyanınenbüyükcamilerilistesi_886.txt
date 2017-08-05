@@ -1,0 +1,1 @@
+Bu liste dünyanın en büyük camilerini listelemektedir. Kriter olarak en az 5000 kişilik cemaat kapasitesine sahip camiler listeye alınmıştır.

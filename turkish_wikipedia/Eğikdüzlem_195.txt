@@ -1,0 +1,24 @@
+Eğik düzlem , iki ucu arasında  yükseklik  farkı bulunan  yüzey .
+
+Tarih öncesi  çağlardan beri çeşitli işlerin yapılması için eğik düzlem kullanıldı. Günlük hayatta, uygulanan kuvveti azaltarak işlerin yapımını kolaylaştırmayı sağlayan basit makinelerdendir. Yükü belli bir yüksekliğe kaldırmak için kullanılır. Kuvvetten kazanç sağlanırken yoldan kayıp vardır.
+
+Eğik düzlemde  sürtünme  önemsiz ise kuvvet kazancı; 
+ kuvvet x eğik düzlem boyu = yük x yükseklik 
+formülü ile hesaplanır.
+
+Ağır yükleri belli yüksekliğe kaldırmak zor olduğu zaman eğik düzlem yardımıyla yükten daha az bir kuvvet ile cisimler istenilen yüksekliğe çıkarılabilir.
+
+Sürtünmeler önemsiz ise, eğik düzlemde iş prensibi geçerlidir.
+
+Kuvvet . Kuvvet yolu = Yük . Yük yolu
+
+F 
+ . 
+ l 
+ = 
+ P 
+ . 
+ h 
+ 
+ 
+ {\displaystyle F.l=P.h}

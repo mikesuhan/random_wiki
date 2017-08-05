@@ -1,0 +1,6 @@
+A  decimal  is a way to express  fractions . A whole number is placed to the left of the decimal point (also called period or full stop). Digits to the right of the decimal indicate a fraction of a whole, as in tenths, hundredths, thousandths and so on.
+
+The most frequent use of decimals is with money. $1.23 means 1 dollar and 23 cents, where each  cent  is 1/100 of a dollar. Half a dollar is $0.50, meaning 50/100 of a dollar. An American " quarter " is .25 of a dollar, equal to 25/100 of a dollar or 25 cents.
+
+When writing decimals less than 1, a 0 does not have to be placed on the left side of the decimal point.
+While not necessary in general usage, proper usage of zeros is essential in chemistry and physics where  significant figures  apply. A dash over the final digit (or digits) indicates that digit repeats infinitely, or without ending. Such cases are referred to as repeating decimals.
